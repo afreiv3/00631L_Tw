@@ -1,33 +1,32 @@
 {
-  "date": "2026-09-09",
-  "generated_at": "2026-09-09 12:47",
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10 12:48",
   "model": "gemini-2.5-flash",
   "factors": {
-    "sector": 5.0,
-    "macro": 3.0,
-    "trend": 4.0
+    "sector": 3.0,
+    "macro": 2.0,
+    "trend": 3.0
   },
-  "ai_sentiment_index": 30.0,
-  "summary": "美國股市因AI擔憂和油價上漲而下跌，聯準會升息預期增強，全球風險情緒升高。",
+  "ai_sentiment_index": 20.0,
+  "summary": "由於油價突破每桶100美元，加上中東衝突和全球央行升息預期，導致美國股市下跌，整體市場面臨較高的系統性風險。",
   "news_zh": [
-    "標普500指數因AI擔憂拖累軟體股而下跌。",
-    "美國公債市場持續受到關注，殖利率逼近5%。",
-    "OpenAI推出AI晶片設計服務，宣稱具成本優勢。",
-    "美國股指期貨走勢平淡，油價逼近100美元，聯準會升息預期上升。",
-    "道瓊期貨下跌，油價上漲，蘋果、通膨和聯準會升息前景受關注。",
-    "聯準會前主席表示，美國有望成為AI競賽的「大贏家」。"
+    "S&P 500指數收跌，因油價突破每桶100美元。",
+    "歐洲央行準備升息，伊朗戰爭加劇通膨擔憂。",
+    "日本央行預計本月將升息至1.25%，且升息速度將快於預期。",
+    "道瓊和那斯達克指數下跌，因油價飆升至100美元，黃金價格也上漲。",
+    "美國股市在期中選舉前，面對衝擊的脆弱性增加。"
   ],
   "news": [
-    "[Reuters] S&P 500 falls as AI worries hit software makers - Reuters - S&P 500 falls as AI worries hit software makers&nbsp;&nbsp;Reuters",
-    "[Reuters] COMMENTARY: Unloved, but unbroken — the US bond market is working as it should - Reuters - COMMENTARY: Unloved, but unbroken — the US bond market is working as it should&nbsp;&nbsp;Reuters",
-    "[Reuters] OpenAI offers AI for chip design, touts cost advantage over open-source, CFO says - Reuters - OpenAI offers AI for chip design, touts cost advantage over open-source, CFO says&nbsp;&nbsp;Reuters",
-    "[Reuters] Five spots to watch as the bond market creeps up on 5% - Reuters - Five spots to watch as the bond market creeps up on 5%&nbsp;&nbsp;Reuters",
-    "[Reuters] Breakingviews - COMMENTARY: Banking mega-merger is glum news for side hustles - Reuters - Breakingviews - COMMENTARY: Banking mega-merger is glum news for side hustles&nbsp;&nbsp;Reuters",
-    "[Reuters] Thailand to provide $1.5 billion for rooftop solar scheme starting mid-October, finance minister says - Reuters - Thailand to provide $1.5 billion for rooftop solar scheme starting mid-October, finance minister says&nbsp;&nbsp;Reuters",
-    "[Reuters] India's NSE likely to price IPO at 1,700-1,785 rupees per share, source says - Reuters - India's NSE likely to price IPO at 1,700-1,785 rupees per share, source says&nbsp;&nbsp;Reuters",
-    "[Reuters] London shares inch lower as oil rally fuels inflation concerns - Reuters - London shares inch lower as oil rally fuels inflation concerns&nbsp;&nbsp;Reuters",
-    "[Semis] Figure Technology Solutions Rings the Nasdaq Stock Market Opening Bell - Nasdaq - Figure Technology Solutions Rings the Nasdaq Stock Market Opening Bell&nbsp;&nbsp;Nasdaq",
-    "[Semis] U.S. stock futures muted as oil nears $100, Fed hike bets rise - Investing.com - U.S. stock futures muted as oil nears $100, Fed hike bets rise&nbsp;&nbsp;Investing.com"
+    "[Reuters] S&P 500 ends down as oil tops $100 per barrel - Reuters - S&P 500 ends down as oil tops $100 per barrel&nbsp;&nbsp;Reuters",
+    "[Reuters] ECB set to hike as Iran war fuels fresh inflation fears - Reuters - ECB set to hike as Iran war fuels fresh inflation fears&nbsp;&nbsp;Reuters",
+    "[Reuters] COMMENTARY: With yen surging, what will fund FX carry trades now?: McGeever​ - Reuters - COMMENTARY: With yen surging, what will fund FX carry trades now?: McGeever​&nbsp;&nbsp;Reuters",
+    "[Reuters] Fearless US stock market vulnerable to shocks as midterms loom - Reuters - Fearless US stock market vulnerable to shocks as midterms loom&nbsp;&nbsp;Reuters",
+    "[Reuters] India markets regulator proposes easing board rules for stock exchanges, other market institutions - Reuters - India markets regulator proposes easing board rules for stock exchanges, other market institutions&nbsp;&nbsp;Reuters",
+    "[Reuters] India lifts ban on JPMorgan unit, broker in market-manipulation case, sources say - Reuters - India lifts ban on JPMorgan unit, broker in market-manipulation case, sources say&nbsp;&nbsp;Reuters",
+    "[Reuters] Indian shares open flat as Mideast conflict keeps oil above $100 - Reuters - Indian shares open flat as Mideast conflict keeps oil above $100&nbsp;&nbsp;Reuters",
+    "[Reuters] BOJ to raise rates to 1.25% this month, reach 1.75% faster than expected - Reuters - BOJ to raise rates to 1.25% this month, reach 1.75% faster than expected&nbsp;&nbsp;Reuters",
+    "[Semis] EXL Rings the Nasdaq Stock Market Opening Bell - Nasdaq - EXL Rings the Nasdaq Stock Market Opening Bell&nbsp;&nbsp;Nasdaq",
+    "[Semis] Stock Market Today: Dow and Nasdaq Drop as Oil Hits $100, Gold price at $ 4,399 - Eurasia Business News - Stock Market Today: Dow and Nasdaq Drop as Oil Hits $100, Gold price at $ 4,399&nbsp;&nbsp;Eurasia Business News"
   ],
   "debug_error": ""
 }
