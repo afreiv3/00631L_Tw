@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09 13:54 (Taipei)",
+  "updated": "2026-09-10 09:00 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -2549,6 +2549,77 @@
         "avg_cost": 37.96,
         "unrealized": -3605,
         "unrealized_pct": -1.25,
+        "trades": 10,
+        "wins": 3,
+        "win_rate": 30.0,
+        "realized_pnl": -37923
+      }
+    },
+    {
+      "date": "2026-09-10",
+      "time": "09:00",
+      "price": null,
+      "score": 48,
+      "zone": "amber",
+      "quant_sum": 30,
+      "ai_sum": 18,
+      "ai_ok": true,
+      "factors": {
+        "pattern": {
+          "pts": 10.0,
+          "max": 20,
+          "note": "盤中資料缺，型態以中性計"
+        },
+        "sector": {
+          "pts": 8,
+          "max": 20,
+          "note": "美股三指連三跌，Samsung業績衝擊引發半導體板塊性賣壓；SOX 9/9具體數據查不到以中性計；TSM ADR 9/9走勢待確認，整體半導體隔夜分歧偏弱"
+        },
+        "entry": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "區間資料缺，以中性計"
+        },
+        "volume": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "量能資料缺，以中性計"
+        },
+        "vwap": {
+          "pts": 5.0,
+          "max": 10,
+          "note": "VWAP 資料缺，以中性計"
+        },
+        "macro": {
+          "pts": 3,
+          "max": 10,
+          "note": "美10年期殖利率升至4.857%創2023年11月以來新高、WTI油價$94+、FOMC 9/16升息概率~60%、今日PPI為關鍵事件，系統性風險明確偏高"
+        },
+        "trend": {
+          "pts": 7,
+          "max": 10,
+          "note": "台股加權9/9收47,194.95（+0.19%），穩守季線（約44,800）上方約2,395點，中期多頭結構完好；但美股連跌壓力需觀察，稍扣分"
+        }
+      },
+      "paper": {
+        "cash": 673056,
+        "equity": 673056,
+        "market_value": 0,
+        "return_pct": -32.69,
+        "holding": true,
+        "position": {
+          "shares": 7603,
+          "entry_price": 37.96,
+          "entry_date": "2026-09-08",
+          "entry_time": "11:45",
+          "cost": 289021.15,
+          "entry_score": 70,
+          "frac": 0.3
+        },
+        "shares": 7603,
+        "avg_cost": 37.96,
+        "unrealized": -289021,
+        "unrealized_pct": -100.0,
         "trades": 10,
         "wins": 3,
         "win_rate": 30.0,
