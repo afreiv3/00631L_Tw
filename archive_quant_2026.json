@@ -2558,8 +2558,8 @@
     },
     {
       "date": "2026-09-10",
-      "time": "10:00",
-      "price": 36.85,
+      "time": "10:15",
+      "price": 36.89,
       "score": 53,
       "zone": "amber",
       "quant_sum": 35,
@@ -2577,19 +2577,19 @@
           "note": "美股三指連三跌，Samsung業績衝擊引發半導體板塊性賣壓；SOX 9/9具體數據查不到以中性計；TSM ADR 9/9走勢待確認，整體半導體隔夜分歧偏弱"
         },
         "entry": {
-          "pts": 7.5,
+          "pts": 0,
           "max": 15,
-          "note": "現價在區間中段(62%)"
+          "note": "現價在區間上緣(75%) → 屬追高"
         },
         "volume": {
-          "pts": 7.5,
+          "pts": 15,
           "max": 15,
-          "note": "推估量約均量1.6倍 → 偏離"
+          "note": "推估量約均量1.3倍 → 正常"
         },
         "vwap": {
           "pts": 10,
           "max": 10,
-          "note": "現價在VWAP之上(+0.08%) → 有利"
+          "note": "現價在VWAP之上(+0.17%) → 有利"
         },
         "macro": {
           "pts": 3,
@@ -2604,9 +2604,9 @@
       },
       "paper": {
         "cash": 673056,
-        "equity": 953227,
-        "market_value": 280171,
-        "return_pct": -4.68,
+        "equity": 953531,
+        "market_value": 280475,
+        "return_pct": -4.65,
         "holding": true,
         "position": {
           "shares": 7603,
@@ -2619,8 +2619,8 @@
         },
         "shares": 7603,
         "avg_cost": 37.96,
-        "unrealized": -8851,
-        "unrealized_pct": -3.06,
+        "unrealized": -8546,
+        "unrealized_pct": -2.96,
         "trades": 10,
         "wins": 3,
         "win_rate": 30.0,
