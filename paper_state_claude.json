@@ -9,7 +9,7 @@
   "profit_stage_1_done": false,
   "profit_stage_2_done": false,
   "trailing_mode": false,
-  "current_target_exposure": 0.5,
+  "current_target_exposure": 0.8,
   "realized_pnl": 0.0,
   "frenzy_days": 0,
   "ma20_break_days": 0,
@@ -20,5 +20,5 @@
   "last_action": "BUY",
   "last_action_reason": "DATA_INVALID_NO_TRADE",
   "trades": 1,
-  "updated": "2026-09-10 12:45"
+  "updated": "2026-09-10 13:00"
 }
