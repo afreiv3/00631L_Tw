@@ -2629,18 +2629,18 @@
     },
     {
       "date": "2026-09-11",
-      "time": "09:30",
-      "price": 36.0,
-      "score": 58,
+      "time": "09:45",
+      "price": 35.88,
+      "score": 43,
       "zone": "amber",
-      "quant_sum": 40,
+      "quant_sum": 25,
       "ai_sum": 18,
       "ai_ok": true,
       "factors": {
         "pattern": {
-          "pts": 20,
+          "pts": 10.0,
           "max": 20,
-          "note": "現價守在開盤之上(開-3.1%) → 有利"
+          "note": "開-3.1%、小幅回落，型態中性"
         },
         "sector": {
           "pts": 10,
@@ -2650,17 +2650,17 @@
         "entry": {
           "pts": 15,
           "max": 15,
-          "note": "現價近今日低點(區間30%) → 接近支撐"
+          "note": "現價近今日低點(區間0%) → 接近支撐"
         },
         "volume": {
           "pts": 0,
           "max": 15,
-          "note": "推估量約均量3.2倍 → 爆量(疑換手/出貨)"
+          "note": "推估量約均量3.4倍 → 爆量(疑換手/出貨)"
         },
         "vwap": {
-          "pts": 5.0,
+          "pts": 0,
           "max": 10,
-          "note": "現價貼近VWAP(-0.07%)"
+          "note": "現價在VWAP之下(-0.33%) → 弱勢"
         },
         "macro": {
           "pts": 0,
@@ -2674,28 +2674,20 @@
         }
       },
       "paper": {
-        "cash": 673056,
-        "equity": 946764,
-        "market_value": 273708,
-        "return_pct": -5.32,
-        "holding": true,
-        "position": {
-          "shares": 7603,
-          "entry_price": 37.96,
-          "entry_date": "2026-09-08",
-          "entry_time": "11:45",
-          "cost": 289021.15,
-          "entry_score": 70,
-          "frac": 0.3
-        },
-        "shares": 7603,
-        "avg_cost": 37.96,
-        "unrealized": -15313,
-        "unrealized_pct": -5.3,
-        "trades": 10,
+        "cash": 945190,
+        "equity": 945190,
+        "market_value": 0,
+        "return_pct": -5.48,
+        "holding": false,
+        "position": null,
+        "shares": 0,
+        "avg_cost": null,
+        "unrealized": 0,
+        "unrealized_pct": 0,
+        "trades": 11,
         "wins": 3,
-        "win_rate": 30.0,
-        "realized_pnl": -37923
+        "win_rate": 27.3,
+        "realized_pnl": -54810
       }
     }
   ]
