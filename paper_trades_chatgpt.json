@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08 10:45",
+  "updated": "2026-09-11 09:30",
   "history": [
     {
       "date": "2026-06-09",
@@ -442,6 +442,16 @@
       "target_pct": 50,
       "reason_code": "STAGE_2_PROFIT_TAKE",
       "reason": "第二段停利 +10.2%：賣 30%，轉趨勢追蹤"
+    },
+    {
+      "date": "2026-09-11",
+      "time": "09:30",
+      "action": "SELL",
+      "price": 36.0,
+      "shares": 1400.4,
+      "target_pct": 50,
+      "reason_code": "TRAILING_REDUCE",
+      "reason": "移動停利：自最高價回落 5.8%（≥5%）→ 減半"
     }
   ]
 }
