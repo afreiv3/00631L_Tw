@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11 18:01 (Taipei)",
+  "updated": "2026-09-14 09:00 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -2670,6 +2670,69 @@
           "pts": 5,
           "max": 10,
           "note": "TAIEX 9/11收45,965，估季線約44,800(仍守季線上方約1,165點)，結構尚未正式破壞；惟今日大跌-2.08%、動能明確偏空，短線結構轉弱，評5分"
+        }
+      },
+      "paper": {
+        "cash": 945190,
+        "equity": 945190,
+        "market_value": 0,
+        "return_pct": -5.48,
+        "holding": false,
+        "position": null,
+        "shares": 0,
+        "avg_cost": null,
+        "unrealized": 0,
+        "unrealized_pct": 0,
+        "trades": 11,
+        "wins": 3,
+        "win_rate": 27.3,
+        "realized_pnl": -54810
+      }
+    },
+    {
+      "date": "2026-09-14",
+      "time": "09:00",
+      "price": null,
+      "score": 40,
+      "zone": "amber",
+      "quant_sum": 30,
+      "ai_sum": 10,
+      "ai_ok": true,
+      "factors": {
+        "pattern": {
+          "pts": 10.0,
+          "max": 20,
+          "note": "盤中資料缺，型態以中性計"
+        },
+        "sector": {
+          "pts": 5,
+          "max": 20,
+          "note": "週末Anthropic/OpenAI雙雙呼籲放緩AI、OpenAI IPO延後，Nasdaq-100期貨-1.2%；SOX已跌逾20%進入熊市；長期chip demand intact但短期轉弱，評5分（分歧偏弱）"
+        },
+        "entry": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "區間資料缺，以中性計"
+        },
+        "volume": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "量能資料缺，以中性計"
+        },
+        "vwap": {
+          "pts": 5.0,
+          "max": 10,
+          "note": "VWAP 資料缺，以中性計"
+        },
+        "macro": {
+          "pts": 0,
+          "max": 10,
+          "note": "10Y殖利率4.98%接近5%心理關口、WTI$102+、FOMC 9/16升息機率60%、中東伊朗戰爭持續，多重系統性風險升溫，評0分"
+        },
+        "trend": {
+          "pts": 5,
+          "max": 10,
+          "note": "台加權9/11收45,965仍守季線(估~44,800)以上約1,165點，結構未正式破壞；但多重壓力下週一開盤可能繼續承壓，短線偏弱，評5分（貼近季線）"
         }
       },
       "paper": {
