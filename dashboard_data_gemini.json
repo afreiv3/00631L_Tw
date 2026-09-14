@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14 10:00 (Taipei)",
+  "updated": "2026-09-14 10:15 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -1848,9 +1848,9 @@
     },
     {
       "date": "2026-09-14",
-      "time": "10:00",
-      "price": 34.89,
-      "tier1": 25,
+      "time": "10:15",
+      "price": 35.13,
+      "tier1": 30,
       "ai_index": 50.0,
       "target": 0.0,
       "zone": "red",
@@ -1874,7 +1874,7 @@
         "trades": 35,
         "max_asset": 957841,
         "frenzy_days": 0,
-        "tier1": 25,
+        "tier1": 30,
         "ai_index": 50.0,
         "target": 0.0,
         "zone": "red",
