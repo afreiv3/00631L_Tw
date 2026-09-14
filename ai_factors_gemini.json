@@ -1,15 +1,32 @@
 {
-  "date": "2026-09-11",
-  "generated_at": "2026-09-11 12:46",
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14 13:01",
   "model": "gemini-2.5-flash",
   "factors": {
-    "sector": 10.0,
-    "macro": 5.0,
-    "trend": 5.0
+    "sector": 5.0,
+    "macro": 3.0,
+    "trend": 4.0
   },
-  "ai_sentiment_index": 50.0,
-  "summary": "（無新聞或無金鑰，暫以中性計）",
-  "news_zh": [],
-  "news": [],
-  "debug_error": "未抓到新聞"
+  "ai_sentiment_index": 30.0,
+  "summary": "由於油價上漲、升息預期及科技股下跌，台灣股市預計將面臨壓力。",
+  "news_zh": [
+    "亞洲股市下跌，油價上漲且升息預期升高。",
+    "那斯達克期貨下跌1.2%，油價突破每桶103美元。",
+    "科技期貨下跌，AI領導者呼籲放緩發展影響相關股票。",
+    "沙烏地阿拉伯關閉輸油管道，葉門青年運動加劇紅海航運緊張。",
+    "美國聯準會升息機率升至90%，主要AI公司呼籲放緩模型開發。"
+  ],
+  "news": [
+    "[Reuters] Shares drop in Asia as oil rises, rate hikes loom - Reuters - Shares drop in Asia as oil rises, rate hikes loom&nbsp;&nbsp;Reuters",
+    "[Reuters] COMMENTARY: Oil markets survived the Iran war sprint. Now comes the marathon - Reuters - COMMENTARY: Oil markets survived the Iran war sprint. Now comes the marathon&nbsp;&nbsp;Reuters",
+    "[Reuters] Larry Ellison Cancels Oracle Plan to Sell Up to 50 Million Shares Worth $7.5 Billion: who 16 outlets blamed - newscord.org - Larry Ellison Cancels Oracle Plan to Sell Up to 50 Million Shares Worth $7.5 Billion: who 16 outlets blamed&nbsp;&nbsp;newscord.org",
+    "[Reuters] Trump says he is lifting tariffs on Irish whiskey By Reuters - Investing.com - Trump says he is lifting tariffs on Irish whiskey By Reuters&nbsp;&nbsp;Investing.com",
+    "[Reuters] Nvidia may bankroll Anthropic's massive IPO - mashable.com - Nvidia may bankroll Anthropic's massive IPO&nbsp;&nbsp;mashable.com",
+    "[Reuters] Ares names James Garforth principal for Asia direct lending - Reuters - Ares names James Garforth principal for Asia direct lending&nbsp;&nbsp;Reuters",
+    "[Reuters] Nasdaq futures drop 1.2% at Sunday open, twice the S&P 500, as oil tops $103 - techi.com - Nasdaq futures drop 1.2% at Sunday open, twice the S&P 500, as oil tops $103&nbsp;&nbsp;techi.com",
+    "[Reuters] Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping - The Daily Star - Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping&nbsp;&nbsp;The Daily Star",
+    "[Semis] Anthropic has chosen the Nasdaq for its IPO listing - Business Insider - Anthropic has chosen the Nasdaq for its IPO listing&nbsp;&nbsp;Business Insider",
+    "[Semis] Tech Futures Fall; AI Leaders' Call For Slowdown Hits These Stocks - Investor's Business Daily - Tech Futures Fall; AI Leaders' Call For Slowdown Hits These Stocks&nbsp;&nbsp;Investor's Business Daily"
+  ],
+  "debug_error": ""
 }
