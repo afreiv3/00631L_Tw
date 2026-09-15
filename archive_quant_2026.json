@@ -2755,11 +2755,11 @@
     },
     {
       "date": "2026-09-15",
-      "time": "11:30",
-      "price": 35.39,
-      "score": 50,
+      "time": "11:45",
+      "price": 35.28,
+      "score": 52,
       "zone": "amber",
-      "quant_sum": 30,
+      "quant_sum": 32,
       "ai_sum": 20,
       "ai_ok": false,
       "factors": {
@@ -2774,19 +2774,19 @@
           "note": "盤前 AI 因子缺—以中性計"
         },
         "entry": {
-          "pts": 7.5,
+          "pts": 15,
           "max": 15,
-          "note": "現價在區間中段(51%)"
+          "note": "現價近今日低點(區間24%) → 接近支撐"
         },
         "volume": {
           "pts": 7.5,
           "max": 15,
-          "note": "推估量約均量0.6倍 → 偏離"
+          "note": "推估量約均量0.5倍 → 偏離"
         },
         "vwap": {
-          "pts": 5.0,
+          "pts": 0,
           "max": 10,
-          "note": "現價貼近VWAP(-0.09%)"
+          "note": "現價在VWAP之下(-0.39%) → 弱勢"
         },
         "macro": {
           "pts": 5.0,
