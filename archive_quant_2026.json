@@ -2755,18 +2755,18 @@
     },
     {
       "date": "2026-09-15",
-      "time": "09:15",
-      "price": null,
-      "score": 50,
+      "time": "09:30",
+      "price": 35.33,
+      "score": 62,
       "zone": "amber",
-      "quant_sum": 30,
+      "quant_sum": 42,
       "ai_sum": 20,
       "ai_ok": false,
       "factors": {
         "pattern": {
           "pts": 10.0,
           "max": 20,
-          "note": "盤中資料缺，型態以中性計"
+          "note": "開+0.0%、小幅回落，型態中性"
         },
         "sector": {
           "pts": 10.0,
@@ -2776,17 +2776,17 @@
         "entry": {
           "pts": 7.5,
           "max": 15,
-          "note": "區間資料缺，以中性計"
+          "note": "現價在區間中段(65%)"
         },
         "volume": {
-          "pts": 7.5,
+          "pts": 15,
           "max": 15,
-          "note": "量能資料缺，以中性計"
+          "note": "推估量約均量1.0倍 → 正常"
         },
         "vwap": {
-          "pts": 5.0,
+          "pts": 10,
           "max": 10,
-          "note": "VWAP 資料缺，以中性計"
+          "note": "現價在VWAP之上(+0.15%) → 有利"
         },
         "macro": {
           "pts": 5.0,
