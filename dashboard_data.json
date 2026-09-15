@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15 11:00 (Taipei)",
+  "updated": "2026-09-15 11:15 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -2754,11 +2754,11 @@
     },
     {
       "date": "2026-09-15",
-      "time": "11:00",
-      "price": 35.48,
-      "score": 58,
+      "time": "11:15",
+      "price": 35.44,
+      "score": 65,
       "zone": "amber",
-      "quant_sum": 38,
+      "quant_sum": 45,
       "ai_sum": 20,
       "ai_ok": false,
       "factors": {
@@ -2773,9 +2773,9 @@
           "note": "盤前 AI 因子缺—以中性計"
         },
         "entry": {
-          "pts": 0,
+          "pts": 7.5,
           "max": 15,
-          "note": "現價在區間上緣(73%) → 屬追高"
+          "note": "現價在區間中段(63%)"
         },
         "volume": {
           "pts": 7.5,
@@ -2785,7 +2785,7 @@
         "vwap": {
           "pts": 10,
           "max": 10,
-          "note": "現價在VWAP之上(+0.16%) → 有利"
+          "note": "現價在VWAP之上(+0.05%) → 有利"
         },
         "macro": {
           "pts": 5.0,
