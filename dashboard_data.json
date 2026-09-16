@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16 09:15 (Taipei)",
+  "updated": "2026-09-16 09:30 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -2817,18 +2817,18 @@
     },
     {
       "date": "2026-09-16",
-      "time": "09:15",
-      "price": null,
-      "score": 39,
-      "zone": "red",
-      "quant_sum": 30,
+      "time": "09:30",
+      "price": 35.2,
+      "score": 46,
+      "zone": "amber",
+      "quant_sum": 38,
       "ai_sum": 9,
       "ai_ok": true,
       "factors": {
         "pattern": {
           "pts": 10.0,
           "max": 20,
-          "note": "盤中資料缺，型態以中性計"
+          "note": "開+0.5%、小幅回落，型態中性"
         },
         "sector": {
           "pts": 3,
@@ -2836,19 +2836,19 @@
           "note": "SOX 9/15盤中跌逾5%（確切收盤查不到確認，以偏弱計），TSM ADR收$418.01（-約3.5%），NVDA為最大跌幅股之一，半導體板塊連續兩日重挫，明顯轉弱"
         },
         "entry": {
-          "pts": 7.5,
+          "pts": 15,
           "max": 15,
-          "note": "區間資料缺，以中性計"
+          "note": "現價近今日低點(區間15%) → 接近支撐"
         },
         "volume": {
           "pts": 7.5,
           "max": 15,
-          "note": "量能資料缺，以中性計"
+          "note": "推估量約均量0.6倍 → 偏離"
         },
         "vwap": {
           "pts": 5.0,
           "max": 10,
-          "note": "VWAP 資料缺，以中性計"
+          "note": "現價貼近VWAP(-0.11%)"
         },
         "macro": {
           "pts": 1,
