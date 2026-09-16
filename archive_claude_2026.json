@@ -420,13 +420,13 @@
     },
     {
       "date": "2026-09-16",
-      "time": "13:30",
-      "price": 35.49,
+      "time": "13:54",
+      "price": 35.56,
       "tier1": 45,
       "ai_index": 30.0,
       "target": 0.0,
       "zone": "red",
-      "zone_label": "⚪ 出場冷卻中（還剩2個交易日）",
+      "zone_label": "⚪ 今日已交易過",
       "gate_open": false,
       "market_ok": true,
       "asset_trend_ok": false,
@@ -475,7 +475,7 @@
         "ai_index": 30.0,
         "target": 0.0,
         "zone": "red",
-        "zone_label": "⚪ 出場冷卻中（還剩2個交易日）",
+        "zone_label": "⚪ 今日已交易過",
         "gate_open": false
       }
     }
