@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16 12:45 (Taipei)",
+  "updated": "2026-09-16 13:00 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -2614,10 +2614,10 @@
     },
     {
       "date": "2026-09-16",
-      "time": "12:45",
-      "price": 35.79,
-      "tier1": 38,
-      "ai_index": 50.0,
+      "time": "13:00",
+      "price": 35.47,
+      "tier1": 40,
+      "ai_index": 30.0,
       "target": 0.0,
       "zone": "red",
       "zone_label": "⚪ 觀望（等量化≥35＋趨勢）",
@@ -2625,9 +2625,20 @@
       "market_ok": true,
       "asset_trend_ok": false,
       "ma10_ok": false,
-      "ai_ok": false,
-      "summary": "（今日盤前判讀尚未產生，暫以中性計）",
-      "news": [],
+      "ai_ok": true,
+      "summary": "華爾街收低，因油價飆升且美國公債殖利率突破5%，市場等待聯準會升息決議，亞洲股市預計小幅走高。",
+      "news": [
+        "[Reuters] EXCLUSIVE: Malaysia talks to rival airlines as it monitors AirAsia's financial health, sources say - Reuters - EXCLUSIVE: Malaysia talks to rival airlines as it monitors AirAsia's financial health, sources say&nbsp;&nbsp;Reuters",
+        "[Reuters] World Bank's IDA prices $3 billion bond, first after SEC waiver - Reuters - World Bank's IDA prices $3 billion bond, first after SEC waiver&nbsp;&nbsp;Reuters",
+        "[Reuters] EXCLUSIVE: Healthcare software firm Waystar explores options including sale, sources say - Reuters - EXCLUSIVE: Healthcare software firm Waystar explores options including sale, sources say&nbsp;&nbsp;Reuters",
+        "[Reuters] EXCLUSIVE: UniCredit wants Commerzbank CEO and chair to leave, sources say - Reuters - EXCLUSIVE: UniCredit wants Commerzbank CEO and chair to leave, sources say&nbsp;&nbsp;Reuters",
+        "[Reuters] Wall Street ends lower as oil spikes and the benchmark Treasury yield breaches 5% - Reuters - Wall Street ends lower as oil spikes and the benchmark Treasury yield breaches 5%&nbsp;&nbsp;Reuters",
+        "[Reuters] COMMENTARY: Trading Day: No hiding place - Reuters - COMMENTARY: Trading Day: No hiding place&nbsp;&nbsp;Reuters",
+        "[Reuters] L'Oreal steals French stock market crown from LVMH - Reuters - L'Oreal steals French stock market crown from LVMH&nbsp;&nbsp;Reuters",
+        "[Reuters] COMMENTARY: The next phase of climate action: building the markets that can deliver it - Reuters - COMMENTARY: The next phase of climate action: building the markets that can deliver it&nbsp;&nbsp;Reuters",
+        "[Semis] If the Fed hikes rates, here's how the stock market might respond - marketplace.org - If the Fed hikes rates, here's how the stock market might respond&nbsp;&nbsp;marketplace.org",
+        "[Semis] Preformed Line Products Company Rings the Nasdaq Stock Market Closing Bell - Nasdaq - Preformed Line Products Company Rings the Nasdaq Stock Market Closing Bell&nbsp;&nbsp;Nasdaq"
+      ],
       "paper": {
         "cash": 990217,
         "shares": 0.0,
@@ -2656,8 +2667,8 @@
         "frenzy_days": 0,
         "last_action": "SELL",
         "last_action_reason": "DATA_INVALID_NO_TRADE",
-        "tier1": 38,
-        "ai_index": 50.0,
+        "tier1": 40,
+        "ai_index": 30.0,
         "target": 0.0,
         "zone": "red",
         "zone_label": "⚪ 觀望（等量化≥35＋趨勢）",
