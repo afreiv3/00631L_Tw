@@ -1,6 +1,6 @@
 {
   "year": "2026",
-  "count": 43,
+  "count": 44,
   "history": [
     {
       "date": "2026-07-20",
@@ -2860,6 +2860,69 @@
           "pts": 6,
           "max": 10,
           "note": "TAIEX今日實質上漲+0.25%（扣除除息後），台積電填息提振信心，量能9,008億仍活絡；但外資累計賣超逾2,200億趨勢未改，大盤在季線附近止跌整理，趨勢尚未明確反轉"
+        }
+      },
+      "paper": {
+        "cash": 945190,
+        "equity": 945190,
+        "market_value": 0,
+        "return_pct": -5.48,
+        "holding": false,
+        "position": null,
+        "shares": 0,
+        "avg_cost": null,
+        "unrealized": 0,
+        "unrealized_pct": 0,
+        "trades": 11,
+        "wins": 3,
+        "win_rate": 27.3,
+        "realized_pnl": -54810
+      }
+    },
+    {
+      "date": "2026-09-17",
+      "time": "09:00",
+      "price": null,
+      "score": 45,
+      "zone": "amber",
+      "quant_sum": 30,
+      "ai_sum": 15,
+      "ai_ok": true,
+      "factors": {
+        "pattern": {
+          "pts": 10.0,
+          "max": 20,
+          "note": "盤中資料缺，型態以中性計"
+        },
+        "sector": {
+          "pts": 10,
+          "max": 20,
+          "note": "9/16 SOX小幅反彈（前日暴跌逾5%），NVDA盤中+1.7%，但AVGO因AI放緩疑慮Q3後跌4%；TSMC 8月營收+53%為正面訊號，但Fed升息背景使板塊方向分歧，整體評中性"
+        },
+        "entry": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "區間資料缺，以中性計"
+        },
+        "volume": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "量能資料缺，以中性計"
+        },
+        "vwap": {
+          "pts": 5.0,
+          "max": 10,
+          "note": "VWAP 資料缺，以中性計"
+        },
+        "macro": {
+          "pts": 0,
+          "max": 10,
+          "note": "Fed 9/16升息25bp至3.75-4%（逾3年首次）、Warsh鷹派談話、年內再升預期高、10Y殖利率5.016%、WTI $102，三重宏觀壓力同步升溫，系統性風險明顯"
+        },
+        "trend": {
+          "pts": 5,
+          "max": 10,
+          "note": "TAIEX 9/16收45,624.98，季線位置查不到（以中性計5分）；前次分析顯示大盤在季線附近整理，Fed升息衝擊疊加外資累計賣超逾2,200億，今日開盤承壓，結構待確認"
         }
       },
       "paper": {
