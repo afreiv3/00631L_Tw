@@ -1,12 +1,12 @@
 {
-  "cash": 957841.375259106,
-  "shares": 0.0,
+  "cash": 478920.687629553,
+  "shares": 13095.268257780663,
   "start_capital": 1000000.0,
   "max_asset": 957841.375259106,
   "frenzy_days": 0,
   "last_date": "2026-09-17",
-  "trades": 35,
-  "updated": "2026-09-17 11:15",
-  "last_trade_date": "2026-09-14",
-  "cost_basis": 0.0
+  "trades": 36,
+  "updated": "2026-09-17 11:30",
+  "last_trade_date": "2026-09-17",
+  "cost_basis": 478920.687629553
 }
