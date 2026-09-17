@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17 13:30 (Taipei)",
+  "updated": "2026-09-17 14:02 (Taipei)",
   "history": [
     {
       "date": "2026-09-07",
@@ -480,13 +480,13 @@
     },
     {
       "date": "2026-09-17",
-      "time": "13:30",
-      "price": 36.54,
-      "tier1": 42,
+      "time": "14:02",
+      "price": 36.41,
+      "tier1": 50,
       "ai_index": 22.5,
       "target": 0.0,
       "zone": "red",
-      "zone_label": "⚪ 出場冷卻中（還剩1個交易日）",
+      "zone_label": "⚪ 今日已交易過",
       "gate_open": false,
       "market_ok": true,
       "asset_trend_ok": true,
@@ -531,11 +531,11 @@
         "cooldown_remaining": 1,
         "last_action": "SELL",
         "last_action_reason": "DATA_INVALID_NO_TRADE",
-        "tier1": 42,
+        "tier1": 50,
         "ai_index": 22.5,
         "target": 0.0,
         "zone": "red",
-        "zone_label": "⚪ 出場冷卻中（還剩1個交易日）",
+        "zone_label": "⚪ 今日已交易過",
         "gate_open": false
       }
     }
