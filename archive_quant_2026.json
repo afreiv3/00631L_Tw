@@ -1,6 +1,6 @@
 {
   "year": "2026",
-  "count": 44,
+  "count": 45,
   "history": [
     {
       "date": "2026-07-20",
@@ -2923,6 +2923,69 @@
           "pts": 5,
           "max": 10,
           "note": "TAIEX 45,857(+0.1%)盤中先衝至46,449再回落，先漲後縮格局偏弱；季線位置查不到，以中性計5分"
+        }
+      },
+      "paper": {
+        "cash": 945190,
+        "equity": 945190,
+        "market_value": 0,
+        "return_pct": -5.48,
+        "holding": false,
+        "position": null,
+        "shares": 0,
+        "avg_cost": null,
+        "unrealized": 0,
+        "unrealized_pct": 0,
+        "trades": 11,
+        "wins": 3,
+        "win_rate": 27.3,
+        "realized_pnl": -54810
+      }
+    },
+    {
+      "date": "2026-09-18",
+      "time": "09:00",
+      "price": null,
+      "score": 58,
+      "zone": "amber",
+      "quant_sum": 30,
+      "ai_sum": 28,
+      "ai_ok": true,
+      "factors": {
+        "pattern": {
+          "pts": 10.0,
+          "max": 20,
+          "note": "盤中資料缺，型態以中性計"
+        },
+        "sector": {
+          "pts": 17,
+          "max": 20,
+          "note": "費半SOX9/17+3%，NVDA+2.45%($219.15)、AVGO+2.8%($349.05)、TSM ADR+2.57%，AI/半導體板塊全面強勢，台積電2330昨收2,425元(+45元)，00631L最相關板塊動能明顯偏強"
+        },
+        "entry": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "區間資料缺，以中性計"
+        },
+        "volume": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "量能資料缺，以中性計"
+        },
+        "vwap": {
+          "pts": 5.0,
+          "max": 10,
+          "note": "VWAP 資料缺，以中性計"
+        },
+        "macro": {
+          "pts": 4,
+          "max": 10,
+          "note": "Fed 9/16升息25bp至3.75-4%(三年來首次、全票通過)、Warsh鷹派、市場預期年內再升息；10Y殖利率4.94%(仍高但回落5bp)、WTI$102(中東風險)，系統性壓力仍在，市場雖反彈但升息循環正式啟動，給4分"
+        },
+        "trend": {
+          "pts": 7,
+          "max": 10,
+          "note": "台股9/17收46,288(+439點)，為近期強勢收盤；季線(MA60)查不到精確值以中性估計，TAIEX估在季線之上，結構偏多；惟距歷史高點47,000-48,000仍有距離，給7分"
         }
       },
       "paper": {
