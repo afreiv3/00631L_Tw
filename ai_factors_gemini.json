@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-17",
-  "generated_at": "2026-09-17 12:57",
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18 12:48",
   "model": "gemini-2.5-flash",
   "factors": {
-    "sector": 3.0,
-    "macro": 2.0,
-    "trend": 4.0
+    "sector": 18.0,
+    "macro": 7.0,
+    "trend": 8.0
   },
-  "ai_sentiment_index": 22.5,
-  "summary": "聯準會升息並預告將進一步緊縮政策，導致全球股市下跌，半導體產業面臨壓力，整體市場情緒偏向悲觀。",
+  "ai_sentiment_index": 82.5,
+  "summary": "在聯準會升息後，科技股引領美股上漲，油價和公債殖利率回落，全球市場風險情緒有所改善。",
   "news_zh": [
-    "聯準會升息並暗示今年將再次升息，導致股市下跌。",
-    "聯準會升息後，亞洲股市預計將下跌，美元走強。",
-    "銀行為黑石和Alphabet的AI雲端合資企業提供220億美元晶片貸款。",
-    "美國股市在聯準會升息並暗示可能進一步升息後下滑。",
-    "吉姆·克ramer警告，現在買股票意味著「對抗聯準會」。",
-    "聯準會再次升息，全球其他地區可能感受到壓力。"
+    "科技股領漲華爾街，油價回落且公債殖利率下跌。",
+    "聯準會升息後，股市和債市反彈，油價下跌。",
+    "高盛預期十月升息，凸顯聯準會再次緊縮的風險。",
+    "土耳其介入支持市場，以應對基金流動性緊縮引發的拋售。",
+    "全球股市上漲，因聯準會和英國央行決議後，公債殖利率回落。",
+    "市場反彈，SpaceX和AMD發出買入訊號。"
   ],
   "news": [
-    "[Reuters] COMMENTARY: Move over real estate, Wall St now drives US spending: McGeever - Reuters - COMMENTARY: Move over real estate, Wall St now drives US spending: McGeever&nbsp;&nbsp;Reuters",
-    "[Reuters] VIEW Stocks pull back after Fed raises rates, points to another hike this year - Reuters - VIEW Stocks pull back after Fed raises rates, points to another hike this year&nbsp;&nbsp;Reuters",
-    "[Reuters] Banks provide $22 billion chip loan to Blackstone, Alphabet AI cloud venture, source says - Reuters - Banks provide $22 billion chip loan to Blackstone, Alphabet AI cloud venture, source says&nbsp;&nbsp;Reuters",
-    "[Reuters] Japan's Takaichi set to signal policy continuity in cabinet reshuffle - Reuters - Japan's Takaichi set to signal policy continuity in cabinet reshuffle&nbsp;&nbsp;Reuters",
-    "[Reuters] COMMENTARY: Morning Bid: A time to hike? - Reuters - COMMENTARY: Morning Bid: A time to hike?&nbsp;&nbsp;Reuters",
-    "[Reuters] Starbucks considers selling majority stake in its Japan business, sources say - Reuters - Starbucks considers selling majority stake in its Japan business, sources say&nbsp;&nbsp;Reuters",
-    "[Reuters] COMMENTARY: Europe has no hope in AI race without a unified energy market - Reuters - COMMENTARY: Europe has no hope in AI race without a unified energy market&nbsp;&nbsp;Reuters",
-    "[Reuters] Bank of England to hold rates but energy shock stirs talk of a hike - Reuters - Bank of England to hold rates but energy shock stirs talk of a hike&nbsp;&nbsp;Reuters",
-    "[Semis] U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way - PBS - U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way&nbsp;&nbsp;PBS",
-    "[Semis] Futures Rise, Trump Fumes; AMD, Bloom Lead 5 Stocks To Watch - Investor's Business Daily - Futures Rise, Trump Fumes; AMD, Bloom Lead 5 Stocks To Watch&nbsp;&nbsp;Investor's Business Daily"
+    "[Reuters] Rising oil, rates and yields brew up stagflation cocktail for markets - Reuters - Rising oil, rates and yields brew up stagflation cocktail for markets&nbsp;&nbsp;Reuters",
+    "[Reuters] COMMENTARY: Trump may not see another rate cut as president - Reuters - COMMENTARY: Trump may not see another rate cut as president&nbsp;&nbsp;Reuters",
+    "[Reuters] COMMENTARY: Morning Bid: A timely hike - Reuters - COMMENTARY: Morning Bid: A timely hike&nbsp;&nbsp;Reuters",
+    "[Reuters] Turkey steps in to support markets after fund liquidity crunch sparks selloff - Reuters - Turkey steps in to support markets after fund liquidity crunch sparks selloff&nbsp;&nbsp;Reuters",
+    "[Reuters] Tech leads Wall St to higher close as oil eases, Treasury yields dip - Reuters - Tech leads Wall St to higher close as oil eases, Treasury yields dip&nbsp;&nbsp;Reuters",
+    "[Reuters] How Bessent, America's bond salesman, cornered Japan on big spending - Reuters - How Bessent, America's bond salesman, cornered Japan on big spending&nbsp;&nbsp;Reuters",
+    "[Reuters] Goldman's October hike call underscores renewed Fed tightening risks - Reuters - Goldman's October hike call underscores renewed Fed tightening risks&nbsp;&nbsp;Reuters",
+    "[Reuters] Latam markets inch higher in global risk-on mood after Fed hike - Reuters - Latam markets inch higher in global risk-on mood after Fed hike&nbsp;&nbsp;Reuters",
+    "[Semis] Stocks and bonds rally after Fed hikes rates and oil prices fall - NBC News - Stocks and bonds rally after Fed hikes rates and oil prices fall&nbsp;&nbsp;NBC News",
+    "[Semis] Stocks Soar as Fed Uncertainty Fades: Stock Market Today - Kiplinger - Stocks Soar as Fed Uncertainty Fades: Stock Market Today&nbsp;&nbsp;Kiplinger"
   ],
   "debug_error": ""
 }
