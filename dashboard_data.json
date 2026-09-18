@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18 11:15 (Taipei)",
+  "updated": "2026-09-18 11:30 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -2943,11 +2943,11 @@
     },
     {
       "date": "2026-09-18",
-      "time": "11:15",
-      "price": 37.02,
-      "score": 73,
+      "time": "11:30",
+      "price": 37.19,
+      "score": 70,
       "zone": "green",
-      "quant_sum": 45,
+      "quant_sum": 42,
       "ai_sum": 28,
       "ai_ok": true,
       "factors": {
@@ -2962,9 +2962,9 @@
           "note": "費半SOX9/17+3%，NVDA+2.45%($219.15)、AVGO+2.8%($349.05)、TSM ADR+2.57%，AI/半導體板塊全面強勢，台積電2330昨收2,425元(+45元)，00631L最相關板塊動能明顯偏強"
         },
         "entry": {
-          "pts": 15,
+          "pts": 7.5,
           "max": 15,
-          "note": "現價近今日低點(區間26%) → 接近支撐"
+          "note": "現價在區間中段(65%)"
         },
         "volume": {
           "pts": 15,
@@ -2972,9 +2972,9 @@
           "note": "推估量約均量1.0倍 → 正常"
         },
         "vwap": {
-          "pts": 5.0,
+          "pts": 10,
           "max": 10,
-          "note": "現價貼近VWAP(-0.24%)"
+          "note": "現價在VWAP之上(+0.22%) → 有利"
         },
         "macro": {
           "pts": 4,
@@ -2989,9 +2989,9 @@
       },
       "paper": {
         "cash": 661245,
-        "equity": 944633,
-        "market_value": 283388,
-        "return_pct": -5.54,
+        "equity": 945934,
+        "market_value": 284689,
+        "return_pct": -5.41,
         "holding": true,
         "position": {
           "shares": 7655,
@@ -3004,8 +3004,8 @@
         },
         "shares": 7655,
         "avg_cost": 37.04,
-        "unrealized": -557,
-        "unrealized_pct": -0.2,
+        "unrealized": 744,
+        "unrealized_pct": 0.26,
         "trades": 11,
         "wins": 3,
         "win_rate": 27.3,
