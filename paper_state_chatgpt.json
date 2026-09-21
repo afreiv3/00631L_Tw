@@ -3,17 +3,17 @@
   "shares": 5348.861641655067,
   "cost_basis": 195618.7872619364,
   "start_capital": 1000000.0,
-  "highest_equity": 1002755.4409782655,
-  "highest_price_since_entry": 37.65,
+  "highest_equity": 1004788.0084020945,
+  "highest_price_since_entry": 38.03,
   "entry_date": "2026-09-17",
   "profit_stage_1_done": false,
   "profit_stage_2_done": false,
   "breakeven_mode": false,
   "trailing_mode": false,
-  "current_target_exposure": 0.2,
+  "current_target_exposure": 0.5,
   "realized_pnl": -3010.4125681113655,
   "frenzy_days": 0,
-  "last_date": "2026-09-18",
+  "last_date": "2026-09-21",
   "last_entry_date": "2026-09-17",
   "last_trade_date": "2026-09-18",
   "last_reduce_date": "2026-09-11",
@@ -21,5 +21,5 @@
   "last_action_reason": "DATA_INVALID_NO_TRADE",
   "trades": 51,
   "_seed_note": "起始狀態＋買賣紀錄完整承接 Gemini（paper_trades_gemini.json 8 筆、現金/已實現損益/交易次數/資產高點對齊）於 2026-06-28；此後一律以 ChatGPT 新策略運作",
-  "updated": "2026-09-21 09:15"
+  "updated": "2026-09-21 09:30"
 }
