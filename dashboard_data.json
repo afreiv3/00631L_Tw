@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21 09:30 (Taipei)",
+  "updated": "2026-09-21 09:45 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -3014,11 +3014,11 @@
     },
     {
       "date": "2026-09-21",
-      "time": "09:30",
-      "price": 38.03,
-      "score": 64,
+      "time": "09:45",
+      "price": 38.22,
+      "score": 57,
       "zone": "amber",
-      "quant_sum": 38,
+      "quant_sum": 30,
       "ai_sum": 27,
       "ai_ok": true,
       "factors": {
@@ -3033,19 +3033,19 @@
           "note": "SOX 9/18收11,922(週+5.61%、月+12.79%)，NVDA+1.34%(222.27美元)，TSM ADR報434.67美元，半導體板塊整體強勢；惟Fed升息循環略壓科技股估值，給16分"
         },
         "entry": {
-          "pts": 7.5,
+          "pts": 0,
           "max": 15,
-          "note": "現價在區間中段(59%)"
+          "note": "現價在區間上緣(94%) → 屬追高"
         },
         "volume": {
           "pts": 0,
           "max": 15,
-          "note": "推估量約均量2.1倍 → 爆量(疑換手/出貨)"
+          "note": "推估量約均量3.0倍 → 爆量(疑換手/出貨)"
         },
         "vwap": {
           "pts": 10,
           "max": 10,
-          "note": "現價在VWAP之上(+0.00%) → 有利"
+          "note": "現價在VWAP之上(+0.28%) → 有利"
         },
         "macro": {
           "pts": 3,
@@ -3060,9 +3060,9 @@
       },
       "paper": {
         "cash": 661245,
-        "equity": 952365,
-        "market_value": 291120,
-        "return_pct": -4.76,
+        "equity": 953819,
+        "market_value": 292574,
+        "return_pct": -4.62,
         "holding": true,
         "position": {
           "shares": 7655,
@@ -3075,8 +3075,8 @@
         },
         "shares": 7655,
         "avg_cost": 37.04,
-        "unrealized": 7174,
-        "unrealized_pct": 2.53,
+        "unrealized": 8629,
+        "unrealized_pct": 3.04,
         "trades": 11,
         "wins": 3,
         "win_rate": 27.3,
