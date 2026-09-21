@@ -3,8 +3,8 @@
   "shares": 5348.861641655067,
   "cost_basis": 195618.7872619364,
   "start_capital": 1000000.0,
-  "highest_equity": 1005804.2921140089,
-  "highest_price_since_entry": 38.22,
+  "highest_equity": 1006553.1327438406,
+  "highest_price_since_entry": 38.36,
   "entry_date": "2026-09-17",
   "profit_stage_1_done": false,
   "profit_stage_2_done": false,
@@ -21,5 +21,5 @@
   "last_action_reason": "SCORE_WEAK_NO_ADD",
   "trades": 51,
   "_seed_note": "起始狀態＋買賣紀錄完整承接 Gemini（paper_trades_gemini.json 8 筆、現金/已實現損益/交易次數/資產高點對齊）於 2026-06-28；此後一律以 ChatGPT 新策略運作",
-  "updated": "2026-09-21 09:45"
+  "updated": "2026-09-21 10:00"
 }
