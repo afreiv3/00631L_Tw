@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22 10:30 (Taipei)",
+  "updated": "2026-09-22 10:45 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -3085,8 +3085,8 @@
     },
     {
       "date": "2026-09-22",
-      "time": "10:30",
-      "price": 39.36,
+      "time": "10:45",
+      "price": 39.39,
       "score": 59,
       "zone": "amber",
       "quant_sum": 30,
@@ -3104,19 +3104,19 @@
           "note": "Nasdaq 9/21創歷史新高(+2.26%)、NVDA+2.30%、TSM ADR+1.13%、SOXX ETF+3.3%，AI/半導體板塊強勁；台股昨日聯發科+7%/台積電+1%強勢呼應，給17分"
         },
         "entry": {
-          "pts": 15,
+          "pts": 7.5,
           "max": 15,
-          "note": "現價近今日低點(區間26%) → 接近支撐"
+          "note": "現價在區間中段(33%)"
         },
         "volume": {
-          "pts": 0,
+          "pts": 7.5,
           "max": 15,
-          "note": "推估量約均量1.9倍 → 爆量(疑換手/出貨)"
+          "note": "推估量約均量1.7倍 → 偏離"
         },
         "vwap": {
           "pts": 5.0,
           "max": 10,
-          "note": "現價貼近VWAP(-0.14%)"
+          "note": "現價貼近VWAP(-0.06%)"
         },
         "macro": {
           "pts": 4,
@@ -3131,9 +3131,9 @@
       },
       "paper": {
         "cash": 661245,
-        "equity": 962546,
-        "market_value": 301301,
-        "return_pct": -3.75,
+        "equity": 962775,
+        "market_value": 301530,
+        "return_pct": -3.72,
         "holding": true,
         "position": {
           "shares": 7655,
@@ -3146,8 +3146,8 @@
         },
         "shares": 7655,
         "avg_cost": 37.04,
-        "unrealized": 17356,
-        "unrealized_pct": 6.11,
+        "unrealized": 17585,
+        "unrealized_pct": 6.19,
         "trades": 11,
         "wins": 3,
         "win_rate": 27.3,
