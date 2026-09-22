@@ -3086,8 +3086,8 @@
     },
     {
       "date": "2026-09-22",
-      "time": "12:00",
-      "price": 39.02,
+      "time": "12:15",
+      "price": 38.92,
       "score": 59,
       "zone": "amber",
       "quant_sum": 30,
@@ -3097,7 +3097,7 @@
         "pattern": {
           "pts": 0,
           "max": 20,
-          "note": "開高(+3.0%)走低、吐回50%漲幅 → 不利"
+          "note": "開高(+3.0%)走低、吐回59%漲幅 → 不利"
         },
         "sector": {
           "pts": 17,
@@ -3107,7 +3107,7 @@
         "entry": {
           "pts": 15,
           "max": 15,
-          "note": "現價近今日低點(區間3%) → 接近支撐"
+          "note": "現價近今日低點(區間0%) → 接近支撐"
         },
         "volume": {
           "pts": 15,
@@ -3117,7 +3117,7 @@
         "vwap": {
           "pts": 0,
           "max": 10,
-          "note": "現價在VWAP之下(-0.81%) → 弱勢"
+          "note": "現價在VWAP之下(-1.02%) → 弱勢"
         },
         "macro": {
           "pts": 4,
@@ -3132,9 +3132,9 @@
       },
       "paper": {
         "cash": 661245,
-        "equity": 959943,
-        "market_value": 298698,
-        "return_pct": -4.01,
+        "equity": 959178,
+        "market_value": 297933,
+        "return_pct": -4.08,
         "holding": true,
         "position": {
           "shares": 7655,
@@ -3147,8 +3147,8 @@
         },
         "shares": 7655,
         "avg_cost": 37.04,
-        "unrealized": 14753,
-        "unrealized_pct": 5.2,
+        "unrealized": 13987,
+        "unrealized_pct": 4.93,
         "trades": 11,
         "wins": 3,
         "win_rate": 27.3,
