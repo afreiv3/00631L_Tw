@@ -3086,8 +3086,8 @@
     },
     {
       "date": "2026-09-22",
-      "time": "09:15",
-      "price": null,
+      "time": "09:30",
+      "price": 39.49,
       "score": 59,
       "zone": "amber",
       "quant_sum": 30,
@@ -3097,7 +3097,7 @@
         "pattern": {
           "pts": 10.0,
           "max": 20,
-          "note": "盤中資料缺，型態以中性計"
+          "note": "開+3.0%、小幅回落，型態中性"
         },
         "sector": {
           "pts": 17,
@@ -3105,19 +3105,19 @@
           "note": "Nasdaq 9/21創歷史新高(+2.26%)、NVDA+2.30%、TSM ADR+1.13%、SOXX ETF+3.3%，AI/半導體板塊強勁；台股昨日聯發科+7%/台積電+1%強勢呼應，給17分"
         },
         "entry": {
-          "pts": 7.5,
+          "pts": 15,
           "max": 15,
-          "note": "區間資料缺，以中性計"
+          "note": "現價近今日低點(區間27%) → 接近支撐"
         },
         "volume": {
-          "pts": 7.5,
+          "pts": 0,
           "max": 15,
-          "note": "量能資料缺，以中性計"
+          "note": "推估量約均量2.9倍 → 爆量(疑換手/出貨)"
         },
         "vwap": {
           "pts": 5.0,
           "max": 10,
-          "note": "VWAP 資料缺，以中性計"
+          "note": "現價貼近VWAP(-0.11%)"
         },
         "macro": {
           "pts": 4,
@@ -3132,9 +3132,9 @@
       },
       "paper": {
         "cash": 661245,
-        "equity": 661245,
-        "market_value": 0,
-        "return_pct": -33.88,
+        "equity": 963541,
+        "market_value": 302296,
+        "return_pct": -3.65,
         "holding": true,
         "position": {
           "shares": 7655,
@@ -3147,8 +3147,8 @@
         },
         "shares": 7655,
         "avg_cost": 37.04,
-        "unrealized": -283945,
-        "unrealized_pct": -100.0,
+        "unrealized": 18351,
+        "unrealized_pct": 6.46,
         "trades": 11,
         "wins": 3,
         "win_rate": 27.3,
