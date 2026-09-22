@@ -18,7 +18,7 @@
   "last_date": "2026-09-21",
   "last_trade_date": "2026-09-21",
   "last_action": "SELL",
-  "last_action_reason": "AI_RISK_REDUCE_ONLY",
+  "last_action_reason": "DATA_INVALID_NO_TRADE",
   "trades": 4,
-  "updated": "2026-09-21 14:10"
+  "updated": "2026-09-22 09:00"
 }
