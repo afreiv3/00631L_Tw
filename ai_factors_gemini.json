@@ -1,32 +1,33 @@
 {
-  "date": "2026-09-21",
-  "generated_at": "2026-09-21 13:02",
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22 13:03",
   "model": "gemini-2.5-flash",
   "factors": {
-    "sector": 17.0,
-    "macro": 7.0,
-    "trend": 8.0
+    "sector": 19.0,
+    "macro": 8.0,
+    "trend": 9.0
   },
-  "ai_sentiment_index": 80.0,
-  "summary": "亞洲科技股上漲，油價下跌，但聯準會升息預期及地緣政治風險仍需留意。",
+  "ai_sentiment_index": 90.0,
+  "summary": "那斯達克指數創歷史新高，人工智慧樂觀情緒重燃，且美國公債殖利率回落，為台灣股市帶來強勁的科技股動能。",
   "news_zh": [
-    "科技股領漲亞洲股市，油價下跌。",
-    "油價跌至一週多以來新低，因伊朗戰爭外交有望推進。",
-    "華爾街預期聯準會將進一步升息。",
-    "美國市場本週將受聯準會利率路徑、油價和AI擔憂影響。",
-    "沙烏地阿拉伯及海灣股市在胡塞武裝宣稱襲擊利雅德後下跌。"
+    "那斯達克指數創新高，受惠於人工智慧樂觀情緒與公債殖利率下滑。",
+    "科技股推動市場上漲，公債殖利率與油價下跌。",
+    "美光表現亮眼，AMD股價創新高，帶動那斯達克指數飆升。",
+    "油價下跌與公債殖利率回落，促使那斯達克指數創下新紀錄。",
+    "印度股市因油價與公債殖利率下降而開盤走高。",
+    "歐洲央行開放區塊鏈連結金融市場。"
   ],
   "news": [
-    "[Reuters] Indian shares open muted as high oil prices, IPO rush weigh - Reuters - Indian shares open muted as high oil prices, IPO rush weigh&nbsp;&nbsp;Reuters",
-    "[Reuters] Vietnam joins FTSE Russell emerging market benchmark - Reuters - Vietnam joins FTSE Russell emerging market benchmark&nbsp;&nbsp;Reuters",
-    "[Reuters] Tech leads shares higher in Asia as oil slips - Reuters - Tech leads shares higher in Asia as oil slips&nbsp;&nbsp;Reuters",
-    "[Reuters] COMMENTARY: Which ASEAN equity laggards could soon become leaders? - Reuters - COMMENTARY: Which ASEAN equity laggards could soon become leaders?&nbsp;&nbsp;Reuters",
-    "[Reuters] Breakingviews - COMMENTARY: Tata bears marks of quasi-nationalisation - Reuters - Breakingviews - COMMENTARY: Tata bears marks of quasi-nationalisation&nbsp;&nbsp;Reuters",
-    "[Reuters] Oil hits over 1-week low on hopes of boost to diplomacy in Iran war - Reuters - Oil hits over 1-week low on hopes of boost to diplomacy in Iran war&nbsp;&nbsp;Reuters",
-    "[Reuters] China slows humanoid robot IPO rush as hype outruns reality - Reuters - China slows humanoid robot IPO rush as hype outruns reality&nbsp;&nbsp;Reuters",
-    "[Reuters] Saudi, Gulf stocks fall after Houthis claim Riyadh attacks - Reuters - Saudi, Gulf stocks fall after Houthis claim Riyadh attacks&nbsp;&nbsp;Reuters",
-    "[Semis] 'This could be something more substantial': Wall Street braces for more Fed rate hikes - Yahoo Finance - 'This could be something more substantial': Wall Street braces for more Fed rate hikes&nbsp;&nbsp;Yahoo Finance",
-    "[Semis] Futures Rise: Can Market Take Off? 2026's Top Stocks Are Buys - Investor's Business Daily - Futures Rise: Can Market Take Off? 2026's Top Stocks Are Buys&nbsp;&nbsp;Investor's Business Daily"
+    "[Reuters] Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat - Reuters - Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat&nbsp;&nbsp;Reuters",
+    "[Reuters] Raymond James hires several senior investment bankers from Jefferies, sources say - Reuters - Raymond James hires several senior investment bankers from Jefferies, sources say&nbsp;&nbsp;Reuters",
+    "[Reuters] New Zealand central bank chief sees risks to economy, inflation - Reuters - New Zealand central bank chief sees risks to economy, inflation&nbsp;&nbsp;Reuters",
+    "[Reuters] Indian shares open higher on easing oil prices, bond yields - Reuters - Indian shares open higher on easing oil prices, bond yields&nbsp;&nbsp;Reuters",
+    "[Reuters] COMMENTARY: Morning Bid: Summiteering - Reuters - COMMENTARY: Morning Bid: Summiteering&nbsp;&nbsp;Reuters",
+    "[Reuters] ECB opens blockchain link to financial markets - Reuters - ECB opens blockchain link to financial markets&nbsp;&nbsp;Reuters",
+    "[Reuters] Breakingviews - COMMENTARY: SG plots credible path out of mediocrity - Reuters - Breakingviews - COMMENTARY: SG plots credible path out of mediocrity&nbsp;&nbsp;Reuters",
+    "[Reuters] Qatar's wealth fund and JP Morgan Asset Management to launch $20 billion partnership - Reuters - Qatar's wealth fund and JP Morgan Asset Management to launch $20 billion partnership&nbsp;&nbsp;Reuters",
+    "[Semis] Stock Market Today: Dow Up, Nasdaq Roars To Record As Micron Does This; AMD Hits New High - Investor's Business Daily - Stock Market Today: Dow Up, Nasdaq Roars To Record As Micron Does This; AMD Hits New High&nbsp;&nbsp;Investor's Business Daily",
+    "[Semis] Tech stocks power market surge as bond yields and oil prices tumble - NBC News - Tech stocks power market surge as bond yields and oil prices tumble&nbsp;&nbsp;NBC News"
   ],
   "debug_error": ""
 }
