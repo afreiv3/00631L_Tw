@@ -3157,18 +3157,18 @@
     },
     {
       "date": "2026-09-23",
-      "time": "10:45",
-      "price": 39.21,
-      "score": 76,
-      "zone": "green",
-      "quant_sum": 48,
+      "time": "11:00",
+      "price": 39.1,
+      "score": 68,
+      "zone": "amber",
+      "quant_sum": 40,
       "ai_sum": 28,
       "ai_ok": true,
       "factors": {
         "pattern": {
-          "pts": 20,
+          "pts": 10.0,
           "max": 20,
-          "note": "現價守在開盤之上(開+1.7%) → 有利"
+          "note": "開+1.7%、小幅回落，型態中性"
         },
         "sector": {
           "pts": 15,
@@ -3176,19 +3176,19 @@
           "note": "Nasdaq 9/22+0.5%再創27,244歷史新高，NVDA+0.7%、MU+5%、Sandisk+6.8%、AMAT+1.8%，AI/半導體科技主線持續偏強；SOX精確漲幅因Yahoo API 403無法確認，以偏多中性估算，給15分"
         },
         "entry": {
-          "pts": 7.5,
+          "pts": 15,
           "max": 15,
-          "note": "現價在區間中段(41%)"
+          "note": "現價近今日低點(區間11%) → 接近支撐"
         },
         "volume": {
           "pts": 15,
           "max": 15,
-          "note": "推估量約均量1.4倍 → 正常"
+          "note": "推估量約均量1.2倍 → 正常"
         },
         "vwap": {
-          "pts": 5.0,
+          "pts": 0,
           "max": 10,
-          "note": "現價貼近VWAP(-0.17%)"
+          "note": "現價在VWAP之下(-0.43%) → 弱勢"
         },
         "macro": {
           "pts": 5,
@@ -3203,9 +3203,9 @@
       },
       "paper": {
         "cash": 661245,
-        "equity": 961398,
-        "market_value": 300153,
-        "return_pct": -3.86,
+        "equity": 960556,
+        "market_value": 299310,
+        "return_pct": -3.94,
         "holding": true,
         "position": {
           "shares": 7655,
@@ -3218,8 +3218,8 @@
         },
         "shares": 7655,
         "avg_cost": 37.04,
-        "unrealized": 16207,
-        "unrealized_pct": 5.71,
+        "unrealized": 15365,
+        "unrealized_pct": 5.41,
         "trades": 11,
         "wins": 3,
         "win_rate": 27.3,
