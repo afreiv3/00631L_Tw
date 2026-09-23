@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22 14:03 (Taipei)",
+  "updated": "2026-09-23 09:00 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -3148,6 +3148,77 @@
         "avg_cost": 37.04,
         "unrealized": 10925,
         "unrealized_pct": 3.85,
+        "trades": 11,
+        "wins": 3,
+        "win_rate": 27.3,
+        "realized_pnl": -54810
+      }
+    },
+    {
+      "date": "2026-09-23",
+      "time": "09:00",
+      "price": null,
+      "score": 58,
+      "zone": "amber",
+      "quant_sum": 30,
+      "ai_sum": 28,
+      "ai_ok": true,
+      "factors": {
+        "pattern": {
+          "pts": 10.0,
+          "max": 20,
+          "note": "盤中資料缺，型態以中性計"
+        },
+        "sector": {
+          "pts": 15,
+          "max": 20,
+          "note": "Nasdaq 9/22+0.5%再創27,244歷史新高，NVDA+0.7%、MU+5%、Sandisk+6.8%、AMAT+1.8%，AI/半導體科技主線持續偏強；SOX精確漲幅因Yahoo API 403無法確認，以偏多中性估算，給15分"
+        },
+        "entry": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "區間資料缺，以中性計"
+        },
+        "volume": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "量能資料缺，以中性計"
+        },
+        "vwap": {
+          "pts": 5.0,
+          "max": 10,
+          "note": "VWAP 資料缺，以中性計"
+        },
+        "macro": {
+          "pts": 5,
+          "max": 10,
+          "note": "Fed 3.75-4%升息循環持續且官員示意年內再升一次；10Y殖利率~4.959%（2007年以來次高）但較前日5.01%微降；WTI連跌5日略緩通膨壓力；整體系統風險略偏高但無新增衝擊，給5分"
+        },
+        "trend": {
+          "pts": 8,
+          "max": 10,
+          "note": "TAIEX 9/22收47,718.84(+1.14%)，三大法人全面買超470億印證多方；指數逼近6/22歷史高點~47,741；季線MA60估算~46,500-47,200（Yahoo API 403未能精確確認），指數穩在季線之上，多頭結構完好，給8分"
+        }
+      },
+      "paper": {
+        "cash": 661245,
+        "equity": 661245,
+        "market_value": 0,
+        "return_pct": -33.88,
+        "holding": true,
+        "position": {
+          "shares": 7655,
+          "entry_price": 37.04,
+          "entry_date": "2026-09-18",
+          "entry_time": "10:30",
+          "cost": 283945.25,
+          "entry_score": 73,
+          "frac": 0.3
+        },
+        "shares": 7655,
+        "avg_cost": 37.04,
+        "unrealized": -283945,
+        "unrealized_pct": -100.0,
         "trades": 11,
         "wins": 3,
         "win_rate": 27.3,
