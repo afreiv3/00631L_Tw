@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-22",
-  "generated_at": "2026-09-22 13:03",
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23 12:49",
   "model": "gemini-2.5-flash",
   "factors": {
-    "sector": 19.0,
-    "macro": 8.0,
-    "trend": 9.0
+    "sector": 18.0,
+    "macro": 7.0,
+    "trend": 8.0
   },
-  "ai_sentiment_index": 90.0,
-  "summary": "那斯達克指數創歷史新高，人工智慧樂觀情緒重燃，且美國公債殖利率回落，為台灣股市帶來強勁的科技股動能。",
+  "ai_sentiment_index": 82.5,
+  "summary": "那斯達克指數再創新高，AI與科技股表現強勁，但金融股下跌且油價走低，整體市場呈現科技股領漲的趨勢。",
   "news_zh": [
-    "那斯達克指數創新高，受惠於人工智慧樂觀情緒與公債殖利率下滑。",
-    "科技股推動市場上漲，公債殖利率與油價下跌。",
-    "美光表現亮眼，AMD股價創新高，帶動那斯達克指數飆升。",
-    "油價下跌與公債殖利率回落，促使那斯達克指數創下新紀錄。",
-    "印度股市因油價與公債殖利率下降而開盤走高。",
-    "歐洲央行開放區塊鏈連結金融市場。"
+    "那斯達克指數創歷史新高，AI概念股持續飆升。",
+    "亞洲股市受科技股帶動上漲，油價維持低迷。",
+    "金融股下跌，市場關注AI發展與殖利率曲線趨平。",
+    "聯準會官員表示，貼現窗口有助於維持市場流動性。",
+    "美國股市在聯準會升息後下跌。",
+    "那斯達克指數再創新高，晶片股持續攀升。"
   ],
   "news": [
-    "[Reuters] Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat - Reuters - Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat&nbsp;&nbsp;Reuters",
-    "[Reuters] Raymond James hires several senior investment bankers from Jefferies, sources say - Reuters - Raymond James hires several senior investment bankers from Jefferies, sources say&nbsp;&nbsp;Reuters",
-    "[Reuters] New Zealand central bank chief sees risks to economy, inflation - Reuters - New Zealand central bank chief sees risks to economy, inflation&nbsp;&nbsp;Reuters",
-    "[Reuters] Indian shares open higher on easing oil prices, bond yields - Reuters - Indian shares open higher on easing oil prices, bond yields&nbsp;&nbsp;Reuters",
-    "[Reuters] COMMENTARY: Morning Bid: Summiteering - Reuters - COMMENTARY: Morning Bid: Summiteering&nbsp;&nbsp;Reuters",
-    "[Reuters] ECB opens blockchain link to financial markets - Reuters - ECB opens blockchain link to financial markets&nbsp;&nbsp;Reuters",
-    "[Reuters] Breakingviews - COMMENTARY: SG plots credible path out of mediocrity - Reuters - Breakingviews - COMMENTARY: SG plots credible path out of mediocrity&nbsp;&nbsp;Reuters",
-    "[Reuters] Qatar's wealth fund and JP Morgan Asset Management to launch $20 billion partnership - Reuters - Qatar's wealth fund and JP Morgan Asset Management to launch $20 billion partnership&nbsp;&nbsp;Reuters",
-    "[Semis] Stock Market Today: Dow Up, Nasdaq Roars To Record As Micron Does This; AMD Hits New High - Investor's Business Daily - Stock Market Today: Dow Up, Nasdaq Roars To Record As Micron Does This; AMD Hits New High&nbsp;&nbsp;Investor's Business Daily",
-    "[Semis] Tech stocks power market surge as bond yields and oil prices tumble - NBC News - Tech stocks power market surge as bond yields and oil prices tumble&nbsp;&nbsp;NBC News"
+    "[Reuters] Nasdaq reaches record high close, AI stocks rally - Reuters - Nasdaq reaches record high close, AI stocks rally&nbsp;&nbsp;Reuters",
+    "[Reuters] Asia stocks ride tech wave higher, oil stays subdued - Reuters - Asia stocks ride tech wave higher, oil stays subdued&nbsp;&nbsp;Reuters",
+    "[Reuters] Financial stocks fall with AI and flattening yield curve in focus - Reuters - Financial stocks fall with AI and flattening yield curve in focus&nbsp;&nbsp;Reuters",
+    "[Reuters] Fed's discount window supports market liquidity, Jefferson says - Reuters - Fed's discount window supports market liquidity, Jefferson says&nbsp;&nbsp;Reuters",
+    "[Reuters] EXCLUSIVE: IDB head working on $2.5 billion Venezuela loan, faces board pushback, sources say - Reuters - EXCLUSIVE: IDB head working on $2.5 billion Venezuela loan, faces board pushback, sources say&nbsp;&nbsp;Reuters",
+    "[Reuters] COMMENTARY: Indonesia's nickel production curbs leave market unconvinced - Reuters - COMMENTARY: Indonesia's nickel production curbs leave market unconvinced&nbsp;&nbsp;Reuters",
+    "[Reuters] Breakingviews - COMMENTARY: Goldman sets M&A pace with freed capital - Reuters - Breakingviews - COMMENTARY: Goldman sets M&A pace with freed capital&nbsp;&nbsp;Reuters",
+    "[Reuters] Explainer: Why Turkey's stock market is under scrutiny after last week's selloff - Reuters - Explainer: Why Turkey's stock market is under scrutiny after last week's selloff&nbsp;&nbsp;Reuters",
+    "[Semis] U.S. Stocks Fall After Fed Rate Increase - WSJ - U.S. Stocks Fall After Fed Rate Increase&nbsp;&nbsp;WSJ",
+    "[Semis] Wall Street’s Nasdaq hits all-time high as AI frenzy gathers pace - Al Jazeera - Wall Street’s Nasdaq hits all-time high as AI frenzy gathers pace&nbsp;&nbsp;Al Jazeera"
   ],
   "debug_error": ""
 }
