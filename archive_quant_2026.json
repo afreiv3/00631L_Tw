@@ -3228,11 +3228,11 @@
     },
     {
       "date": "2026-09-24",
-      "time": "11:16",
-      "price": 38.9,
-      "score": 54,
+      "time": "11:30",
+      "price": 38.79,
+      "score": 62,
       "zone": "amber",
-      "quant_sum": 38,
+      "quant_sum": 45,
       "ai_sum": 17,
       "ai_ok": true,
       "factors": {
@@ -3247,9 +3247,9 @@
           "note": "TSM ADR逆勢+1.53%至451.95為亮點，但Nasdaq跌-1.13%、費半SOX自6月高峰累跌逾29%，半導體/科技板塊整體分歧偏弱，給8分"
         },
         "entry": {
-          "pts": 0,
+          "pts": 7.5,
           "max": 15,
-          "note": "現價在區間上緣(100%) → 屬追高"
+          "note": "現價在區間中段(62%)"
         },
         "volume": {
           "pts": 7.5,
@@ -3259,7 +3259,7 @@
         "vwap": {
           "pts": 10,
           "max": 10,
-          "note": "現價在VWAP之上(+0.51%) → 有利"
+          "note": "現價在VWAP之上(+0.18%) → 有利"
         },
         "macro": {
           "pts": 2,
@@ -3274,9 +3274,9 @@
       },
       "paper": {
         "cash": 661245,
-        "equity": 959025,
-        "market_value": 297780,
-        "return_pct": -4.1,
+        "equity": 958182,
+        "market_value": 296937,
+        "return_pct": -4.18,
         "holding": true,
         "position": {
           "shares": 7655,
@@ -3289,8 +3289,8 @@
         },
         "shares": 7655,
         "avg_cost": 37.04,
-        "unrealized": 13834,
-        "unrealized_pct": 4.87,
+        "unrealized": 12992,
+        "unrealized_pct": 4.58,
         "trades": 11,
         "wins": 3,
         "win_rate": 27.3,
