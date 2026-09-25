@@ -1,32 +1,33 @@
 {
-  "date": "2026-09-24",
-  "generated_at": "2026-09-24 12:57",
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25 13:02",
   "model": "gemini-2.5-flash",
   "factors": {
-    "sector": 3.0,
-    "macro": 2.0,
-    "trend": 2.0
+    "sector": 14.0,
+    "macro": 5.0,
+    "trend": 6.0
   },
-  "ai_sentiment_index": 17.5,
-  "summary": "美國公債殖利率飆升至多年新高，引發市場對通膨和進一步升息的擔憂，導致科技股和整體股市承壓。",
+  "ai_sentiment_index": 62.5,
+  "summary": "全球市場因美國公債殖利率飆升和AI融資擔憂而承壓，但台灣半導體產業仍展現韌性。",
   "news_zh": [
-    "華爾街收跌，因油價和公債殖利率上漲。",
-    "美國10年期公債殖利率觸及2007年以來最高水準，市場預期聯準會將再次升息。",
-    "亞洲股市和債市因通膨擔憂而下跌。",
-    "Meta的個人AI代理Muse重新引發了市場對AI領域贏家和輸家的擔憂。",
-    "評論：被動投資？標普500指數基金基本上就是科技基金。"
+    "美國公債殖利率飆升，引發市場對聯準會升息循環影響股市的擔憂。",
+    "Oracle和Blue Owl的專案延遲，對AI融資市場產生連鎖反應。",
+    "儘管AI近期遇到一些小挫折，但台積電的強勁增長趨勢依然持續。",
+    "投資者質疑台灣半導體股票是否被低估，值得現在買入。",
+    "中東地區不確定性和航運問題導致多數海灣地區股市下跌。",
+    "評論指出「萬物皆泡泡」現象捲土重來，規模比以往更大。"
   ],
   "news": [
-    "[Reuters] COMMENTARY: Passive investing? That S&P 500 index fund is basically a tech fund - Reuters - COMMENTARY: Passive investing? That S&P 500 index fund is basically a tech fund&nbsp;&nbsp;Reuters",
-    "[Reuters] Wall Street ends down as oil prices, Treasury yields rise - Reuters - Wall Street ends down as oil prices, Treasury yields rise&nbsp;&nbsp;Reuters",
-    "[Reuters] As 5% Treasury yields lose shock value, investors start worrying about 6% - Reuters - As 5% Treasury yields lose shock value, investors start worrying about 6%&nbsp;&nbsp;Reuters",
-    "[Reuters] Meta's Muse rekindles fears over winners and losers as personal AI agent emerges - Reuters - Meta's Muse rekindles fears over winners and losers as personal AI agent emerges&nbsp;&nbsp;Reuters",
-    "[Reuters] COMMENTARY: Trading Day: US yields cross 5% threshold​ - Reuters - COMMENTARY: Trading Day: US yields cross 5% threshold​&nbsp;&nbsp;Reuters",
-    "[Reuters] EXCLUSIVE: Hellman & Friedman explores sale of Applied Systems at up to $10 billion, sources say - Reuters - EXCLUSIVE: Hellman & Friedman explores sale of Applied Systems at up to $10 billion, sources say&nbsp;&nbsp;Reuters",
-    "[Reuters] Japan's Katayama says principles of Japan-US FX intervention remain in place - Reuters - Japan's Katayama says principles of Japan-US FX intervention remain in place&nbsp;&nbsp;Reuters",
-    "[Reuters] GCash owner Mynt secures over 20 cornerstone investors for potentially biggest Philippine IPO - Reuters - GCash owner Mynt secures over 20 cornerstone investors for potentially biggest Philippine IPO&nbsp;&nbsp;Reuters",
-    "[Semis] H.E. John Dramani Mahama, President of the Republic of Ghana Rings the Nasdaq Stock Market Closing Bell - Nasdaq - H.E. John Dramani Mahama, President of the Republic of Ghana Rings the Nasdaq Stock Market Closing Bell&nbsp;&nbsp;Nasdaq",
-    "[Semis] Stock Market Today: Small Caps, Gold Miners Spanked Amid Sell-Off; Meta Makes A Bullish Move - Investor's Business Daily - Stock Market Today: Small Caps, Gold Miners Spanked Amid Sell-Off; Meta Makes A Bullish Move&nbsp;&nbsp;Investor's Business Daily"
+    "[Reuters] Five French market hot spots on investors' radars - Reuters - Five French market hot spots on investors' radars&nbsp;&nbsp;Reuters",
+    "[Reuters] EXCLUSIVE: Japan's SMBC in talks to increase stake in Vietnam's VPBank, sources say - Reuters - EXCLUSIVE: Japan's SMBC in talks to increase stake in Vietnam's VPBank, sources say&nbsp;&nbsp;Reuters",
+    "[Reuters] Oracle, Blue Owl project delay sends ripples through AI financing, sources say - Reuters - Oracle, Blue Owl project delay sends ripples through AI financing, sources say&nbsp;&nbsp;Reuters",
+    "[Reuters] Saudi Arabia's market regulator proposes tighter rules for IPOs after market slowdown - Reuters - Saudi Arabia's market regulator proposes tighter rules for IPOs after market slowdown&nbsp;&nbsp;Reuters",
+    "[Reuters] Most Gulf shares in red on regional uncertainty, shipping concerns - Reuters - Most Gulf shares in red on regional uncertainty, shipping concerns&nbsp;&nbsp;Reuters",
+    "[Reuters] Breakingviews - COMMENTARY: The Everything Bubble is back and bigger than ever - Reuters - Breakingviews - COMMENTARY: The Everything Bubble is back and bigger than ever&nbsp;&nbsp;Reuters",
+    "[Reuters] Indian shares open flat as elevated oil, yields weigh - Reuters - Indian shares open flat as elevated oil, yields weigh&nbsp;&nbsp;Reuters",
+    "[Reuters] Credit Agricole, UniCredit have floated potential joint move on Banco BPM, sources - Reuters - Credit Agricole, UniCredit have floated potential joint move on Banco BPM, sources&nbsp;&nbsp;Reuters",
+    "[Semis] ONE Nuclear Energy Rings the Nasdaq Stock Market Opening Bell - Nasdaq - ONE Nuclear Energy Rings the Nasdaq Stock Market Opening Bell&nbsp;&nbsp;Nasdaq",
+    "[Semis] Is Taiwan Semiconductor Stock an Undervalued AI Stock to Buy Right Now? - The Motley Fool - Is Taiwan Semiconductor Stock an Undervalued AI Stock to Buy Right Now?&nbsp;&nbsp;The Motley Fool"
   ],
   "debug_error": ""
 }
