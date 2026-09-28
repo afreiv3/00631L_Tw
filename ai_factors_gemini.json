@@ -1,33 +1,32 @@
 {
-  "date": "2026-09-25",
-  "generated_at": "2026-09-25 13:02",
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28 13:29",
   "model": "gemini-2.5-flash",
   "factors": {
-    "sector": 14.0,
-    "macro": 5.0,
-    "trend": 6.0
+    "sector": 7.0,
+    "macro": 4.0,
+    "trend": 5.0
   },
-  "ai_sentiment_index": 62.5,
-  "summary": "全球市場因美國公債殖利率飆升和AI融資擔憂而承壓，但台灣半導體產業仍展現韌性。",
+  "ai_sentiment_index": 40.0,
+  "summary": "亞洲股市下跌，油價上漲，債券市場退縮，加上聯準會升息的擔憂，預示台灣市場今日可能面臨壓力。",
   "news_zh": [
-    "美國公債殖利率飆升，引發市場對聯準會升息循環影響股市的擔憂。",
-    "Oracle和Blue Owl的專案延遲，對AI融資市場產生連鎖反應。",
-    "儘管AI近期遇到一些小挫折，但台積電的強勁增長趨勢依然持續。",
-    "投資者質疑台灣半導體股票是否被低估，值得現在買入。",
-    "中東地區不確定性和航運問題導致多數海灣地區股市下跌。",
-    "評論指出「萬物皆泡泡」現象捲土重來，規模比以往更大。"
+    "亞洲股市下跌，油價攀升，債券市場呈現退縮。",
+    "聯準會升息對亞洲經濟體的影響成為關注焦點。",
+    "日本央行會議紀錄顯示，內部曾討論加快升息的必要性。",
+    "香港推出八檔ETF，以吸引中國保險公司對海外資產的需求。",
+    "本週市場將密切關注核心PCE、非農就業數據及聯準會官員發言。"
   ],
   "news": [
-    "[Reuters] Five French market hot spots on investors' radars - Reuters - Five French market hot spots on investors' radars&nbsp;&nbsp;Reuters",
-    "[Reuters] EXCLUSIVE: Japan's SMBC in talks to increase stake in Vietnam's VPBank, sources say - Reuters - EXCLUSIVE: Japan's SMBC in talks to increase stake in Vietnam's VPBank, sources say&nbsp;&nbsp;Reuters",
-    "[Reuters] Oracle, Blue Owl project delay sends ripples through AI financing, sources say - Reuters - Oracle, Blue Owl project delay sends ripples through AI financing, sources say&nbsp;&nbsp;Reuters",
-    "[Reuters] Saudi Arabia's market regulator proposes tighter rules for IPOs after market slowdown - Reuters - Saudi Arabia's market regulator proposes tighter rules for IPOs after market slowdown&nbsp;&nbsp;Reuters",
-    "[Reuters] Most Gulf shares in red on regional uncertainty, shipping concerns - Reuters - Most Gulf shares in red on regional uncertainty, shipping concerns&nbsp;&nbsp;Reuters",
-    "[Reuters] Breakingviews - COMMENTARY: The Everything Bubble is back and bigger than ever - Reuters - Breakingviews - COMMENTARY: The Everything Bubble is back and bigger than ever&nbsp;&nbsp;Reuters",
-    "[Reuters] Indian shares open flat as elevated oil, yields weigh - Reuters - Indian shares open flat as elevated oil, yields weigh&nbsp;&nbsp;Reuters",
-    "[Reuters] Credit Agricole, UniCredit have floated potential joint move on Banco BPM, sources - Reuters - Credit Agricole, UniCredit have floated potential joint move on Banco BPM, sources&nbsp;&nbsp;Reuters",
-    "[Semis] ONE Nuclear Energy Rings the Nasdaq Stock Market Opening Bell - Nasdaq - ONE Nuclear Energy Rings the Nasdaq Stock Market Opening Bell&nbsp;&nbsp;Nasdaq",
-    "[Semis] Is Taiwan Semiconductor Stock an Undervalued AI Stock to Buy Right Now? - The Motley Fool - Is Taiwan Semiconductor Stock an Undervalued AI Stock to Buy Right Now?&nbsp;&nbsp;The Motley Fool"
+    "[Reuters] Morning Bid: A new neutral rate, much like a decades-old one - reuters.com - Morning Bid: A new neutral rate, much like a decades-old one&nbsp;&nbsp;reuters.com",
+    "[Reuters] Stocks slip in Asia as oil climbs, bonds retreat - reuters.com - Stocks slip in Asia as oil climbs, bonds retreat&nbsp;&nbsp;reuters.com",
+    "[Reuters] Indonesia Stock Exchange changes focus of risk watchlist rules to company fundamentals - reuters.com - Indonesia Stock Exchange changes focus of risk watchlist rules to company fundamentals&nbsp;&nbsp;reuters.com",
+    "[Reuters] Hong Kong home prices largely flat in August - reuters.com - Hong Kong home prices largely flat in August&nbsp;&nbsp;reuters.com",
+    "[Reuters] COMMENTARY: Where will Fed tightening hit hardest in Asia? - reuters.com - COMMENTARY: Where will Fed tightening hit hardest in Asia?&nbsp;&nbsp;reuters.com",
+    "[Reuters] Breakingviews - COMMENTARY: Eastern Europe's miracle can survive protectionism - reuters.com - Breakingviews - COMMENTARY: Eastern Europe's miracle can survive protectionism&nbsp;&nbsp;reuters.com",
+    "[Reuters] Bank of Japan debated need for faster rate hikes, July minutes show - reuters.com - Bank of Japan debated need for faster rate hikes, July minutes show&nbsp;&nbsp;reuters.com",
+    "[Reuters] Hong Kong lists eight ETFs to tap Chinese insurer demand for overseas assets - reuters.com - Hong Kong lists eight ETFs to tap Chinese insurer demand for overseas assets&nbsp;&nbsp;reuters.com",
+    "[Semis] CAPITAL IDEAS: Are your bonds safe after the Fed hikes interest rates? - theberkshireedge.com - CAPITAL IDEAS: Are your bonds safe after the Fed hikes interest rates?&nbsp;&nbsp;theberkshireedge.com",
+    "[Semis] If a Stock Market Crash Is Coming, Warren Buffett Says Investors Should Make This 1 Move Right Now - The Motley Fool - If a Stock Market Crash Is Coming, Warren Buffett Says Investors Should Make This 1 Move Right Now&nbsp;&nbsp;The Motley Fool"
   ],
   "debug_error": ""
 }
