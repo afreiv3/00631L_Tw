@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29 09:45 (Taipei)",
+  "updated": "2026-09-29 10:00 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -3298,8 +3298,8 @@
     },
     {
       "date": "2026-09-29",
-      "time": "09:45",
-      "price": 38.59,
+      "time": "10:00",
+      "price": 38.82,
       "score": 70,
       "zone": "green",
       "quant_sum": 45,
@@ -3307,9 +3307,9 @@
       "ai_ok": true,
       "factors": {
         "pattern": {
-          "pts": 10.0,
+          "pts": 20,
           "max": 20,
-          "note": "開-0.4%、小幅回落，型態中性"
+          "note": "現價守在開盤之上(開-0.4%) → 有利"
         },
         "sector": {
           "pts": 14,
@@ -3317,19 +3317,19 @@
           "note": "NVDA Q2爆強（+106%，$96B）+$1,500億回購帶動費半相對抗跌，9/28 NVDA +1.68%、TSM ADR +0.5%至$452.88；但Nasdaq整體 -0.92%，SOX 9/28精確數值查無（以NVDA/TSM相對強勁估判，略正或持平），板塊偏強但非全面多頭，給14分"
         },
         "entry": {
-          "pts": 15,
+          "pts": 0,
           "max": 15,
-          "note": "現價近今日低點(區間31%) → 接近支撐"
+          "note": "現價在區間上緣(100%) → 屬追高"
         },
         "volume": {
           "pts": 15,
           "max": 15,
-          "note": "推估量約均量1.0倍 → 正常"
+          "note": "推估量約均量0.9倍 → 正常"
         },
         "vwap": {
-          "pts": 5.0,
+          "pts": 10,
           "max": 10,
-          "note": "現價貼近VWAP(-0.13%)"
+          "note": "現價在VWAP之上(+0.44%) → 有利"
         },
         "macro": {
           "pts": 4,
@@ -3344,9 +3344,9 @@
       },
       "paper": {
         "cash": 661245,
-        "equity": 956651,
-        "market_value": 295406,
-        "return_pct": -4.33,
+        "equity": 958412,
+        "market_value": 297167,
+        "return_pct": -4.16,
         "holding": true,
         "position": {
           "shares": 7655,
@@ -3359,8 +3359,8 @@
         },
         "shares": 7655,
         "avg_cost": 37.04,
-        "unrealized": 11461,
-        "unrealized_pct": 4.04,
+        "unrealized": 13222,
+        "unrealized_pct": 4.66,
         "trades": 11,
         "wins": 3,
         "win_rate": 27.3,
