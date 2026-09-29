@@ -1,32 +1,31 @@
 {
-  "date": "2026-09-28",
-  "generated_at": "2026-09-28 13:29",
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29 13:48",
   "model": "gemini-2.5-flash",
   "factors": {
-    "sector": 7.0,
-    "macro": 4.0,
-    "trend": 5.0
+    "sector": 3.0,
+    "macro": 2.0,
+    "trend": 4.0
   },
-  "ai_sentiment_index": 40.0,
-  "summary": "亞洲股市下跌，油價上漲，債券市場退縮，加上聯準會升息的擔憂，預示台灣市場今日可能面臨壓力。",
+  "ai_sentiment_index": 22.5,
+  "summary": "全球股市因債券殖利率上升和油價走高而下跌，半導體類股也受到OpenAI訓練暫停的影響而普遍走弱。",
   "news_zh": [
-    "亞洲股市下跌，油價攀升，債券市場呈現退縮。",
-    "聯準會升息對亞洲經濟體的影響成為關注焦點。",
-    "日本央行會議紀錄顯示，內部曾討論加快升息的必要性。",
-    "香港推出八檔ETF，以吸引中國保險公司對海外資產的需求。",
-    "本週市場將密切關注核心PCE、非農就業數據及聯準會官員發言。"
+    "債券殖利率上升對股市構成壓力。",
+    "油價上漲與公債殖利率攀升導致股市下跌。",
+    "OpenAI訓練暫停導致半導體類股普遍下跌。",
+    "中國RoboTechnik在香港首日交易下跌，新股表現參差。"
   ],
   "news": [
-    "[Reuters] Morning Bid: A new neutral rate, much like a decades-old one - reuters.com - Morning Bid: A new neutral rate, much like a decades-old one&nbsp;&nbsp;reuters.com",
-    "[Reuters] Stocks slip in Asia as oil climbs, bonds retreat - reuters.com - Stocks slip in Asia as oil climbs, bonds retreat&nbsp;&nbsp;reuters.com",
-    "[Reuters] Indonesia Stock Exchange changes focus of risk watchlist rules to company fundamentals - reuters.com - Indonesia Stock Exchange changes focus of risk watchlist rules to company fundamentals&nbsp;&nbsp;reuters.com",
-    "[Reuters] Hong Kong home prices largely flat in August - reuters.com - Hong Kong home prices largely flat in August&nbsp;&nbsp;reuters.com",
-    "[Reuters] COMMENTARY: Where will Fed tightening hit hardest in Asia? - reuters.com - COMMENTARY: Where will Fed tightening hit hardest in Asia?&nbsp;&nbsp;reuters.com",
-    "[Reuters] Breakingviews - COMMENTARY: Eastern Europe's miracle can survive protectionism - reuters.com - Breakingviews - COMMENTARY: Eastern Europe's miracle can survive protectionism&nbsp;&nbsp;reuters.com",
-    "[Reuters] Bank of Japan debated need for faster rate hikes, July minutes show - reuters.com - Bank of Japan debated need for faster rate hikes, July minutes show&nbsp;&nbsp;reuters.com",
-    "[Reuters] Hong Kong lists eight ETFs to tap Chinese insurer demand for overseas assets - reuters.com - Hong Kong lists eight ETFs to tap Chinese insurer demand for overseas assets&nbsp;&nbsp;reuters.com",
-    "[Semis] CAPITAL IDEAS: Are your bonds safe after the Fed hikes interest rates? - theberkshireedge.com - CAPITAL IDEAS: Are your bonds safe after the Fed hikes interest rates?&nbsp;&nbsp;theberkshireedge.com",
-    "[Semis] If a Stock Market Crash Is Coming, Warren Buffett Says Investors Should Make This 1 Move Right Now - The Motley Fool - If a Stock Market Crash Is Coming, Warren Buffett Says Investors Should Make This 1 Move Right Now&nbsp;&nbsp;The Motley Fool"
+    "[Reuters] Rising bond yields put the brakes on stocks - Reuters - Rising bond yields put the brakes on stocks&nbsp;&nbsp;Reuters",
+    "[Reuters] Stocks fall as higher oil prices, Treasury yields weigh - Reuters - Stocks fall as higher oil prices, Treasury yields weigh&nbsp;&nbsp;Reuters",
+    "[Reuters] Battered bond market braces for a new era of interest rates - Reuters - Battered bond market braces for a new era of interest rates&nbsp;&nbsp;Reuters",
+    "[Reuters] EXCLUSIVE Japan's currency diplomat Mimura urges markets to heed 'very clear' warning on yen - Reuters - EXCLUSIVE Japan's currency diplomat Mimura urges markets to heed 'very clear' warning on yen&nbsp;&nbsp;Reuters",
+    "[Reuters] Prediction markets' push into US stocks raises regulatory alarm bells - Reuters - Prediction markets' push into US stocks raises regulatory alarm bells&nbsp;&nbsp;Reuters",
+    "[Reuters] China's RoboTechnik slides in Hong Kong debut as new listings trade mixed - Reuters - China's RoboTechnik slides in Hong Kong debut as new listings trade mixed&nbsp;&nbsp;Reuters",
+    "[Reuters] Jefferies' record equities haul offsets asset management slump - Reuters - Jefferies' record equities haul offsets asset management slump&nbsp;&nbsp;Reuters",
+    "[Reuters] COMMENTARY: Can the US grow its way out of debt? Don't bet on it - Reuters - COMMENTARY: Can the US grow its way out of debt? Don't bet on it&nbsp;&nbsp;Reuters",
+    "[Semis] Shoals Technologies Group, Inc. Rings the Nasdaq Stock Market Opening Bell - Nasdaq - Shoals Technologies Group, Inc. Rings the Nasdaq Stock Market Opening Bell&nbsp;&nbsp;Nasdaq",
+    "[Semis] Intel vs. Nvidia: Which Semiconductor Stock Is a Better Buy in 2026? - The Motley Fool - Intel vs. Nvidia: Which Semiconductor Stock Is a Better Buy in 2026?&nbsp;&nbsp;The Motley Fool"
   ],
   "debug_error": ""
 }
