@@ -3299,8 +3299,8 @@
     },
     {
       "date": "2026-09-29",
-      "time": "09:30",
-      "price": 38.71,
+      "time": "09:45",
+      "price": 38.59,
       "score": 70,
       "zone": "green",
       "quant_sum": 45,
@@ -3308,9 +3308,9 @@
       "ai_ok": true,
       "factors": {
         "pattern": {
-          "pts": 20,
+          "pts": 10.0,
           "max": 20,
-          "note": "現價守在開盤之上(開-0.4%) → 有利"
+          "note": "開-0.4%、小幅回落，型態中性"
         },
         "sector": {
           "pts": 14,
@@ -3318,19 +3318,19 @@
           "note": "NVDA Q2爆強（+106%，$96B）+$1,500億回購帶動費半相對抗跌，9/28 NVDA +1.68%、TSM ADR +0.5%至$452.88；但Nasdaq整體 -0.92%，SOX 9/28精確數值查無（以NVDA/TSM相對強勁估判，略正或持平），板塊偏強但非全面多頭，給14分"
         },
         "entry": {
-          "pts": 0,
+          "pts": 15,
           "max": 15,
-          "note": "現價在區間上緣(67%) → 屬追高"
+          "note": "現價近今日低點(區間31%) → 接近支撐"
         },
         "volume": {
           "pts": 15,
           "max": 15,
-          "note": "推估量約均量0.9倍 → 正常"
+          "note": "推估量約均量1.0倍 → 正常"
         },
         "vwap": {
-          "pts": 10,
+          "pts": 5.0,
           "max": 10,
-          "note": "現價在VWAP之上(+0.09%) → 有利"
+          "note": "現價貼近VWAP(-0.13%)"
         },
         "macro": {
           "pts": 4,
@@ -3345,9 +3345,9 @@
       },
       "paper": {
         "cash": 661245,
-        "equity": 957570,
-        "market_value": 296325,
-        "return_pct": -4.24,
+        "equity": 956651,
+        "market_value": 295406,
+        "return_pct": -4.33,
         "holding": true,
         "position": {
           "shares": 7655,
@@ -3360,8 +3360,8 @@
         },
         "shares": 7655,
         "avg_cost": 37.04,
-        "unrealized": 12380,
-        "unrealized_pct": 4.36,
+        "unrealized": 11461,
+        "unrealized_pct": 4.04,
         "trades": 11,
         "wins": 3,
         "win_rate": 27.3,
