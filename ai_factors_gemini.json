@@ -1,31 +1,32 @@
 {
-  "date": "2026-09-29",
-  "generated_at": "2026-09-29 13:48",
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30 13:37",
   "model": "gemini-2.5-flash",
   "factors": {
-    "sector": 3.0,
-    "macro": 2.0,
-    "trend": 4.0
+    "sector": 14.0,
+    "macro": 5.0,
+    "trend": 7.0
   },
-  "ai_sentiment_index": 22.5,
-  "summary": "全球股市因債券殖利率上升和油價走高而下跌，半導體類股也受到OpenAI訓練暫停的影響而普遍走弱。",
+  "ai_sentiment_index": 65.0,
+  "summary": "儘管美國消費者信心疲軟且債券殖利率居高不下，但半導體產業的強勁表現和亞洲股市的潛在成長為市場帶來支撐。",
   "news_zh": [
-    "債券殖利率上升對股市構成壓力。",
-    "油價上漲與公債殖利率攀升導致股市下跌。",
-    "OpenAI訓練暫停導致半導體類股普遍下跌。",
-    "中國RoboTechnik在香港首日交易下跌，新股表現參差。"
+    "美國股市因債券殖利率維持在數十年高點附近而小幅收低。",
+    "亞洲股票銷售在AI熱潮推動下，有望挑戰2021年紀錄。",
+    "美國消費者信心因勞動市場擔憂而接近12年半低點。",
+    "半導體產業和股市上漲帶動了88.4兆韓元的稅收盈餘。",
+    "預測台積電市值將在2027年底前達到3兆美元。"
   ],
   "news": [
-    "[Reuters] Rising bond yields put the brakes on stocks - Reuters - Rising bond yields put the brakes on stocks&nbsp;&nbsp;Reuters",
-    "[Reuters] Stocks fall as higher oil prices, Treasury yields weigh - Reuters - Stocks fall as higher oil prices, Treasury yields weigh&nbsp;&nbsp;Reuters",
-    "[Reuters] Battered bond market braces for a new era of interest rates - Reuters - Battered bond market braces for a new era of interest rates&nbsp;&nbsp;Reuters",
-    "[Reuters] EXCLUSIVE Japan's currency diplomat Mimura urges markets to heed 'very clear' warning on yen - Reuters - EXCLUSIVE Japan's currency diplomat Mimura urges markets to heed 'very clear' warning on yen&nbsp;&nbsp;Reuters",
-    "[Reuters] Prediction markets' push into US stocks raises regulatory alarm bells - Reuters - Prediction markets' push into US stocks raises regulatory alarm bells&nbsp;&nbsp;Reuters",
-    "[Reuters] China's RoboTechnik slides in Hong Kong debut as new listings trade mixed - Reuters - China's RoboTechnik slides in Hong Kong debut as new listings trade mixed&nbsp;&nbsp;Reuters",
-    "[Reuters] Jefferies' record equities haul offsets asset management slump - Reuters - Jefferies' record equities haul offsets asset management slump&nbsp;&nbsp;Reuters",
-    "[Reuters] COMMENTARY: Can the US grow its way out of debt? Don't bet on it - Reuters - COMMENTARY: Can the US grow its way out of debt? Don't bet on it&nbsp;&nbsp;Reuters",
-    "[Semis] Shoals Technologies Group, Inc. Rings the Nasdaq Stock Market Opening Bell - Nasdaq - Shoals Technologies Group, Inc. Rings the Nasdaq Stock Market Opening Bell&nbsp;&nbsp;Nasdaq",
-    "[Semis] Intel vs. Nvidia: Which Semiconductor Stock Is a Better Buy in 2026? - The Motley Fool - Intel vs. Nvidia: Which Semiconductor Stock Is a Better Buy in 2026?&nbsp;&nbsp;The Motley Fool"
+    "[Reuters] COMMENTARY: Trading Day: Stocks still in bonds' grip - Reuters - COMMENTARY: Trading Day: Stocks still in bonds' grip&nbsp;&nbsp;Reuters",
+    "[Reuters] Equities end slightly lower as bond yields hold near multi-decade highs - Reuters - Equities end slightly lower as bond yields hold near multi-decade highs&nbsp;&nbsp;Reuters",
+    "[Reuters] EXCLUSIVE: Tiger Global, Dragoneer in talks to invest in Kalshi's new $1 billion fundraise, sources say - Reuters - EXCLUSIVE: Tiger Global, Dragoneer in talks to invest in Kalshi's new $1 billion fundraise, sources say&nbsp;&nbsp;Reuters",
+    "[Reuters] Asia share sales poised to test 2021 record as AI boom fuels deal pipeline - Reuters - Asia share sales poised to test 2021 record as AI boom fuels deal pipeline&nbsp;&nbsp;Reuters",
+    "[Reuters] Robinhood to allow 24-hour weekend trading of US stocks as industry shifts to wider access - Reuters - Robinhood to allow 24-hour weekend trading of US stocks as industry shifts to wider access&nbsp;&nbsp;Reuters",
+    "[Reuters] Breakingviews - COMMENTARY: China’s next big export could be $1.5 trln of debt - Reuters - Breakingviews - COMMENTARY: China’s next big export could be $1.5 trln of debt&nbsp;&nbsp;Reuters",
+    "[Reuters] Trump set to tout Korean investment in Alaska LNG, other projects, sources say - Reuters - Trump set to tout Korean investment in Alaska LNG, other projects, sources say&nbsp;&nbsp;Reuters",
+    "[Reuters] US consumer confidence near 12-1/2-year low amid labor market fears - Reuters - US consumer confidence near 12-1/2-year low amid labor market fears&nbsp;&nbsp;Reuters",
+    "[Semis] Semiconductor, Stock Market Surge Drives 88.4 Trillion Won Tax Surplus - 조선일보 - Semiconductor, Stock Market Surge Drives 88.4 Trillion Won Tax Surplus&nbsp;&nbsp;조선일보",
+    "[Semis] Equities end slightly lower as bond yields hold near multi-decade highs - Reuters - Equities end slightly lower as bond yields hold near multi-decade highs&nbsp;&nbsp;Reuters"
   ],
   "debug_error": ""
 }
