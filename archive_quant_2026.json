@@ -3370,11 +3370,11 @@
     },
     {
       "date": "2026-09-30",
-      "time": "09:30",
-      "price": 39.1,
-      "score": 62,
+      "time": "09:45",
+      "price": 39.26,
+      "score": 55,
       "zone": "amber",
-      "quant_sum": 52,
+      "quant_sum": 45,
       "ai_sum": 10,
       "ai_ok": true,
       "factors": {
@@ -3389,19 +3389,19 @@
           "note": "半導體板塊隔夜明顯轉弱：ARM -8.7%（Nasdaq最大輸家）、ASML -9.61%（警告2026成長）、NVDA -0.72%，SOX 9/29確切值查不到以中性計；整體科技/半導體評分轉弱，給3分。"
         },
         "entry": {
-          "pts": 7.5,
+          "pts": 0,
           "max": 15,
-          "note": "現價在區間中段(62%)"
+          "note": "現價在區間上緣(96%) → 屬追高"
         },
         "volume": {
           "pts": 15,
           "max": 15,
-          "note": "推估量約均量1.3倍 → 正常"
+          "note": "推估量約均量1.4倍 → 正常"
         },
         "vwap": {
           "pts": 10,
           "max": 10,
-          "note": "現價在VWAP之上(+0.02%) → 有利"
+          "note": "現價在VWAP之上(+0.35%) → 有利"
         },
         "macro": {
           "pts": 2,
@@ -3416,9 +3416,9 @@
       },
       "paper": {
         "cash": 661245,
-        "equity": 960556,
-        "market_value": 299310,
-        "return_pct": -3.94,
+        "equity": 961780,
+        "market_value": 300535,
+        "return_pct": -3.82,
         "holding": true,
         "position": {
           "shares": 7655,
@@ -3431,8 +3431,8 @@
         },
         "shares": 7655,
         "avg_cost": 37.04,
-        "unrealized": 15365,
-        "unrealized_pct": 5.41,
+        "unrealized": 16590,
+        "unrealized_pct": 5.84,
         "trades": 11,
         "wins": 3,
         "win_rate": 27.3,
