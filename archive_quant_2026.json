@@ -1,6 +1,6 @@
 {
   "year": "2026",
-  "count": 52,
+  "count": 53,
   "history": [
     {
       "date": "2026-07-20",
@@ -3475,6 +3475,69 @@
           "pts": 7,
           "max": 10,
           "note": "TAIEX收48,048，高於季線(~47,100)約948點(+2.0%)；Q4首日收陽，9/30外資淨買296億，大盤結構完好，多頭格局延續，給7分。"
+        }
+      },
+      "paper": {
+        "cash": 961281,
+        "equity": 961281,
+        "market_value": 0,
+        "return_pct": -3.87,
+        "holding": false,
+        "position": null,
+        "shares": 0,
+        "avg_cost": null,
+        "unrealized": 0,
+        "unrealized_pct": 0,
+        "trades": 12,
+        "wins": 4,
+        "win_rate": 33.3,
+        "realized_pnl": -38719
+      }
+    },
+    {
+      "date": "2026-10-02",
+      "time": "09:00",
+      "price": null,
+      "score": 55,
+      "zone": "amber",
+      "quant_sum": 30,
+      "ai_sum": 25,
+      "ai_ok": true,
+      "factors": {
+        "pattern": {
+          "pts": 10.0,
+          "max": 20,
+          "note": "盤中資料缺，型態以中性計"
+        },
+        "sector": {
+          "pts": 13,
+          "max": 20,
+          "note": "SOX 10/1+1.58%至12,829、TSM ADR+0.66%至$459.20，費半止跌回升；惟AVGO -1.28%至$351.19、Nasdaq僅+0.04%，科技整體分歧，板塊偏強但非全面，給13分。"
+        },
+        "entry": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "區間資料缺，以中性計"
+        },
+        "volume": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "量能資料缺，以中性計"
+        },
+        "vwap": {
+          "pts": 5.0,
+          "max": 10,
+          "note": "VWAP 資料缺，以中性計"
+        },
+        "macro": {
+          "pts": 5,
+          "max": 10,
+          "note": "10Y殖利率5.24%（降5bp，仍接近20年高）、WTI $90.06高位，Fed 3.75-4.00%升息路徑不確定（62%維持、38%再升）；10月升息機率降至37%略改善，整體略波動，給5分。"
+        },
+        "trend": {
+          "pts": 7,
+          "max": 10,
+          "note": "TAIEX昨收48,048（+0.23%），季線估約47,100（Yahoo 403，據10/1 ai_factors估算），加權在季線上方約948點(+2.0%)；Q4開局偏多，結構完好，給7分。"
         }
       },
       "paper": {
