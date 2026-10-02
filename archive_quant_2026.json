@@ -3496,11 +3496,11 @@
     },
     {
       "date": "2026-10-02",
-      "time": "09:45",
-      "price": 39.49,
-      "score": 68,
-      "zone": "amber",
-      "quant_sum": 42,
+      "time": "10:00",
+      "price": 39.36,
+      "score": 70,
+      "zone": "green",
+      "quant_sum": 45,
       "ai_sum": 25,
       "ai_ok": true,
       "factors": {
@@ -3515,9 +3515,9 @@
           "note": "SOX 10/1+1.58%至12,829、TSM ADR+0.66%至$459.20，費半止跌回升；惟AVGO -1.28%至$351.19、Nasdaq僅+0.04%，科技整體分歧，板塊偏強但非全面，給13分。"
         },
         "entry": {
-          "pts": 7.5,
+          "pts": 15,
           "max": 15,
-          "note": "現價在區間中段(55%)"
+          "note": "現價近今日低點(區間24%) → 接近支撐"
         },
         "volume": {
           "pts": 15,
@@ -3525,9 +3525,9 @@
           "note": "推估量約均量0.9倍 → 正常"
         },
         "vwap": {
-          "pts": 10,
+          "pts": 5.0,
           "max": 10,
-          "note": "現價在VWAP之上(+0.03%) → 有利"
+          "note": "現價貼近VWAP(-0.22%)"
         },
         "macro": {
           "pts": 5,
@@ -3542,9 +3542,9 @@
       },
       "paper": {
         "cash": 672524,
-        "equity": 961235,
-        "market_value": 288711,
-        "return_pct": -3.88,
+        "equity": 960285,
+        "market_value": 287761,
+        "return_pct": -3.97,
         "holding": true,
         "position": {
           "shares": 7311,
@@ -3557,8 +3557,8 @@
         },
         "shares": 7311,
         "avg_cost": 39.44,
-        "unrealized": -45,
-        "unrealized_pct": -0.02,
+        "unrealized": -996,
+        "unrealized_pct": -0.34,
         "trades": 12,
         "wins": 4,
         "win_rate": 33.3,
