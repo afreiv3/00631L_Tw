@@ -3496,18 +3496,18 @@
     },
     {
       "date": "2026-10-02",
-      "time": "09:15",
-      "price": null,
-      "score": 55,
-      "zone": "amber",
-      "quant_sum": 30,
+      "time": "09:30",
+      "price": 39.44,
+      "score": 70,
+      "zone": "green",
+      "quant_sum": 45,
       "ai_sum": 25,
       "ai_ok": true,
       "factors": {
         "pattern": {
           "pts": 10.0,
           "max": 20,
-          "note": "盤中資料缺，型態以中性計"
+          "note": "開-0.1%、小幅回落，型態中性"
         },
         "sector": {
           "pts": 13,
@@ -3515,19 +3515,19 @@
           "note": "SOX 10/1+1.58%至12,829、TSM ADR+0.66%至$459.20，費半止跌回升；惟AVGO -1.28%至$351.19、Nasdaq僅+0.04%，科技整體分歧，板塊偏強但非全面，給13分。"
         },
         "entry": {
-          "pts": 7.5,
+          "pts": 15,
           "max": 15,
-          "note": "區間資料缺，以中性計"
+          "note": "現價近今日低點(區間30%) → 接近支撐"
         },
         "volume": {
-          "pts": 7.5,
+          "pts": 15,
           "max": 15,
-          "note": "量能資料缺，以中性計"
+          "note": "推估量約均量0.8倍 → 正常"
         },
         "vwap": {
           "pts": 5.0,
           "max": 10,
-          "note": "VWAP 資料缺，以中性計"
+          "note": "現價貼近VWAP(-0.01%)"
         },
         "macro": {
           "pts": 5,
@@ -3541,16 +3541,24 @@
         }
       },
       "paper": {
-        "cash": 961281,
-        "equity": 961281,
-        "market_value": 0,
-        "return_pct": -3.87,
-        "holding": false,
-        "position": null,
-        "shares": 0,
-        "avg_cost": null,
-        "unrealized": 0,
-        "unrealized_pct": 0,
+        "cash": 672524,
+        "equity": 960870,
+        "market_value": 288346,
+        "return_pct": -3.91,
+        "holding": true,
+        "position": {
+          "shares": 7311,
+          "entry_price": 39.44,
+          "entry_date": "2026-10-02",
+          "entry_time": "09:30",
+          "cost": 288756.73,
+          "entry_score": 70,
+          "frac": 0.3
+        },
+        "shares": 7311,
+        "avg_cost": 39.44,
+        "unrealized": -411,
+        "unrealized_pct": -0.14,
         "trades": 12,
         "wins": 4,
         "win_rate": 33.3,
