@@ -1,26 +1,32 @@
 {
-  "date": "2026-10-01",
-  "generated_at": "2026-10-01 14:02",
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02 13:45",
   "model": "gemini-2.5-flash",
   "factors": {
-    "sector": 10.0,
-    "macro": 5.0,
-    "trend": 5.0
+    "sector": 16.0,
+    "macro": 7.0,
+    "trend": 8.0
   },
-  "ai_sentiment_index": 50.0,
-  "summary": "（Gemini 判讀失敗，暫以中性計）",
-  "news_zh": [],
-  "news": [
-    "[Reuters] GCash owner Mynt prices Philippine IPO at 6.6 pesos per share, sources say - reuters.com - GCash owner Mynt prices Philippine IPO at 6.6 pesos per share, sources say&nbsp;&nbsp;reuters.com",
-    "[Reuters] S&P 500 dips, Nasdaq higher after data shows moderate inflation rise - reuters.com - S&P 500 dips, Nasdaq higher after data shows moderate inflation rise&nbsp;&nbsp;reuters.com",
-    "[Reuters] Turkey's main stock index enters bear market, posts worst month since 2008 - reuters.com - Turkey's main stock index enters bear market, posts worst month since 2008&nbsp;&nbsp;reuters.com",
-    "[Reuters] Global stocks weather third-quarter AI, bond and crude maelstrom - reuters.com - Global stocks weather third-quarter AI, bond and crude maelstrom&nbsp;&nbsp;reuters.com",
-    "[Reuters] COMMENTARY: Trading Day: Shrugging off a volatile September, markets shuffle into Q4 - reuters.com - COMMENTARY: Trading Day: Shrugging off a volatile September, markets shuffle into Q4&nbsp;&nbsp;reuters.com",
-    "[Reuters] Indian share benchmarks set for longest weekly losing run in 25 years - reuters.com - Indian share benchmarks set for longest weekly losing run in 25 years&nbsp;&nbsp;reuters.com",
-    "[Reuters] Greer urges G20 to back Trump tariff agenda, takes aim at China - reuters.com - Greer urges G20 to back Trump tariff agenda, takes aim at China&nbsp;&nbsp;reuters.com",
-    "[Reuters] Investors of liquidated funds will receive interim payments, Turkey's Capital Markets Board says - reuters.com - Investors of liquidated funds will receive interim payments, Turkey's Capital Markets Board says&nbsp;&nbsp;reuters.com",
-    "[Semis] S&P 500 dips, Nasdaq higher after data shows moderate inflation rise - reuters.com - S&P 500 dips, Nasdaq higher after data shows moderate inflation rise&nbsp;&nbsp;reuters.com",
-    "[Semis] Blood Cancer United Rings the Nasdaq Stock Market Closing Bell - Nasdaq - Blood Cancer United Rings the Nasdaq Stock Market Closing Bell&nbsp;&nbsp;Nasdaq"
+  "ai_sentiment_index": 77.5,
+  "summary": "在美國公債殖利率回落和半導體類股看漲預期的帶動下，台灣股市預計將呈現樂觀開盤。",
+  "news_zh": [
+    "美國股市反彈收高，因公債殖利率回落。",
+    "市場預測台積電股價在10月15日後將會飆升。",
+    "Synaptics股價在與ON Semiconductor的併購協議修正後，盤後跳漲15%。",
+    "道瓊、標普500和那斯達克期貨在關鍵就業報告前上漲。",
+    "全球債券市場再次拋售的原因分析。"
   ],
-  "debug_error": "RuntimeError: 重試後仍失敗：HTTP 404 @gemini-2.0-flash: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen"
+  "news": [
+    "[Reuters] Most Gulf bourses edge lower on mixed US-Iran cues - Reuters - Most Gulf bourses edge lower on mixed US-Iran cues&nbsp;&nbsp;Reuters",
+    "[Reuters] GCash parent Mynt prices $845 million IPO, set to bolster Philippine share market - Reuters - GCash parent Mynt prices $845 million IPO, set to bolster Philippine share market&nbsp;&nbsp;Reuters",
+    "[Reuters] Nvidia's bet that its chips can finance the AI boom gets a Wall Street reality check - Reuters - Nvidia's bet that its chips can finance the AI boom gets a Wall Street reality check&nbsp;&nbsp;Reuters",
+    "[Reuters] Bridgewater's flagship macro fund posts double-digit gains this year, sources say - Reuters - Bridgewater's flagship macro fund posts double-digit gains this year, sources say&nbsp;&nbsp;Reuters",
+    "[Reuters] COMMENTARY: If a bruising third quarter can’t halt Wall Street, what can? - Reuters - COMMENTARY: If a bruising third quarter can’t halt Wall Street, what can?&nbsp;&nbsp;Reuters",
+    "[Reuters] Why are world bond markets selling off again? - Reuters - Why are world bond markets selling off again?&nbsp;&nbsp;Reuters",
+    "[Reuters] COMMENTARY: Trading Day: Stocks find footing as Treasury yields ease - Reuters - COMMENTARY: Trading Day: Stocks find footing as Treasury yields ease&nbsp;&nbsp;Reuters",
+    "[Reuters] Equities rebound to close higher as surging Treasury yields recede - Reuters - Equities rebound to close higher as surging Treasury yields recede&nbsp;&nbsp;Reuters",
+    "[Semis] Equities rebound to close higher as surging Treasury yields recede - Reuters - Equities rebound to close higher as surging Treasury yields recede&nbsp;&nbsp;Reuters",
+    "[Semis] Prediction: Taiwan Semiconductor Manufacturing Stock Will Skyrocket After Oct. 15 - The Motley Fool - Prediction: Taiwan Semiconductor Manufacturing Stock Will Skyrocket After Oct. 15&nbsp;&nbsp;The Motley Fool"
+  ],
+  "debug_error": ""
 }
