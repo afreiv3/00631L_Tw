@@ -3,8 +3,8 @@
   "shares": 3577.0674114394815,
   "cost_basis": 133292.34969635413,
   "start_capital": 1000000.0,
-  "highest_equity": 986295.0512676458,
-  "highest_price_since_entry": 39.62,
+  "highest_equity": 986473.9046382178,
+  "highest_price_since_entry": 39.67,
   "entry_date": "2026-09-18",
   "profit_stage_1_done": true,
   "profit_stage_2_done": false,
@@ -20,5 +20,5 @@
   "last_action": "SELL",
   "last_action_reason": "DATA_INVALID_NO_TRADE",
   "trades": 5,
-  "updated": "2026-10-02 10:45"
+  "updated": "2026-10-02 11:00"
 }
