@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02 10:30 (Taipei)",
+  "updated": "2026-10-02 10:45 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -3495,11 +3495,11 @@
     },
     {
       "date": "2026-10-02",
-      "time": "10:30",
-      "price": 39.53,
-      "score": 60,
+      "time": "10:45",
+      "price": 39.51,
+      "score": 68,
       "zone": "amber",
-      "quant_sum": 35,
+      "quant_sum": 42,
       "ai_sum": 25,
       "ai_ok": true,
       "factors": {
@@ -3514,9 +3514,9 @@
           "note": "SOX 10/1+1.58%至12,829、TSM ADR+0.66%至$459.20，費半止跌回升；惟AVGO -1.28%至$351.19、Nasdaq僅+0.04%，科技整體分歧，板塊偏強但非全面，給13分。"
         },
         "entry": {
-          "pts": 0,
+          "pts": 7.5,
           "max": 15,
-          "note": "現價在區間上緣(83%) → 屬追高"
+          "note": "現價在區間中段(63%)"
         },
         "volume": {
           "pts": 15,
@@ -3526,7 +3526,7 @@
         "vwap": {
           "pts": 10,
           "max": 10,
-          "note": "現價在VWAP之上(+0.21%) → 有利"
+          "note": "現價在VWAP之上(+0.11%) → 有利"
         },
         "macro": {
           "pts": 5,
@@ -3541,9 +3541,9 @@
       },
       "paper": {
         "cash": 672524,
-        "equity": 961528,
-        "market_value": 289004,
-        "return_pct": -3.85,
+        "equity": 961381,
+        "market_value": 288858,
+        "return_pct": -3.86,
         "holding": true,
         "position": {
           "shares": 7311,
@@ -3556,8 +3556,8 @@
         },
         "shares": 7311,
         "avg_cost": 39.44,
-        "unrealized": 247,
-        "unrealized_pct": 0.09,
+        "unrealized": 101,
+        "unrealized_pct": 0.03,
         "trades": 12,
         "wins": 4,
         "win_rate": 33.3,
