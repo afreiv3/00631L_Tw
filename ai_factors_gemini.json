@@ -1,32 +1,26 @@
 {
-  "date": "2026-09-30",
-  "generated_at": "2026-09-30 13:37",
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01 14:02",
   "model": "gemini-2.5-flash",
   "factors": {
-    "sector": 14.0,
+    "sector": 10.0,
     "macro": 5.0,
-    "trend": 7.0
+    "trend": 5.0
   },
-  "ai_sentiment_index": 65.0,
-  "summary": "儘管美國消費者信心疲軟且債券殖利率居高不下，但半導體產業的強勁表現和亞洲股市的潛在成長為市場帶來支撐。",
-  "news_zh": [
-    "美國股市因債券殖利率維持在數十年高點附近而小幅收低。",
-    "亞洲股票銷售在AI熱潮推動下，有望挑戰2021年紀錄。",
-    "美國消費者信心因勞動市場擔憂而接近12年半低點。",
-    "半導體產業和股市上漲帶動了88.4兆韓元的稅收盈餘。",
-    "預測台積電市值將在2027年底前達到3兆美元。"
-  ],
+  "ai_sentiment_index": 50.0,
+  "summary": "（Gemini 判讀失敗，暫以中性計）",
+  "news_zh": [],
   "news": [
-    "[Reuters] COMMENTARY: Trading Day: Stocks still in bonds' grip - Reuters - COMMENTARY: Trading Day: Stocks still in bonds' grip&nbsp;&nbsp;Reuters",
-    "[Reuters] Equities end slightly lower as bond yields hold near multi-decade highs - Reuters - Equities end slightly lower as bond yields hold near multi-decade highs&nbsp;&nbsp;Reuters",
-    "[Reuters] EXCLUSIVE: Tiger Global, Dragoneer in talks to invest in Kalshi's new $1 billion fundraise, sources say - Reuters - EXCLUSIVE: Tiger Global, Dragoneer in talks to invest in Kalshi's new $1 billion fundraise, sources say&nbsp;&nbsp;Reuters",
-    "[Reuters] Asia share sales poised to test 2021 record as AI boom fuels deal pipeline - Reuters - Asia share sales poised to test 2021 record as AI boom fuels deal pipeline&nbsp;&nbsp;Reuters",
-    "[Reuters] Robinhood to allow 24-hour weekend trading of US stocks as industry shifts to wider access - Reuters - Robinhood to allow 24-hour weekend trading of US stocks as industry shifts to wider access&nbsp;&nbsp;Reuters",
-    "[Reuters] Breakingviews - COMMENTARY: China’s next big export could be $1.5 trln of debt - Reuters - Breakingviews - COMMENTARY: China’s next big export could be $1.5 trln of debt&nbsp;&nbsp;Reuters",
-    "[Reuters] Trump set to tout Korean investment in Alaska LNG, other projects, sources say - Reuters - Trump set to tout Korean investment in Alaska LNG, other projects, sources say&nbsp;&nbsp;Reuters",
-    "[Reuters] US consumer confidence near 12-1/2-year low amid labor market fears - Reuters - US consumer confidence near 12-1/2-year low amid labor market fears&nbsp;&nbsp;Reuters",
-    "[Semis] Semiconductor, Stock Market Surge Drives 88.4 Trillion Won Tax Surplus - 조선일보 - Semiconductor, Stock Market Surge Drives 88.4 Trillion Won Tax Surplus&nbsp;&nbsp;조선일보",
-    "[Semis] Equities end slightly lower as bond yields hold near multi-decade highs - Reuters - Equities end slightly lower as bond yields hold near multi-decade highs&nbsp;&nbsp;Reuters"
+    "[Reuters] GCash owner Mynt prices Philippine IPO at 6.6 pesos per share, sources say - reuters.com - GCash owner Mynt prices Philippine IPO at 6.6 pesos per share, sources say&nbsp;&nbsp;reuters.com",
+    "[Reuters] S&P 500 dips, Nasdaq higher after data shows moderate inflation rise - reuters.com - S&P 500 dips, Nasdaq higher after data shows moderate inflation rise&nbsp;&nbsp;reuters.com",
+    "[Reuters] Turkey's main stock index enters bear market, posts worst month since 2008 - reuters.com - Turkey's main stock index enters bear market, posts worst month since 2008&nbsp;&nbsp;reuters.com",
+    "[Reuters] Global stocks weather third-quarter AI, bond and crude maelstrom - reuters.com - Global stocks weather third-quarter AI, bond and crude maelstrom&nbsp;&nbsp;reuters.com",
+    "[Reuters] COMMENTARY: Trading Day: Shrugging off a volatile September, markets shuffle into Q4 - reuters.com - COMMENTARY: Trading Day: Shrugging off a volatile September, markets shuffle into Q4&nbsp;&nbsp;reuters.com",
+    "[Reuters] Indian share benchmarks set for longest weekly losing run in 25 years - reuters.com - Indian share benchmarks set for longest weekly losing run in 25 years&nbsp;&nbsp;reuters.com",
+    "[Reuters] Greer urges G20 to back Trump tariff agenda, takes aim at China - reuters.com - Greer urges G20 to back Trump tariff agenda, takes aim at China&nbsp;&nbsp;reuters.com",
+    "[Reuters] Investors of liquidated funds will receive interim payments, Turkey's Capital Markets Board says - reuters.com - Investors of liquidated funds will receive interim payments, Turkey's Capital Markets Board says&nbsp;&nbsp;reuters.com",
+    "[Semis] S&P 500 dips, Nasdaq higher after data shows moderate inflation rise - reuters.com - S&P 500 dips, Nasdaq higher after data shows moderate inflation rise&nbsp;&nbsp;reuters.com",
+    "[Semis] Blood Cancer United Rings the Nasdaq Stock Market Closing Bell - Nasdaq - Blood Cancer United Rings the Nasdaq Stock Market Closing Bell&nbsp;&nbsp;Nasdaq"
   ],
-  "debug_error": ""
+  "debug_error": "RuntimeError: 重試後仍失敗：HTTP 404 @gemini-2.0-flash: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen"
 }
