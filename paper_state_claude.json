@@ -4,7 +4,7 @@
   "cost_basis": 93304.64478744789,
   "start_capital": 1000000.0,
   "highest_equity": 993449.1860905248,
-  "highest_price_since_entry": 41.62,
+  "highest_price_since_entry": 41.65,
   "entry_date": "2026-09-18",
   "profit_stage_1_done": true,
   "profit_stage_2_done": true,
@@ -20,5 +20,5 @@
   "last_action": "SELL",
   "last_action_reason": "STAGE_2_PROFIT_TAKE",
   "trades": 6,
-  "updated": "2026-10-05 09:45"
+  "updated": "2026-10-05 10:00"
 }
