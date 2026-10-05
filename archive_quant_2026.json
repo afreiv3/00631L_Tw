@@ -3567,11 +3567,11 @@
     },
     {
       "date": "2026-10-05",
-      "time": "11:15",
-      "price": 41.64,
-      "score": 59,
+      "time": "11:30",
+      "price": 41.53,
+      "score": 66,
       "zone": "amber",
-      "quant_sum": 30,
+      "quant_sum": 38,
       "ai_sum": 29,
       "ai_ok": true,
       "factors": {
@@ -3586,19 +3586,19 @@
           "note": "TSM ADR 10/4+2.96%至$472.78強勢領漲，Nasdaq+1.19%科技偏多；NVDA/AVGO維持多頭；SOX 10/4具體收盤未取得（Yahoo 403，估依Nasdaq走勢偏正），板塊整體偏強，給15分。"
         },
         "entry": {
-          "pts": 0,
+          "pts": 7.5,
           "max": 15,
-          "note": "現價在區間上緣(77%) → 屬追高"
+          "note": "現價在區間中段(60%)"
         },
         "volume": {
           "pts": 0,
           "max": 15,
-          "note": "推估量約均量2.9倍 → 爆量(疑換手/出貨)"
+          "note": "推估量約均量2.6倍 → 爆量(疑換手/出貨)"
         },
         "vwap": {
           "pts": 10,
           "max": 10,
-          "note": "現價在VWAP之上(+0.30%) → 有利"
+          "note": "現價在VWAP之上(+0.03%) → 有利"
         },
         "macro": {
           "pts": 5,
@@ -3613,9 +3613,9 @@
       },
       "paper": {
         "cash": 672524,
-        "equity": 976954,
-        "market_value": 304430,
-        "return_pct": -2.3,
+        "equity": 976150,
+        "market_value": 303626,
+        "return_pct": -2.39,
         "holding": true,
         "position": {
           "shares": 7311,
@@ -3628,8 +3628,8 @@
         },
         "shares": 7311,
         "avg_cost": 39.44,
-        "unrealized": 15673,
-        "unrealized_pct": 5.43,
+        "unrealized": 14869,
+        "unrealized_pct": 5.15,
         "trades": 12,
         "wins": 4,
         "win_rate": 33.3,
