@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05 09:15 (Taipei)",
+  "updated": "2026-10-05 09:30 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -3566,8 +3566,8 @@
     },
     {
       "date": "2026-10-05",
-      "time": "09:15",
-      "price": null,
+      "time": "09:30",
+      "price": 41.62,
       "score": 59,
       "zone": "amber",
       "quant_sum": 30,
@@ -3575,9 +3575,9 @@
       "ai_ok": true,
       "factors": {
         "pattern": {
-          "pts": 10.0,
+          "pts": 20,
           "max": 20,
-          "note": "盤中資料缺，型態以中性計"
+          "note": "現價守在開盤之上(開+4.4%) → 有利"
         },
         "sector": {
           "pts": 15,
@@ -3585,19 +3585,19 @@
           "note": "TSM ADR 10/4+2.96%至$472.78強勢領漲，Nasdaq+1.19%科技偏多；NVDA/AVGO維持多頭；SOX 10/4具體收盤未取得（Yahoo 403，估依Nasdaq走勢偏正），板塊整體偏強，給15分。"
         },
         "entry": {
-          "pts": 7.5,
+          "pts": 0,
           "max": 15,
-          "note": "區間資料缺，以中性計"
+          "note": "現價在區間上緣(91%) → 屬追高"
         },
         "volume": {
-          "pts": 7.5,
+          "pts": 0,
           "max": 15,
-          "note": "量能資料缺，以中性計"
+          "note": "推估量約均量4.5倍 → 爆量(疑換手/出貨)"
         },
         "vwap": {
-          "pts": 5.0,
+          "pts": 10,
           "max": 10,
-          "note": "VWAP 資料缺，以中性計"
+          "note": "現價在VWAP之上(+0.14%) → 有利"
         },
         "macro": {
           "pts": 5,
@@ -3612,9 +3612,9 @@
       },
       "paper": {
         "cash": 672524,
-        "equity": 672524,
-        "market_value": 0,
-        "return_pct": -32.75,
+        "equity": 976808,
+        "market_value": 304284,
+        "return_pct": -2.32,
         "holding": true,
         "position": {
           "shares": 7311,
@@ -3627,8 +3627,8 @@
         },
         "shares": 7311,
         "avg_cost": 39.44,
-        "unrealized": -288757,
-        "unrealized_pct": -100.0,
+        "unrealized": 15527,
+        "unrealized_pct": 5.38,
         "trades": 12,
         "wins": 4,
         "win_rate": 33.3,
