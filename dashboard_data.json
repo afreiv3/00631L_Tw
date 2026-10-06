@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06 09:15 (Taipei)",
+  "updated": "2026-10-06 09:30 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -3637,18 +3637,18 @@
     },
     {
       "date": "2026-10-06",
-      "time": "09:15",
-      "price": null,
-      "score": 63,
-      "zone": "amber",
-      "quant_sum": 30,
+      "time": "09:30",
+      "price": 41.7,
+      "score": 70,
+      "zone": "green",
+      "quant_sum": 38,
       "ai_sum": 33,
       "ai_ok": true,
       "factors": {
         "pattern": {
           "pts": 10.0,
           "max": 20,
-          "note": "盤中資料缺，型態以中性計"
+          "note": "開+0.7%、小幅回落，型態中性"
         },
         "sector": {
           "pts": 18,
@@ -3656,19 +3656,19 @@
           "note": "NVDA新高$238.90、TSM ADR+2.75%至$485.80、AVGO+2.18%至$362.87；Nasdaq創歷史新高，AI半導體板塊全面強勢，SOX 10/5具體收盤未查到（查不到，以強勢推估），給18分。"
         },
         "entry": {
-          "pts": 7.5,
+          "pts": 15,
           "max": 15,
-          "note": "區間資料缺，以中性計"
+          "note": "現價近今日低點(區間25%) → 接近支撐"
         },
         "volume": {
           "pts": 7.5,
           "max": 15,
-          "note": "量能資料缺，以中性計"
+          "note": "推估量約均量1.8倍 → 偏離"
         },
         "vwap": {
           "pts": 5.0,
           "max": 10,
-          "note": "VWAP 資料缺，以中性計"
+          "note": "現價貼近VWAP(-0.02%)"
         },
         "macro": {
           "pts": 6,
@@ -3683,9 +3683,9 @@
       },
       "paper": {
         "cash": 672524,
-        "equity": 672524,
-        "market_value": 0,
-        "return_pct": -32.75,
+        "equity": 977393,
+        "market_value": 304869,
+        "return_pct": -2.26,
         "holding": true,
         "position": {
           "shares": 7311,
@@ -3698,8 +3698,8 @@
         },
         "shares": 7311,
         "avg_cost": 39.44,
-        "unrealized": -288757,
-        "unrealized_pct": -100.0,
+        "unrealized": 16112,
+        "unrealized_pct": 5.58,
         "trades": 12,
         "wins": 4,
         "win_rate": 33.3,
