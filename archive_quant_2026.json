@@ -3638,11 +3638,11 @@
     },
     {
       "date": "2026-10-06",
-      "time": "12:15",
-      "price": 41.67,
-      "score": 76,
-      "zone": "green",
-      "quant_sum": 42,
+      "time": "12:30",
+      "price": 41.75,
+      "score": 68,
+      "zone": "amber",
+      "quant_sum": 35,
       "ai_sum": 33,
       "ai_ok": true,
       "factors": {
@@ -3657,9 +3657,9 @@
           "note": "NVDA新高$238.90、TSM ADR+2.75%至$485.80、AVGO+2.18%至$362.87；Nasdaq創歷史新高，AI半導體板塊全面強勢，SOX 10/5具體收盤未查到（查不到，以強勢推估），給18分。"
         },
         "entry": {
-          "pts": 7.5,
+          "pts": 0,
           "max": 15,
-          "note": "現價在區間中段(62%)"
+          "note": "現價在區間上緣(76%) → 屬追高"
         },
         "volume": {
           "pts": 15,
@@ -3669,7 +3669,7 @@
         "vwap": {
           "pts": 10,
           "max": 10,
-          "note": "現價在VWAP之上(+0.22%) → 有利"
+          "note": "現價在VWAP之上(+0.39%) → 有利"
         },
         "macro": {
           "pts": 6,
@@ -3684,9 +3684,9 @@
       },
       "paper": {
         "cash": 672524,
-        "equity": 977173,
-        "market_value": 304649,
-        "return_pct": -2.28,
+        "equity": 977758,
+        "market_value": 305234,
+        "return_pct": -2.22,
         "holding": true,
         "position": {
           "shares": 7311,
@@ -3699,8 +3699,8 @@
         },
         "shares": 7311,
         "avg_cost": 39.44,
-        "unrealized": 15893,
-        "unrealized_pct": 5.5,
+        "unrealized": 16478,
+        "unrealized_pct": 5.71,
         "trades": 12,
         "wins": 4,
         "win_rate": 33.3,
