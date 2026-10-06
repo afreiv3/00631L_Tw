@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-05",
-  "generated_at": "2026-10-05 13:47",
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06 14:26",
   "model": "gemini-2.5-flash",
   "factors": {
     "sector": 18.0,
@@ -8,25 +8,26 @@
     "trend": 8.0
   },
   "ai_sentiment_index": 82.5,
-  "summary": "在聯準會升息擔憂緩解和半導體類股強勁的帶動下，亞洲股市普遍上漲，預計台灣市場將受此提振。",
+  "summary": "那斯達克指數創新高，受惠於人工智慧熱潮和市場對聯準會升息預期降低，為台灣科技股帶來利多。",
   "news_zh": [
-    "亞洲股市上漲，因聯準會升息預期減弱，債券小幅走高。",
-    "半導體和AI相關股票的供需狀況有利於資本集中。",
-    "那斯達克綜合指數週五上漲1.2%，顯示科技股表現強勁。",
-    "日本央行表示AI榮景可能已緩解金融狀況，但警告市場風險。",
-    "美股期貨上漲，市場關注財報季和聯準會會議紀錄。"
+    "日本央行可能暗示通膨已達2%目標，市場關注其政策動向。",
+    "那斯達克指數因投資者關注企業財報和人工智慧熱潮而創下歷史新高。",
+    "儘管美國公債殖利率上升，那斯達克指數仍創新高，顯示市場對科技股的強勁信心。",
+    "美國股市期貨在那斯達克創新高後保持穩定，因聯準會升息預期降低。",
+    "人工智慧熱潮未受高利率影響，這可能對聯準會的政策造成挑戰。",
+    "Nvidia與台積電的比較分析顯示，市場持續關注半導體產業的未來發展。"
   ],
   "news": [
-    "[Reuters] The euro has a France problem - Reuters - The euro has a France problem&nbsp;&nbsp;Reuters",
-    "[Reuters] Stocks upbeat, dollar rises at euro's expense - Reuters - Stocks upbeat, dollar rises at euro's expense&nbsp;&nbsp;Reuters",
-    "[Reuters] BOJ says AI boom may have eased financial conditions, warns of market risks - Reuters - BOJ says AI boom may have eased financial conditions, warns of market risks&nbsp;&nbsp;Reuters",
-    "[Reuters] India, US have reached a plateau in trade talks, Indian finance minister says - Reuters - India, US have reached a plateau in trade talks, Indian finance minister says&nbsp;&nbsp;Reuters",
-    "[Reuters] Markets bet on RBI rate hike as inflation pressure builds - Reuters - Markets bet on RBI rate hike as inflation pressure builds&nbsp;&nbsp;Reuters",
-    "[Reuters] Reflationist ex-BOJ policymaker calls end to low rates, big spending - Reuters - Reflationist ex-BOJ policymaker calls end to low rates, big spending&nbsp;&nbsp;Reuters",
-    "[Reuters] Indian rupee set for mild relief from dip in oil, fading Fed October hike bets - Reuters - Indian rupee set for mild relief from dip in oil, fading Fed October hike bets&nbsp;&nbsp;Reuters",
-    "[Reuters] Smoky Singapore gears up to talk money ahead of F1 - Reuters - Smoky Singapore gears up to talk money ahead of F1&nbsp;&nbsp;Reuters",
-    "[Semis] Stock Futures Are Rising With Earnings Season, Fed Minutes Ahead - Barron's - Stock Futures Are Rising With Earnings Season, Fed Minutes Ahead&nbsp;&nbsp;Barron's",
-    "[Semis] Area company debuts on NASDAQ stock exchange - Dayton Daily News - Area company debuts on NASDAQ stock exchange&nbsp;&nbsp;Dayton Daily News"
+    "[Reuters] BOJ may signal underlying inflation has hit 2% goal, sources say - Reuters - BOJ may signal underlying inflation has hit 2% goal, sources say&nbsp;&nbsp;Reuters",
+    "[Reuters] Nasdaq notches record high close as investors focus on earnings - Reuters - Nasdaq notches record high close as investors focus on earnings&nbsp;&nbsp;Reuters",
+    "[Reuters] Brazil markets' Bolsonaro rally sends stock exchange to record high - Reuters - Brazil markets' Bolsonaro rally sends stock exchange to record high&nbsp;&nbsp;Reuters",
+    "[Reuters] Trading Day: Nasdaq highs, Brazil surprise - Reuters - Trading Day: Nasdaq highs, Brazil surprise&nbsp;&nbsp;Reuters",
+    "[Reuters] COMMENTARY: Early ECB leadership change could worsen Paris bond jolt - Reuters - COMMENTARY: Early ECB leadership change could worsen Paris bond jolt&nbsp;&nbsp;Reuters",
+    "[Reuters] EXCLUSIVE: India markets regulator to partly reverse derivative settlement rules after pushback, sources say - Reuters - EXCLUSIVE: India markets regulator to partly reverse derivative settlement rules after pushback, sources say&nbsp;&nbsp;Reuters",
+    "[Reuters] Trump signs order to expand access to tax-exempt diesel - Reuters - Trump signs order to expand access to tax-exempt diesel&nbsp;&nbsp;Reuters",
+    "[Reuters] Mynt opens $844 million Philippine IPO, offers GCash users real-time share allocation - Reuters - Mynt opens $844 million Philippine IPO, offers GCash users real-time share allocation&nbsp;&nbsp;Reuters",
+    "[Semis] Nvidia vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026? - The Motley Fool - Nvidia vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026?&nbsp;&nbsp;The Motley Fool",
+    "[Semis] Nasdaq Hits New Highs on AI Boom Optimism: Stock Market Today - Kiplinger - Nasdaq Hits New Highs on AI Boom Optimism: Stock Market Today&nbsp;&nbsp;Kiplinger"
   ],
   "debug_error": ""
 }
