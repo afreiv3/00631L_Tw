@@ -3709,8 +3709,8 @@
     },
     {
       "date": "2026-10-07",
-      "time": "11:45",
-      "price": 41.74,
+      "time": "12:00",
+      "price": 41.77,
       "score": 76,
       "zone": "green",
       "quant_sum": 45,
@@ -3730,17 +3730,17 @@
         "entry": {
           "pts": 7.5,
           "max": 15,
-          "note": "現價在區間中段(56%)"
+          "note": "現價在區間中段(65%)"
         },
         "volume": {
           "pts": 7.5,
           "max": 15,
-          "note": "推估量約均量0.7倍 → 偏離"
+          "note": "推估量約均量0.6倍 → 偏離"
         },
         "vwap": {
           "pts": 10,
           "max": 10,
-          "note": "現價在VWAP之上(+0.05%) → 有利"
+          "note": "現價在VWAP之上(+0.12%) → 有利"
         },
         "macro": {
           "pts": 7,
@@ -3755,9 +3755,9 @@
       },
       "paper": {
         "cash": 672524,
-        "equity": 977685,
-        "market_value": 305161,
-        "return_pct": -2.23,
+        "equity": 977904,
+        "market_value": 305380,
+        "return_pct": -2.21,
         "holding": true,
         "position": {
           "shares": 7311,
@@ -3770,8 +3770,8 @@
         },
         "shares": 7311,
         "avg_cost": 39.44,
-        "unrealized": 16404,
-        "unrealized_pct": 5.68,
+        "unrealized": 16624,
+        "unrealized_pct": 5.76,
         "trades": 12,
         "wins": 4,
         "win_rate": 33.3,
