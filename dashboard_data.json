@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07 10:00 (Taipei)",
+  "updated": "2026-10-07 10:15 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -3708,11 +3708,11 @@
     },
     {
       "date": "2026-10-07",
-      "time": "10:00",
-      "price": 41.86,
-      "score": 76,
+      "time": "10:15",
+      "price": 41.78,
+      "score": 78,
       "zone": "green",
-      "quant_sum": 45,
+      "quant_sum": 48,
       "ai_sum": 31,
       "ai_ok": true,
       "factors": {
@@ -3727,9 +3727,9 @@
           "note": "隔夜Nasdaq 100 +0.9%創歷史新高31,076、NVDA攻ATH、AVGO+3.67%，AI龍頭全面強勢；惟SOX廣泛指數連兩日僅+0.2%，板塊稍有分歧，給15分（fetch_quant Yahoo數據因403封鎖全部缺失，以web search估算）"
         },
         "entry": {
-          "pts": 0,
+          "pts": 7.5,
           "max": 15,
-          "note": "現價在區間上緣(90%) → 屬追高"
+          "note": "現價在區間中段(63%)"
         },
         "volume": {
           "pts": 15,
@@ -3737,9 +3737,9 @@
           "note": "推估量約均量0.8倍 → 正常"
         },
         "vwap": {
-          "pts": 10,
+          "pts": 5.0,
           "max": 10,
-          "note": "現價在VWAP之上(+0.16%) → 有利"
+          "note": "現價貼近VWAP(-0.03%)"
         },
         "macro": {
           "pts": 7,
@@ -3754,9 +3754,9 @@
       },
       "paper": {
         "cash": 672524,
-        "equity": 978562,
-        "market_value": 306038,
-        "return_pct": -2.14,
+        "equity": 977977,
+        "market_value": 305454,
+        "return_pct": -2.2,
         "holding": true,
         "position": {
           "shares": 7311,
@@ -3769,8 +3769,8 @@
         },
         "shares": 7311,
         "avg_cost": 39.44,
-        "unrealized": 17282,
-        "unrealized_pct": 5.98,
+        "unrealized": 16697,
+        "unrealized_pct": 5.78,
         "trades": 12,
         "wins": 4,
         "win_rate": 33.3,
