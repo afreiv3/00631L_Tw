@@ -3780,18 +3780,18 @@
     },
     {
       "date": "2026-10-08",
-      "time": "11:15",
-      "price": 41.12,
-      "score": 62,
-      "zone": "amber",
-      "quant_sum": 42,
+      "time": "11:30",
+      "price": 41.13,
+      "score": 72,
+      "zone": "green",
+      "quant_sum": 52,
       "ai_sum": 19,
       "ai_ok": true,
       "factors": {
         "pattern": {
-          "pts": 10.0,
+          "pts": 20,
           "max": 20,
-          "note": "開-1.5%、小幅回落，型態中性"
+          "note": "現價守在開盤之上(開-1.5%) → 有利"
         },
         "sector": {
           "pts": 8,
@@ -3801,17 +3801,17 @@
         "entry": {
           "pts": 7.5,
           "max": 15,
-          "note": "現價在區間中段(60%)"
+          "note": "現價在區間中段(62%)"
         },
         "volume": {
           "pts": 15,
           "max": 15,
-          "note": "推估量約均量1.1倍 → 正常"
+          "note": "推估量約均量1.0倍 → 正常"
         },
         "vwap": {
           "pts": 10,
           "max": 10,
-          "note": "現價在VWAP之上(+0.13%) → 有利"
+          "note": "現價在VWAP之上(+0.15%) → 有利"
         },
         "macro": {
           "pts": 3,
