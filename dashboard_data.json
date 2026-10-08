@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08 09:15 (Taipei)",
+  "updated": "2026-10-08 09:30 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -3779,18 +3779,18 @@
     },
     {
       "date": "2026-10-08",
-      "time": "09:15",
-      "price": null,
-      "score": 49,
+      "time": "09:30",
+      "price": 41.04,
+      "score": 42,
       "zone": "amber",
-      "quant_sum": 30,
+      "quant_sum": 22,
       "ai_sum": 19,
       "ai_ok": true,
       "factors": {
         "pattern": {
           "pts": 10.0,
           "max": 20,
-          "note": "盤中資料缺，型態以中性計"
+          "note": "開-1.5%、小幅回落，型態中性"
         },
         "sector": {
           "pts": 8,
@@ -3800,17 +3800,17 @@
         "entry": {
           "pts": 7.5,
           "max": 15,
-          "note": "區間資料缺，以中性計"
+          "note": "現價在區間中段(33%)"
         },
         "volume": {
-          "pts": 7.5,
+          "pts": 0,
           "max": 15,
-          "note": "量能資料缺，以中性計"
+          "note": "推估量約均量2.1倍 → 爆量(疑換手/出貨)"
         },
         "vwap": {
           "pts": 5.0,
           "max": 10,
-          "note": "VWAP 資料缺，以中性計"
+          "note": "現價貼近VWAP(-0.00%)"
         },
         "macro": {
           "pts": 3,
@@ -3824,28 +3824,20 @@
         }
       },
       "paper": {
-        "cash": 672524,
-        "equity": 672524,
+        "cash": 971840,
+        "equity": 971840,
         "market_value": 0,
-        "return_pct": -32.75,
-        "holding": true,
-        "position": {
-          "shares": 7311,
-          "entry_price": 39.44,
-          "entry_date": "2026-10-02",
-          "entry_time": "09:30",
-          "cost": 288756.73,
-          "entry_score": 70,
-          "frac": 0.3
-        },
-        "shares": 7311,
-        "avg_cost": 39.44,
-        "unrealized": -288757,
-        "unrealized_pct": -100.0,
-        "trades": 12,
-        "wins": 4,
-        "win_rate": 33.3,
-        "realized_pnl": -38719
+        "return_pct": -2.82,
+        "holding": false,
+        "position": null,
+        "shares": 0,
+        "avg_cost": null,
+        "unrealized": 0,
+        "unrealized_pct": 0,
+        "trades": 13,
+        "wins": 5,
+        "win_rate": 38.5,
+        "realized_pnl": -28160
       }
     }
   ]
