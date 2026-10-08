@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-07",
-  "generated_at": "2026-10-07 14:05",
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08 14:11",
   "model": "gemini-2.5-flash",
   "factors": {
-    "sector": 18.0,
-    "macro": 7.0,
-    "trend": 8.0
+    "sector": 3.0,
+    "macro": 2.0,
+    "trend": 3.0
   },
-  "ai_sentiment_index": 82.5,
-  "summary": "美國股市標普500和那斯達克指數創下歷史新高，顯示科技股表現強勁，但亞洲股市表現疲軟且油價上漲，全球宏觀風險略有上升。",
+  "ai_sentiment_index": 20.0,
+  "summary": "在美國公債殖利率攀升和對聯準會升息的擔憂下，全球股市下跌，科技股和債券市場面臨壓力。",
   "news_zh": [
-    "標普500指數與那斯達克指數雙雙創下歷史新高。",
-    "亞洲股市走弱，油價上漲，投資者權衡沙特與胡塞武裝衝突升級的影響。",
-    "國際貨幣基金組織（IMF）表示對沖基金的市場影響力日益增長，值得密切關注。",
-    "越南銀行業向投資者籌集70億美元，顯示經濟過熱。",
-    "英國央行回購改革恐適得其反，對沖基金發出警告。"
+    "華爾街股市收低，脫離歷史高點，因美國公債殖利率攀升。",
+    "亞洲股市下滑，債券市場在人工智慧相關債務浪潮中承壓。",
+    "市場擔憂聯準會升息，導致華爾街股市結束創紀錄漲勢。",
+    "記憶體巨頭財報雖有增長，但未達預期，影響半導體期貨表現。",
+    "英國房市因升息擔憂而承壓。"
   ],
   "news": [
-    "[Reuters] Hedge funds warn BoE repo reforms could backfire - Reuters - Hedge funds warn BoE repo reforms could backfire&nbsp;&nbsp;Reuters",
-    "[Reuters] Vietnam's banks tap investors for $7 billion as economy runs red hot - Reuters - Vietnam's banks tap investors for $7 billion as economy runs red hot&nbsp;&nbsp;Reuters",
-    "[Reuters] Asia shares weaker, oil up; investors weigh Saudi-Houthi escalation - Reuters - Asia shares weaker, oil up; investors weigh Saudi-Houthi escalation&nbsp;&nbsp;Reuters",
-    "[Reuters] Trading Day: Running with the bulls - Reuters - Trading Day: Running with the bulls&nbsp;&nbsp;Reuters",
-    "[Reuters] IEA to decide on details of diesel stocks release next week, sources say, as market confusion grows - Reuters - IEA to decide on details of diesel stocks release next week, sources say, as market confusion grows&nbsp;&nbsp;Reuters",
-    "[Reuters] Senegal aims for deal with official creditors and bondholders by December, sources say - Reuters - Senegal aims for deal with official creditors and bondholders by December, sources say&nbsp;&nbsp;Reuters",
-    "[Reuters] IMF says hedge funds' market footprint growing, merits closer scrutiny - Reuters - IMF says hedge funds' market footprint growing, merits closer scrutiny&nbsp;&nbsp;Reuters",
-    "[Reuters] Kalshi launches stock index perpetual future to expand product suite - Reuters - Kalshi launches stock index perpetual future to expand product suite&nbsp;&nbsp;Reuters",
-    "[Semis] S&P 500 Joins Nasdaq in All-Time-High Territory: Stock Market Today - Kiplinger - S&P 500 Joins Nasdaq in All-Time-High Territory: Stock Market Today&nbsp;&nbsp;Kiplinger",
-    "[Semis] S&P 500, Nasdaq reach record closing highs as focus pivots to earnings - Reuters - S&P 500, Nasdaq reach record closing highs as focus pivots to earnings&nbsp;&nbsp;Reuters"
+    "[Reuters] Morning Bid: Sovereign bonds shouldered aside as AI takes their turf - Reuters - Morning Bid: Sovereign bonds shouldered aside as AI takes their turf&nbsp;&nbsp;Reuters",
+    "[Reuters] COMMENTARY: Can Wall Street keep partying while bond markets burn? - Reuters - COMMENTARY: Can Wall Street keep partying while bond markets burn?&nbsp;&nbsp;Reuters",
+    "[Reuters] Wall Street ends lower, off record highs, as Treasury yields climb - Reuters - Wall Street ends lower, off record highs, as Treasury yields climb&nbsp;&nbsp;Reuters",
+    "[Reuters] Asia shares slip, bonds submerged in tide of AI debt - Reuters - Asia shares slip, bonds submerged in tide of AI debt&nbsp;&nbsp;Reuters",
+    "[Reuters] Tokyo Financial Exchange launches new BOJ rate futures as policy shifts accelerate - Reuters - Tokyo Financial Exchange launches new BOJ rate futures as policy shifts accelerate&nbsp;&nbsp;Reuters",
+    "[Reuters] Bezos says Blue Origin likely to pursue IPO in coming years - Reuters - Bezos says Blue Origin likely to pursue IPO in coming years&nbsp;&nbsp;Reuters",
+    "[Reuters] COMMENTARY: Morning Bid: Storm brewing - Reuters - COMMENTARY: Morning Bid: Storm brewing&nbsp;&nbsp;Reuters",
+    "[Reuters] Rate hike fears weigh on UK housing market, RICS says - Reuters - Rate hike fears weigh on UK housing market, RICS says&nbsp;&nbsp;Reuters",
+    "[Semis] Wall Street ends lower, off record highs, as Treasury yields climb - Reuters - Wall Street ends lower, off record highs, as Treasury yields climb&nbsp;&nbsp;Reuters",
+    "[Semis] Rezolve Ai Rings the Nasdaq Stock Market Closing Bell - Nasdaq - Rezolve Ai Rings the Nasdaq Stock Market Closing Bell&nbsp;&nbsp;Nasdaq"
   ],
   "debug_error": ""
 }
