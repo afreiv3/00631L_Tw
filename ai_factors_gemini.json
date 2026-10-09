@@ -1,32 +1,33 @@
 {
-  "date": "2026-10-08",
-  "generated_at": "2026-10-08 14:11",
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09 14:14",
   "model": "gemini-2.5-flash",
   "factors": {
-    "sector": 3.0,
-    "macro": 2.0,
-    "trend": 3.0
+    "sector": 7.0,
+    "macro": 6.0,
+    "trend": 5.0
   },
-  "ai_sentiment_index": 20.0,
-  "summary": "在美國公債殖利率攀升和對聯準會升息的擔憂下，全球股市下跌，科技股和債券市場面臨壓力。",
+  "ai_sentiment_index": 45.0,
+  "summary": "美國股市因油價上漲和晶片股下跌而收低，市場對AI相關IPO和科技股營收的擔憂浮現。",
   "news_zh": [
-    "華爾街股市收低，脫離歷史高點，因美國公債殖利率攀升。",
-    "亞洲股市下滑，債券市場在人工智慧相關債務浪潮中承壓。",
-    "市場擔憂聯準會升息，導致華爾街股市結束創紀錄漲勢。",
-    "記憶體巨頭財報雖有增長，但未達預期，影響半導體期貨表現。",
-    "英國房市因升息擔憂而承壓。"
+    "美國股市因油價上漲和晶片股下跌，標普500和那斯達克指數收低。",
+    "路透評論指出，有五張圖表顯示美國市場估值過高，發出警訊。",
+    "有報導指出OpenAI營收低於預期，導致科技股下跌。",
+    "路透評論指出，失敗的AI首次公開募股（IPO）讓市場產生恐懼而非錯失恐懼症（FOMO）。",
+    "歐洲區財政部長要求法國通過2027年預算以穩定市場。",
+    "伊隆·馬斯克為台灣半導體股票投資者帶來了重要消息。"
   ],
   "news": [
-    "[Reuters] Morning Bid: Sovereign bonds shouldered aside as AI takes their turf - Reuters - Morning Bid: Sovereign bonds shouldered aside as AI takes their turf&nbsp;&nbsp;Reuters",
-    "[Reuters] COMMENTARY: Can Wall Street keep partying while bond markets burn? - Reuters - COMMENTARY: Can Wall Street keep partying while bond markets burn?&nbsp;&nbsp;Reuters",
-    "[Reuters] Wall Street ends lower, off record highs, as Treasury yields climb - Reuters - Wall Street ends lower, off record highs, as Treasury yields climb&nbsp;&nbsp;Reuters",
-    "[Reuters] Asia shares slip, bonds submerged in tide of AI debt - Reuters - Asia shares slip, bonds submerged in tide of AI debt&nbsp;&nbsp;Reuters",
-    "[Reuters] Tokyo Financial Exchange launches new BOJ rate futures as policy shifts accelerate - Reuters - Tokyo Financial Exchange launches new BOJ rate futures as policy shifts accelerate&nbsp;&nbsp;Reuters",
-    "[Reuters] Bezos says Blue Origin likely to pursue IPO in coming years - Reuters - Bezos says Blue Origin likely to pursue IPO in coming years&nbsp;&nbsp;Reuters",
-    "[Reuters] COMMENTARY: Morning Bid: Storm brewing - Reuters - COMMENTARY: Morning Bid: Storm brewing&nbsp;&nbsp;Reuters",
-    "[Reuters] Rate hike fears weigh on UK housing market, RICS says - Reuters - Rate hike fears weigh on UK housing market, RICS says&nbsp;&nbsp;Reuters",
-    "[Semis] Wall Street ends lower, off record highs, as Treasury yields climb - Reuters - Wall Street ends lower, off record highs, as Treasury yields climb&nbsp;&nbsp;Reuters",
-    "[Semis] Rezolve Ai Rings the Nasdaq Stock Market Closing Bell - Nasdaq - Rezolve Ai Rings the Nasdaq Stock Market Closing Bell&nbsp;&nbsp;Nasdaq"
+    "[Reuters] COMMENTARY: Five charts sounding the alarm for stretched US markets: McGeever - Reuters - COMMENTARY: Five charts sounding the alarm for stretched US markets: McGeever&nbsp;&nbsp;Reuters",
+    "[Reuters] S&P 500, Nasdaq end lower as crude prices jump, chip stocks weigh - Reuters - S&P 500, Nasdaq end lower as crude prices jump, chip stocks weigh&nbsp;&nbsp;Reuters",
+    "[Reuters] Morning Bid: Feeding the AI beast - Reuters - Morning Bid: Feeding the AI beast&nbsp;&nbsp;Reuters",
+    "[Reuters] EXCLUSIVE: Refresco plots potential IPO at $10 billion-plus valuation, sources say - Reuters - EXCLUSIVE: Refresco plots potential IPO at $10 billion-plus valuation, sources say&nbsp;&nbsp;Reuters",
+    "[Reuters] Breakingviews - COMMENTARY: Failed AI IPO puts fear before FOMO - Reuters - Breakingviews - COMMENTARY: Failed AI IPO puts fear before FOMO&nbsp;&nbsp;Reuters",
+    "[Reuters] COMMENTARY: Morning Bid: Wall Street winces at bond squeeze - Reuters - COMMENTARY: Morning Bid: Wall Street winces at bond squeeze&nbsp;&nbsp;Reuters",
+    "[Reuters] Euro zone ministers tell France to pass 2027 budget to calm markets - Reuters - Euro zone ministers tell France to pass 2027 budget to calm markets&nbsp;&nbsp;Reuters",
+    "[Reuters] High-profile IPO listings that fell victim to market jitters in 2026 - Reuters - High-profile IPO listings that fell victim to market jitters in 2026&nbsp;&nbsp;Reuters",
+    "[Semis] S&P 500, Nasdaq end lower as crude prices jump, chip stocks weigh - Reuters - S&P 500, Nasdaq end lower as crude prices jump, chip stocks weigh&nbsp;&nbsp;Reuters",
+    "[Semis] Advanced Micro Devices vs. ASML: Which Semiconductor Stock Is a Better Buy in 2026? - The Motley Fool - Advanced Micro Devices vs. ASML: Which Semiconductor Stock Is a Better Buy in 2026?&nbsp;&nbsp;The Motley Fool"
   ],
   "debug_error": ""
 }
