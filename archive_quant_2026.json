@@ -1,6 +1,6 @@
 {
   "year": "2026",
-  "count": 57,
+  "count": 58,
   "history": [
     {
       "date": "2026-07-20",
@@ -3822,6 +3822,69 @@
           "pts": 6,
           "max": 10,
           "note": "加權指數估收約49,300（Yahoo 403），高於季線45,500約+8.4%，中期多頭結構完好；惟今日盤中跌破五日線，50K整數關口連日壓頂，短線技術動能受損，給6分"
+        }
+      },
+      "paper": {
+        "cash": 971840,
+        "equity": 971840,
+        "market_value": 0,
+        "return_pct": -2.82,
+        "holding": false,
+        "position": null,
+        "shares": 0,
+        "avg_cost": null,
+        "unrealized": 0,
+        "unrealized_pct": 0,
+        "trades": 13,
+        "wins": 5,
+        "win_rate": 38.5,
+        "realized_pnl": -28160
+      }
+    },
+    {
+      "date": "2026-10-12",
+      "time": "09:00",
+      "price": null,
+      "score": 52,
+      "zone": "amber",
+      "quant_sum": 30,
+      "ai_sum": 22,
+      "ai_ok": true,
+      "factors": {
+        "pattern": {
+          "pts": 10.0,
+          "max": 20,
+          "note": "盤中資料缺，型態以中性計"
+        },
+        "sector": {
+          "pts": 10,
+          "max": 20,
+          "note": "10/9美股Nasdaq廣泛反彈+0.64%，但晶片股分歧（TSM ADR -1.02%至$453、NVDA -0.52%、AVGO +0.39%），費半指數查不到，AI債務疑慮未散，板塊中性偏弱，給10分"
+        },
+        "entry": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "區間資料缺，以中性計"
+        },
+        "volume": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "量能資料缺，以中性計"
+        },
+        "vwap": {
+          "pts": 5.0,
+          "max": 10,
+          "note": "VWAP 資料缺，以中性計"
+        },
+        "macro": {
+          "pts": 5,
+          "max": 10,
+          "note": "10Y殖利率5.24%高位、WTI $91.85高位（YTD+60%）、AI晶片債務融資疑慮（AVGO等逾$90B），三重壓力並存，美伊談判略緩地緣風險，系統風險略升溫，給5分"
+        },
+        "trend": {
+          "pts": 7,
+          "max": 10,
+          "note": "加權10/8收49,313（季線45,727，乖離+7.84%），中期多頭結構完好；連假後需承接TSM ADR跌壓+外資賣超，短線面臨壓力但季線支撐遠，給7分"
         }
       },
       "paper": {
