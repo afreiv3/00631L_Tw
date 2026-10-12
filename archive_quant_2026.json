@@ -3843,11 +3843,11 @@
     },
     {
       "date": "2026-10-12",
-      "time": "12:45",
-      "price": 40.7,
-      "score": 60,
+      "time": "13:00",
+      "price": 40.95,
+      "score": 67,
       "zone": "amber",
-      "quant_sum": 38,
+      "quant_sum": 45,
       "ai_sum": 22,
       "ai_ok": true,
       "factors": {
@@ -3864,17 +3864,17 @@
         "entry": {
           "pts": 0,
           "max": 15,
-          "note": "現價在區間上緣(78%) → 屬追高"
+          "note": "現價在區間上緣(94%) → 屬追高"
         },
         "volume": {
-          "pts": 7.5,
+          "pts": 15,
           "max": 15,
-          "note": "推估量約均量1.4倍 → 偏離"
+          "note": "推估量約均量1.4倍 → 正常"
         },
         "vwap": {
           "pts": 10,
           "max": 10,
-          "note": "現價在VWAP之上(+0.64%) → 有利"
+          "note": "現價在VWAP之上(+1.23%) → 有利"
         },
         "macro": {
           "pts": 5,
