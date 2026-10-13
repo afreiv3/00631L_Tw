@@ -1,26 +1,33 @@
 {
-  "date": "2026-10-12",
-  "generated_at": "2026-10-12 14:04",
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13 14:50",
   "model": "gemini-2.5-flash",
   "factors": {
-    "sector": 10.0,
-    "macro": 5.0,
-    "trend": 5.0
+    "sector": 3.0,
+    "macro": 4.0,
+    "trend": 3.0
   },
-  "ai_sentiment_index": 50.0,
-  "summary": "（Gemini 判讀失敗，暫以中性計）",
-  "news_zh": [],
-  "news": [
-    "[Reuters] Share markets choppy in Asia as earnings loom, oil slips - Reuters - Share markets choppy in Asia as earnings loom, oil slips&nbsp;&nbsp;Reuters",
-    "[Reuters] EXCLUSIVE: AirAsia in talks with Malaysian government over potential funding support, sources say - Reuters - EXCLUSIVE: AirAsia in talks with Malaysian government over potential funding support, sources say&nbsp;&nbsp;Reuters",
-    "[Reuters] Morning Bid: It takes two to make a ceasefire - Reuters - Morning Bid: It takes two to make a ceasefire&nbsp;&nbsp;Reuters",
-    "[Reuters] Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters - Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation&nbsp;&nbsp;Reuters",
-    "[Reuters] Breakingviews - COMMENTARY: Buyout barons' insurance pots are due a shakeup - Reuters - Breakingviews - COMMENTARY: Buyout barons' insurance pots are due a shakeup&nbsp;&nbsp;Reuters",
-    "[Reuters] Peak XV, Accel-backed Zetwerk seeks $2.6 billion valuation in India IPO - Reuters - Peak XV, Accel-backed Zetwerk seeks $2.6 billion valuation in India IPO&nbsp;&nbsp;Reuters",
-    "[Reuters] Rupee jumps 1% after RBI redirects oil dollar demand, raises cost of some FX hedges - Reuters - Rupee jumps 1% after RBI redirects oil dollar demand, raises cost of some FX hedges&nbsp;&nbsp;Reuters",
-    "[Reuters] Indian central bank curbs to temper corporate rush to hedge against rupee weakness - Reuters - Indian central bank curbs to temper corporate rush to hedge against rupee weakness&nbsp;&nbsp;Reuters",
-    "[Semis] Futures Rise Amid Trump Claims, Oil-Related News - Investor's Business Daily - Futures Rise Amid Trump Claims, Oil-Related News&nbsp;&nbsp;Investor's Business Daily",
-    "[Semis] KOSPI Plummets 3% on OpenAI Revenue Concerns - 조선일보 - KOSPI Plummets 3% on OpenAI Revenue Concerns&nbsp;&nbsp;조선일보"
+  "ai_sentiment_index": 25.0,
+  "summary": "全球對AI的擔憂加劇，導致亞洲股市和半導體類股下跌，宏觀風險因素也同步上升。",
+  "news_zh": [
+    "亞洲股市因AI疑慮跌至兩個月低點，債券受青睞。",
+    "IMF指出AI放緩與殖利率飆升為全球市場迫在眉睫的風險。",
+    "華爾街對AI的押注規模過大，恐難以實現。",
+    "亞洲股市遭受重創，半導體類股大幅下跌。",
+    "儘管獲利創紀錄，但對半導體長期繁榮理論的疑慮日益加深。",
+    "那斯達克指數在財報和經濟數據公布前下跌，油價則上漲。"
   ],
-  "debug_error": "RuntimeError: 重試後仍失敗：HTTP 404 @gemini-2.0-flash: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen"
+  "news": [
+    "[Reuters] EXCLUSIVE: Banking watchdogs ramp up AI scrutiny as stability fears mount, sources say - Reuters - EXCLUSIVE: Banking watchdogs ramp up AI scrutiny as stability fears mount, sources say&nbsp;&nbsp;Reuters",
+    "[Reuters] IMF cites AI slowdown, spiking yields as looming global market risks - Reuters - IMF cites AI slowdown, spiking yields as looming global market risks&nbsp;&nbsp;Reuters",
+    "[Reuters] COMMENTARY: Wall Street’s AI bet is now too big to hit - Reuters - COMMENTARY: Wall Street’s AI bet is now too big to hit&nbsp;&nbsp;Reuters",
+    "[Reuters] Asian stocks hit 2-month low on AI jitters, bonds find favour - Reuters - Asian stocks hit 2-month low on AI jitters, bonds find favour&nbsp;&nbsp;Reuters",
+    "[Reuters] COMMENTARY: Trump's oil jawboning loses punch as wars spiral - Reuters - COMMENTARY: Trump's oil jawboning loses punch as wars spiral&nbsp;&nbsp;Reuters",
+    "[Reuters] Breakingviews - COMMENTARY: The $1.7 trln auto loan market heads for a crash - Reuters - Breakingviews - COMMENTARY: The $1.7 trln auto loan market heads for a crash&nbsp;&nbsp;Reuters",
+    "[Reuters] COMMENTARY: Trading Day: Fog of war - Reuters - COMMENTARY: Trading Day: Fog of war&nbsp;&nbsp;Reuters",
+    "[Reuters] Tencent sells dollar, dim sum bonds amid AI spending spree - Reuters - Tencent sells dollar, dim sum bonds amid AI spending spree&nbsp;&nbsp;Reuters",
+    "[Semis] Nasdaq falls ahead of earnings, economic data while oil rallies - Reuters - Nasdaq falls ahead of earnings, economic data while oil rallies&nbsp;&nbsp;Reuters",
+    "[Semis] West Coast Community Bancorp Rings the Nasdaq Stock Market Closing Bell - Nasdaq - West Coast Community Bancorp Rings the Nasdaq Stock Market Closing Bell&nbsp;&nbsp;Nasdaq"
+  ],
+  "debug_error": ""
 }
