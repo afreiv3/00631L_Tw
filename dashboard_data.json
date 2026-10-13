@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12 15:15 (Taipei)",
+  "updated": "2026-10-13 09:00 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -3884,6 +3884,69 @@
           "pts": 6,
           "max": 10,
           "note": "加權收~48,947（季線45,727，乖離+7.1%），中期多頭結構完好；跌幅從最深-544收斂至-366顯示有支撐，但短線仍在49K之下，給6分"
+        }
+      },
+      "paper": {
+        "cash": 971840,
+        "equity": 971840,
+        "market_value": 0,
+        "return_pct": -2.82,
+        "holding": false,
+        "position": null,
+        "shares": 0,
+        "avg_cost": null,
+        "unrealized": 0,
+        "unrealized_pct": 0,
+        "trades": 13,
+        "wins": 5,
+        "win_rate": 38.5,
+        "realized_pnl": -28160
+      }
+    },
+    {
+      "date": "2026-10-13",
+      "time": "09:00",
+      "price": null,
+      "score": 44,
+      "zone": "amber",
+      "quant_sum": 30,
+      "ai_sum": 14,
+      "ai_ok": true,
+      "factors": {
+        "pattern": {
+          "pts": 10.0,
+          "max": 20,
+          "note": "盤中資料缺，型態以中性計"
+        },
+        "sector": {
+          "pts": 4,
+          "max": 20,
+          "note": "費半SOX收跌2.67%至12,236點，台積電ADR連五日下跌2%至$444.35，NVDA跌1.29%至$226.32，CXMT記憶體新架構引爆板塊全面轉弱，給4分"
+        },
+        "entry": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "區間資料缺，以中性計"
+        },
+        "volume": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "量能資料缺，以中性計"
+        },
+        "vwap": {
+          "pts": 5.0,
+          "max": 10,
+          "note": "VWAP 資料缺，以中性計"
+        },
+        "macro": {
+          "pts": 2,
+          "max": 10,
+          "note": "Fed 9月重啟升息至3.75-4%（2023年來首次），10年期殖利率5.24%高位，沙烏地機場遭攻擊推升油價，三重宏觀風險同步升溫，給2分"
+        },
+        "trend": {
+          "pts": 8,
+          "max": 10,
+          "note": "加權收48,947站穩季線45,727上方（乖離+7.1%），中期多頭結構完好；外資連賣四日累計逾1,477億元需警覺，給8分"
         }
       },
       "paper": {
