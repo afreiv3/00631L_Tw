@@ -1,7 +1,7 @@
 {
-  "cash": 889126.5957111762,
-  "shares": 2503.947188007637,
-  "cost_basis": 93304.64478744789,
+  "cash": 938634.4805118167,
+  "shares": 1251.9735940038186,
+  "cost_basis": 46652.322393723945,
   "start_capital": 1000000.0,
   "highest_equity": 994041.9828886961,
   "highest_price_since_entry": 41.9,
@@ -10,15 +10,15 @@
   "profit_stage_2_done": true,
   "trailing_mode": true,
   "current_target_exposure": 0.5,
-  "realized_pnl": -17568.759501376044,
+  "realized_pnl": -14713.197094459421,
   "frenzy_days": 0,
   "ma20_break_days": 0,
   "market_break_days": 0,
   "cooldown_remaining": 0,
-  "last_date": "2026-10-12",
-  "last_trade_date": "2026-10-05",
+  "last_date": "2026-10-13",
+  "last_trade_date": "2026-10-13",
   "last_action": "SELL",
-  "last_action_reason": "DATA_INVALID_NO_TRADE",
-  "trades": 6,
-  "updated": "2026-10-13 09:15"
+  "last_action_reason": "TRAILING_REDUCE",
+  "trades": 7,
+  "updated": "2026-10-13 09:30"
 }
