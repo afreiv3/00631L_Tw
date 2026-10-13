@@ -1396,13 +1396,13 @@
     },
     {
       "date": "2026-10-13",
-      "time": "09:30",
+      "time": "09:45",
       "price": 39.64,
       "tier1": 30,
       "ai_index": 50.0,
       "target": 0.5,
       "zone": "amber",
-      "zone_label": "🟠 移動停利減半",
+      "zone_label": "🟡 標準持倉（情緒健康）",
       "gate_open": true,
       "market_ok": true,
       "asset_trend_ok": true,
@@ -1440,7 +1440,7 @@
         "ai_index": 50.0,
         "target": 0.5,
         "zone": "amber",
-        "zone_label": "🟠 移動停利減半",
+        "zone_label": "🟡 標準持倉（情緒健康）",
         "gate_open": true
       }
     }
