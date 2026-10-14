@@ -1,33 +1,33 @@
 {
-  "date": "2026-10-13",
-  "generated_at": "2026-10-13 14:50",
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14 12:59",
   "model": "gemini-2.5-flash",
   "factors": {
     "sector": 3.0,
-    "macro": 4.0,
-    "trend": 3.0
+    "macro": 6.0,
+    "trend": 4.0
   },
-  "ai_sentiment_index": 25.0,
-  "summary": "全球對AI的擔憂加劇，導致亞洲股市和半導體類股下跌，宏觀風險因素也同步上升。",
+  "ai_sentiment_index": 32.5,
+  "summary": "那斯達克指數因晶片股下跌和銀行財報不佳而收低，預示台灣科技股可能面臨壓力。",
   "news_zh": [
-    "亞洲股市因AI疑慮跌至兩個月低點，債券受青睞。",
-    "IMF指出AI放緩與殖利率飆升為全球市場迫在眉睫的風險。",
-    "華爾街對AI的押注規模過大，恐難以實現。",
-    "亞洲股市遭受重創，半導體類股大幅下跌。",
-    "儘管獲利創紀錄，但對半導體長期繁榮理論的疑慮日益加深。",
-    "那斯達克指數在財報和經濟數據公布前下跌，油價則上漲。"
+    "那斯達克指數收跌，晶片製造商股價下滑，銀行財報陸續公布。",
+    "晶片股遭遇慘烈拋售，顯示人工智慧相關交易正在轉向。",
+    "美國股市指數因銀行財報和半導體產業下滑而下跌。",
+    "半導體股票拋售潮：十檔晶片股顯示超賣跡象。",
+    "高盛集團因股票業務強勁而超出季度獲利預期。",
+    "摩根大通公布罕見的獲利未達預期，因交易撮合和債券交易失去動能。"
   ],
   "news": [
-    "[Reuters] EXCLUSIVE: Banking watchdogs ramp up AI scrutiny as stability fears mount, sources say - Reuters - EXCLUSIVE: Banking watchdogs ramp up AI scrutiny as stability fears mount, sources say&nbsp;&nbsp;Reuters",
-    "[Reuters] IMF cites AI slowdown, spiking yields as looming global market risks - Reuters - IMF cites AI slowdown, spiking yields as looming global market risks&nbsp;&nbsp;Reuters",
-    "[Reuters] COMMENTARY: Wall Street’s AI bet is now too big to hit - Reuters - COMMENTARY: Wall Street’s AI bet is now too big to hit&nbsp;&nbsp;Reuters",
-    "[Reuters] Asian stocks hit 2-month low on AI jitters, bonds find favour - Reuters - Asian stocks hit 2-month low on AI jitters, bonds find favour&nbsp;&nbsp;Reuters",
-    "[Reuters] COMMENTARY: Trump's oil jawboning loses punch as wars spiral - Reuters - COMMENTARY: Trump's oil jawboning loses punch as wars spiral&nbsp;&nbsp;Reuters",
-    "[Reuters] Breakingviews - COMMENTARY: The $1.7 trln auto loan market heads for a crash - Reuters - Breakingviews - COMMENTARY: The $1.7 trln auto loan market heads for a crash&nbsp;&nbsp;Reuters",
-    "[Reuters] COMMENTARY: Trading Day: Fog of war - Reuters - COMMENTARY: Trading Day: Fog of war&nbsp;&nbsp;Reuters",
-    "[Reuters] Tencent sells dollar, dim sum bonds amid AI spending spree - Reuters - Tencent sells dollar, dim sum bonds amid AI spending spree&nbsp;&nbsp;Reuters",
-    "[Semis] Nasdaq falls ahead of earnings, economic data while oil rallies - Reuters - Nasdaq falls ahead of earnings, economic data while oil rallies&nbsp;&nbsp;Reuters",
-    "[Semis] West Coast Community Bancorp Rings the Nasdaq Stock Market Closing Bell - Nasdaq - West Coast Community Bancorp Rings the Nasdaq Stock Market Closing Bell&nbsp;&nbsp;Nasdaq"
+    "[Reuters] African financial markets gain ground but liquidity a challenge, survey shows - Reuters - African financial markets gain ground but liquidity a challenge, survey shows&nbsp;&nbsp;Reuters",
+    "[Reuters] Nasdaq ends down as chipmakers fall and bank earnings roll in - Reuters - Nasdaq ends down as chipmakers fall and bank earnings roll in&nbsp;&nbsp;Reuters",
+    "[Reuters] EXCLUSIVE: LSEG in talks to buy Permira-owned Octus data group for about $3.5 billion - Reuters - EXCLUSIVE: LSEG in talks to buy Permira-owned Octus data group for about $3.5 billion&nbsp;&nbsp;Reuters",
+    "[Reuters] JPMorgan posts rare profit miss as dealmaking, bond trading lose momentum - Reuters - JPMorgan posts rare profit miss as dealmaking, bond trading lose momentum&nbsp;&nbsp;Reuters",
+    "[Reuters] Goldman Sachs beats quarterly profit estimates on equities strength - Reuters - Goldman Sachs beats quarterly profit estimates on equities strength&nbsp;&nbsp;Reuters",
+    "[Reuters] Hedge funds are a top draw in Asia as investors look beyond bonds - Reuters - Hedge funds are a top draw in Asia as investors look beyond bonds&nbsp;&nbsp;Reuters",
+    "[Reuters] Brutal session for chip stocks shows AI trade is turning - Reuters - Brutal session for chip stocks shows AI trade is turning&nbsp;&nbsp;Reuters",
+    "[Reuters] India markets regulator panel seeks tighter monitoring of equity fundraises - Reuters - India markets regulator panel seeks tighter monitoring of equity fundraises&nbsp;&nbsp;Reuters",
+    "[Semis] Tyra Biosciences, Inc. Rings the Nasdaq Stock Market Opening Bell - Nasdaq - Tyra Biosciences, Inc. Rings the Nasdaq Stock Market Opening Bell&nbsp;&nbsp;Nasdaq",
+    "[Semis] Best Semiconductor Stocks to Buy in October: Marvell vs. Qualcomm - The Motley Fool - Best Semiconductor Stocks to Buy in October: Marvell vs. Qualcomm&nbsp;&nbsp;The Motley Fool"
   ],
   "debug_error": ""
 }
