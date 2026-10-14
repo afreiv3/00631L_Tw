@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14 09:15 (Taipei)",
+  "updated": "2026-10-14 09:30 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -3968,18 +3968,18 @@
     },
     {
       "date": "2026-10-14",
-      "time": "09:15",
-      "price": null,
-      "score": 38,
-      "zone": "red",
-      "quant_sum": 30,
+      "time": "09:30",
+      "price": 39.57,
+      "score": 53,
+      "zone": "amber",
+      "quant_sum": 45,
       "ai_sum": 8,
       "ai_ok": true,
       "factors": {
         "pattern": {
           "pts": 10.0,
           "max": 20,
-          "note": "盤中資料缺，型態以中性計"
+          "note": "開+0.9%、小幅回落，型態中性"
         },
         "sector": {
           "pts": 2,
@@ -3987,19 +3987,19 @@
           "note": "費半SOX連日下滑(-2.67% on 10/12)、TSMC ADR連5跌$444.35、10/13 Nasdaq 100跌至30,457，半導體板塊明顯轉弱，給2分"
         },
         "entry": {
-          "pts": 7.5,
+          "pts": 15,
           "max": 15,
-          "note": "區間資料缺，以中性計"
+          "note": "現價近今日低點(區間21%) → 接近支撐"
         },
         "volume": {
-          "pts": 7.5,
+          "pts": 15,
           "max": 15,
-          "note": "量能資料缺，以中性計"
+          "note": "推估量約均量0.8倍 → 正常"
         },
         "vwap": {
           "pts": 5.0,
           "max": 10,
-          "note": "VWAP 資料缺，以中性計"
+          "note": "現價貼近VWAP(-0.09%)"
         },
         "macro": {
           "pts": 1,
