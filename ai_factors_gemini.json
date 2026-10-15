@@ -1,33 +1,33 @@
 {
-  "date": "2026-10-14",
-  "generated_at": "2026-10-14 12:59",
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15 12:46",
   "model": "gemini-2.5-flash",
   "factors": {
-    "sector": 3.0,
-    "macro": 6.0,
-    "trend": 4.0
+    "sector": 2.0,
+    "macro": 3.0,
+    "trend": 2.0
   },
-  "ai_sentiment_index": 32.5,
-  "summary": "那斯達克指數因晶片股下跌和銀行財報不佳而收低，預示台灣科技股可能面臨壓力。",
+  "ai_sentiment_index": 17.5,
+  "summary": "美國通膨數據高於預期引發升息擔憂，導致科技股和亞洲股市普遍下跌，市場情緒悲觀。",
   "news_zh": [
-    "那斯達克指數收跌，晶片製造商股價下滑，銀行財報陸續公布。",
-    "晶片股遭遇慘烈拋售，顯示人工智慧相關交易正在轉向。",
-    "美國股市指數因銀行財報和半導體產業下滑而下跌。",
-    "半導體股票拋售潮：十檔晶片股顯示超賣跡象。",
-    "高盛集團因股票業務強勁而超出季度獲利預期。",
-    "摩根大通公布罕見的獲利未達預期，因交易撮合和債券交易失去動能。"
+    "美國通膨數據火熱，引發升息擔憂，那斯達克指數大幅收低。",
+    "亞洲市場因美國通膨數據過熱，AI相關股票崩跌而全面拋售。",
+    "AI概念股在通膨報告後下跌，市場預期聯準會將升息。",
+    "亞洲股市因美國通膨數據過熱導致晶片股下跌而普遍下滑。",
+    "華爾街銀行儘管市場波動，但交易案量仍強勁。",
+    "日本保險公司預計將資金逐步匯回國內。"
   ],
   "news": [
-    "[Reuters] African financial markets gain ground but liquidity a challenge, survey shows - Reuters - African financial markets gain ground but liquidity a challenge, survey shows&nbsp;&nbsp;Reuters",
-    "[Reuters] Nasdaq ends down as chipmakers fall and bank earnings roll in - Reuters - Nasdaq ends down as chipmakers fall and bank earnings roll in&nbsp;&nbsp;Reuters",
-    "[Reuters] EXCLUSIVE: LSEG in talks to buy Permira-owned Octus data group for about $3.5 billion - Reuters - EXCLUSIVE: LSEG in talks to buy Permira-owned Octus data group for about $3.5 billion&nbsp;&nbsp;Reuters",
-    "[Reuters] JPMorgan posts rare profit miss as dealmaking, bond trading lose momentum - Reuters - JPMorgan posts rare profit miss as dealmaking, bond trading lose momentum&nbsp;&nbsp;Reuters",
-    "[Reuters] Goldman Sachs beats quarterly profit estimates on equities strength - Reuters - Goldman Sachs beats quarterly profit estimates on equities strength&nbsp;&nbsp;Reuters",
-    "[Reuters] Hedge funds are a top draw in Asia as investors look beyond bonds - Reuters - Hedge funds are a top draw in Asia as investors look beyond bonds&nbsp;&nbsp;Reuters",
-    "[Reuters] Brutal session for chip stocks shows AI trade is turning - Reuters - Brutal session for chip stocks shows AI trade is turning&nbsp;&nbsp;Reuters",
-    "[Reuters] India markets regulator panel seeks tighter monitoring of equity fundraises - Reuters - India markets regulator panel seeks tighter monitoring of equity fundraises&nbsp;&nbsp;Reuters",
-    "[Semis] Tyra Biosciences, Inc. Rings the Nasdaq Stock Market Opening Bell - Nasdaq - Tyra Biosciences, Inc. Rings the Nasdaq Stock Market Opening Bell&nbsp;&nbsp;Nasdaq",
-    "[Semis] Best Semiconductor Stocks to Buy in October: Marvell vs. Qualcomm - The Motley Fool - Best Semiconductor Stocks to Buy in October: Marvell vs. Qualcomm&nbsp;&nbsp;The Motley Fool"
+    "[Reuters] Asian markets sell off as AI trades crumble after hot US CPI data - Reuters - Asian markets sell off as AI trades crumble after hot US CPI data&nbsp;&nbsp;Reuters",
+    "[Reuters] Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries - Reuters - Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries&nbsp;&nbsp;Reuters",
+    "[Reuters] Japanese insurers are poised to bring money back home - gradually - Reuters - Japanese insurers are poised to bring money back home - gradually&nbsp;&nbsp;Reuters",
+    "[Reuters] Wall Street banks see robust deal pipeline despite market volatility - Reuters - Wall Street banks see robust deal pipeline despite market volatility&nbsp;&nbsp;Reuters",
+    "[Reuters] Gulf markets mixed; Saudi stocks hardest hit on Aramco attack - Reuters - Gulf markets mixed; Saudi stocks hardest hit on Aramco attack&nbsp;&nbsp;Reuters",
+    "[Reuters] BofA misses profit estimates on trading weakness, books $1.2 billion charge - Reuters - BofA misses profit estimates on trading weakness, books $1.2 billion charge&nbsp;&nbsp;Reuters",
+    "[Reuters] Perella Weinberg, Piper Sandler abandon merger talks, source says - Reuters - Perella Weinberg, Piper Sandler abandon merger talks, source says&nbsp;&nbsp;Reuters",
+    "[Reuters] Trading Day: Tech melt - Reuters - Trading Day: Tech melt&nbsp;&nbsp;Reuters",
+    "[Semis] Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries - Reuters - Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries&nbsp;&nbsp;Reuters",
+    "[Semis] AI stocks drop after hot inflation report bolsters bets for Fed rate hikes - CNN - AI stocks drop after hot inflation report bolsters bets for Fed rate hikes&nbsp;&nbsp;CNN"
   ],
   "debug_error": ""
 }
