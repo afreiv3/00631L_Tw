@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15 10:15 (Taipei)",
+  "updated": "2026-10-15 10:30 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -3748,9 +3748,9 @@
     },
     {
       "date": "2026-10-15",
-      "time": "10:15",
-      "price": 37.49,
-      "tier1": 25,
+      "time": "10:30",
+      "price": 37.6,
+      "tier1": 22,
       "ai_index": 50.0,
       "target": 0.0,
       "zone": "red",
@@ -3790,7 +3790,7 @@
         "frenzy_days": 0,
         "last_action": "SELL",
         "last_action_reason": "EXIT_BELOW_20MA",
-        "tier1": 25,
+        "tier1": 22,
         "ai_index": 50.0,
         "target": 0.0,
         "zone": "red",
