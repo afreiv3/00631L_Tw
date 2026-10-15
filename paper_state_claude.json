@@ -9,7 +9,7 @@
   "profit_stage_1_done": false,
   "profit_stage_2_done": false,
   "trailing_mode": false,
-  "current_target_exposure": 0.5,
+  "current_target_exposure": 0.0,
   "realized_pnl": -13037.880679889058,
   "frenzy_days": 0,
   "ma20_break_days": 1,
@@ -20,5 +20,5 @@
   "last_action": "SELL",
   "last_action_reason": "TRAILING_EXIT",
   "trades": 9,
-  "updated": "2026-10-15 09:30"
+  "updated": "2026-10-15 09:45"
 }
