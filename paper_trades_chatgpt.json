@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14 09:30",
+  "updated": "2026-10-15 09:30",
   "history": [
     {
       "date": "2026-06-09",
@@ -542,6 +542,16 @@
       "target_pct": 50,
       "reason_code": "TRAILING_REDUCE",
       "reason": "移動停利：自最高價回落 5.6%（≥5%）→ 減半"
+    },
+    {
+      "date": "2026-10-15",
+      "time": "09:30",
+      "action": "SELL",
+      "price": 37.82,
+      "shares": 655.2,
+      "target_pct": 0,
+      "reason_code": "EXIT_BELOW_20MA",
+      "reason": "趨勢破壞：00631L 跌破 20MA → 全清"
     }
   ]
 }
