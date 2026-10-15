@@ -18,7 +18,7 @@
   "last_date": "2026-10-14",
   "last_trade_date": "2026-10-14",
   "last_action": "SELL",
-  "last_action_reason": "TRAILING_REDUCE",
+  "last_action_reason": "DATA_INVALID_NO_TRADE",
   "trades": 8,
-  "updated": "2026-10-14 14:02"
+  "updated": "2026-10-15 09:00"
 }

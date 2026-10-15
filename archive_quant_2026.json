@@ -1,6 +1,6 @@
 {
   "year": "2026",
-  "count": 60,
+  "count": 61,
   "history": [
     {
       "date": "2026-07-20",
@@ -4011,6 +4011,69 @@
           "pts": 6,
           "max": 10,
           "note": "TWII 48,625仍在季線~45,727上方（乖離+6.3%），中期多頭結構未破壞；終止三連跌但外資仍在賣超模式，短線動能緩慢修復，給6分"
+        }
+      },
+      "paper": {
+        "cash": 971840,
+        "equity": 971840,
+        "market_value": 0,
+        "return_pct": -2.82,
+        "holding": false,
+        "position": null,
+        "shares": 0,
+        "avg_cost": null,
+        "unrealized": 0,
+        "unrealized_pct": 0,
+        "trades": 13,
+        "wins": 5,
+        "win_rate": 38.5,
+        "realized_pnl": -28160
+      }
+    },
+    {
+      "date": "2026-10-15",
+      "time": "09:00",
+      "price": null,
+      "score": 37,
+      "zone": "red",
+      "quant_sum": 30,
+      "ai_sum": 7,
+      "ai_ok": true,
+      "factors": {
+        "pattern": {
+          "pts": 10.0,
+          "max": 20,
+          "note": "盤中資料缺，型態以中性計"
+        },
+        "sector": {
+          "pts": 0,
+          "max": 20,
+          "note": "費半SOX -4.3%（連六跌），NVDA -3.16%、AVGO -3.10%、TSM ADR -3.40%，AI半導體板塊全面轉弱，給0分"
+        },
+        "entry": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "區間資料缺，以中性計"
+        },
+        "volume": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "量能資料缺，以中性計"
+        },
+        "vwap": {
+          "pts": 5.0,
+          "max": 10,
+          "note": "VWAP 資料缺，以中性計"
+        },
+        "macro": {
+          "pts": 0,
+          "max": 10,
+          "note": "CPI 3.7%超預期（+0.1ppt）、核心CPI 2.6%超預期，Fed升息疑慮重燃（10/28升息機率~44%），10Y殖利率5.24-5.30%（+8bp），布蘭特>$106，系統性風險明顯升溫，給0分"
+        },
+        "trend": {
+          "pts": 7,
+          "max": 10,
+          "note": "TWII 10/14收48,625（季線~45,727，乖離+6.3%），中期多頭結構完好；惟TSM ADR -3.4%帶來開低壓力，今日存在測試季線風險，謹慎給7分"
         }
       },
       "paper": {
