@@ -4095,11 +4095,11 @@
     },
     {
       "date": "2026-10-16",
-      "time": "09:45",
-      "price": 37.57,
-      "score": 58,
+      "time": "10:00",
+      "price": 37.39,
+      "score": 60,
       "zone": "amber",
-      "quant_sum": 38,
+      "quant_sum": 40,
       "ai_sum": 20,
       "ai_ok": true,
       "factors": {
@@ -4114,19 +4114,19 @@
           "note": "半導體板塊呈分歧：TSMC Q3 EPS 29.43元/Q4+14%超預期提供強勁基本面支撐，惟SOX連七跌且AI支出疑慮（ByteDance/MediaTek替代方案）持續壓抑，台指期夜盤僅+0.36%而非強力反彈，評分歧10分"
         },
         "entry": {
-          "pts": 0,
+          "pts": 7.5,
           "max": 15,
-          "note": "現價在區間上緣(100%) → 屬追高"
+          "note": "現價在區間中段(38%)"
         },
         "volume": {
           "pts": 7.5,
           "max": 15,
-          "note": "推估量約均量1.8倍 → 偏離"
+          "note": "推估量約均量1.7倍 → 偏離"
         },
         "vwap": {
-          "pts": 10,
+          "pts": 5.0,
           "max": 10,
-          "note": "現價在VWAP之上(+0.37%) → 有利"
+          "note": "現價貼近VWAP(-0.14%)"
         },
         "macro": {
           "pts": 5,
