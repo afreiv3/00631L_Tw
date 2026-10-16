@@ -1579,13 +1579,13 @@
     },
     {
       "date": "2026-10-16",
-      "time": "13:30",
-      "price": 37.43,
-      "tier1": 52,
+      "time": "13:45",
+      "price": 37.26,
+      "tier1": 40,
       "ai_index": 32.5,
       "target": 0.0,
       "zone": "red",
-      "zone_label": "⚪ 出場冷卻中（還剩2個交易日）",
+      "zone_label": "⚪ 今日已交易過",
       "gate_open": false,
       "market_ok": true,
       "asset_trend_ok": false,
@@ -1630,11 +1630,11 @@
         "cooldown_remaining": 2,
         "last_action": "SELL",
         "last_action_reason": "DATA_INVALID_NO_TRADE",
-        "tier1": 52,
+        "tier1": 40,
         "ai_index": 32.5,
         "target": 0.0,
         "zone": "red",
-        "zone_label": "⚪ 出場冷卻中（還剩2個交易日）",
+        "zone_label": "⚪ 今日已交易過",
         "gate_open": false
       }
     }
