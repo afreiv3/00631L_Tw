@@ -1,33 +1,32 @@
 {
-  "date": "2026-10-15",
-  "generated_at": "2026-10-15 12:46",
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16 12:37",
   "model": "gemini-2.5-flash",
   "factors": {
-    "sector": 2.0,
-    "macro": 3.0,
-    "trend": 2.0
+    "sector": 3.0,
+    "macro": 6.0,
+    "trend": 4.0
   },
-  "ai_sentiment_index": 17.5,
-  "summary": "美國通膨數據高於預期引發升息擔憂，導致科技股和亞洲股市普遍下跌，市場情緒悲觀。",
+  "ai_sentiment_index": 32.5,
+  "summary": "全球科技股因對AI支出和通膨的擔憂而大幅下跌，那斯達克期貨走低，對台灣股市構成壓力。",
   "news_zh": [
-    "美國通膨數據火熱，引發升息擔憂，那斯達克指數大幅收低。",
-    "亞洲市場因美國通膨數據過熱，AI相關股票崩跌而全面拋售。",
-    "AI概念股在通膨報告後下跌，市場預期聯準會將升息。",
-    "亞洲股市因美國通膨數據過熱導致晶片股下跌而普遍下滑。",
-    "華爾街銀行儘管市場波動，但交易案量仍強勁。",
-    "日本保險公司預計將資金逐步匯回國內。"
+    "科技股因對AI支出的疑慮加劇而暴跌。",
+    "晶片製造商拋售，投資者轉向其他股票和債券尋求安全。",
+    "那斯達克期貨走低，受AI支出和聯準會利率擔憂影響。",
+    "市場拋售和利率上升考驗AI數據中心交易熱潮。",
+    "MSCI準備將印尼從全球指數中移除，引發市場跌至六年低點。"
   ],
   "news": [
-    "[Reuters] Asian markets sell off as AI trades crumble after hot US CPI data - Reuters - Asian markets sell off as AI trades crumble after hot US CPI data&nbsp;&nbsp;Reuters",
-    "[Reuters] Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries - Reuters - Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries&nbsp;&nbsp;Reuters",
-    "[Reuters] Japanese insurers are poised to bring money back home - gradually - Reuters - Japanese insurers are poised to bring money back home - gradually&nbsp;&nbsp;Reuters",
-    "[Reuters] Wall Street banks see robust deal pipeline despite market volatility - Reuters - Wall Street banks see robust deal pipeline despite market volatility&nbsp;&nbsp;Reuters",
-    "[Reuters] Gulf markets mixed; Saudi stocks hardest hit on Aramco attack - Reuters - Gulf markets mixed; Saudi stocks hardest hit on Aramco attack&nbsp;&nbsp;Reuters",
-    "[Reuters] BofA misses profit estimates on trading weakness, books $1.2 billion charge - Reuters - BofA misses profit estimates on trading weakness, books $1.2 billion charge&nbsp;&nbsp;Reuters",
-    "[Reuters] Perella Weinberg, Piper Sandler abandon merger talks, source says - Reuters - Perella Weinberg, Piper Sandler abandon merger talks, source says&nbsp;&nbsp;Reuters",
-    "[Reuters] Trading Day: Tech melt - Reuters - Trading Day: Tech melt&nbsp;&nbsp;Reuters",
-    "[Semis] Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries - Reuters - Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries&nbsp;&nbsp;Reuters",
-    "[Semis] AI stocks drop after hot inflation report bolsters bets for Fed rate hikes - CNN - AI stocks drop after hot inflation report bolsters bets for Fed rate hikes&nbsp;&nbsp;CNN"
+    "[Reuters] Market selloff, rising rates test AI data centre deal boom - Reuters - Market selloff, rising rates test AI data centre deal boom&nbsp;&nbsp;Reuters",
+    "[Reuters] Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say - Reuters - Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say&nbsp;&nbsp;Reuters",
+    "[Reuters] Wall St banks caught in capital markets lull after a strong first half of 2026 - Reuters - Wall St banks caught in capital markets lull after a strong first half of 2026&nbsp;&nbsp;Reuters",
+    "[Reuters] Nasdaq resolves network disruption that caused data gaps, source says - Reuters - Nasdaq resolves network disruption that caused data gaps, source says&nbsp;&nbsp;Reuters",
+    "[Reuters] Investors see outflow and FX risks as MSCI moves to downgrade Indonesia - Reuters - Investors see outflow and FX risks as MSCI moves to downgrade Indonesia&nbsp;&nbsp;Reuters",
+    "[Reuters] COMMENTARY: Morning Bid: CoreWeave unravels - Reuters - COMMENTARY: Morning Bid: CoreWeave unravels&nbsp;&nbsp;Reuters",
+    "[Reuters] European shares hit more than two-week high as sturdy earnings lift sentiment - Reuters - European shares hit more than two-week high as sturdy earnings lift sentiment&nbsp;&nbsp;Reuters",
+    "[Reuters] MSCI gets set to remove Indonesia from global indexes, sparks market slide to six-year low - Reuters - MSCI gets set to remove Indonesia from global indexes, sparks market slide to six-year low&nbsp;&nbsp;Reuters",
+    "[Semis] GOWell Energy Technology Rings the Nasdaq Stock Market Closing Bell - Nasdaq - GOWell Energy Technology Rings the Nasdaq Stock Market Closing Bell&nbsp;&nbsp;Nasdaq",
+    "[Semis] Tech Stocks Plunge as Doubts Over A.I. Spending Intensify - The New York Times - Tech Stocks Plunge as Doubts Over A.I. Spending Intensify&nbsp;&nbsp;The New York Times"
   ],
   "debug_error": ""
 }
