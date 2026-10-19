@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16 18:08 (Taipei)",
+  "updated": "2026-10-19 09:00 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -4157,6 +4157,77 @@
         "avg_cost": 37.37,
         "unrealized": -2132,
         "unrealized_pct": -0.73,
+        "trades": 13,
+        "wins": 5,
+        "win_rate": 38.5,
+        "realized_pnl": -28160
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "time": "09:00",
+      "price": null,
+      "score": 35,
+      "zone": "red",
+      "quant_sum": 30,
+      "ai_sum": 5,
+      "ai_ok": true,
+      "factors": {
+        "pattern": {
+          "pts": 10.0,
+          "max": 20,
+          "note": "盤中資料缺，型態以中性計"
+        },
+        "sector": {
+          "pts": 0,
+          "max": 20,
+          "note": "SOX創2008年最長連跌、AVGO -4.52%/TSM ADR -2.28%，AI融資疑慮引爆全面科技拋售，板塊明顯轉弱。"
+        },
+        "entry": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "區間資料缺，以中性計"
+        },
+        "volume": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "量能資料缺，以中性計"
+        },
+        "vwap": {
+          "pts": 5.0,
+          "max": 10,
+          "note": "VWAP 資料缺，以中性計"
+        },
+        "macro": {
+          "pts": 0,
+          "max": 10,
+          "note": "9月CPI 3.7%超預期、Fed鷹派Warsh言論持續，10Y殖利率5.09%居高，系統性風險明顯升溫。"
+        },
+        "trend": {
+          "pts": 5,
+          "max": 10,
+          "note": "加權47,111點，台指期夜盤46,140已逼近季線約46,000，月線已失守，結構貼近關鍵支撐待考驗。"
+        }
+      },
+      "paper": {
+        "cash": 679901,
+        "equity": 679901,
+        "market_value": 0,
+        "return_pct": -32.01,
+        "holding": true,
+        "position": {
+          "shares": 7801,
+          "entry_price": 37.37,
+          "entry_date": "2026-10-16",
+          "entry_time": "11:30",
+          "cost": 291938.79,
+          "entry_score": 75,
+          "frac": 0.3
+        },
+        "shares": 7801,
+        "avg_cost": 37.37,
+        "unrealized": -291939,
+        "unrealized_pct": -100.0,
         "trades": 13,
         "wins": 5,
         "win_rate": 38.5,
