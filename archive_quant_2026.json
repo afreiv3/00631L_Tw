@@ -4166,8 +4166,8 @@
     },
     {
       "date": "2026-10-19",
-      "time": "09:15",
-      "price": null,
+      "time": "09:30",
+      "price": 36.37,
       "score": 35,
       "zone": "red",
       "quant_sum": 30,
@@ -4175,9 +4175,9 @@
       "ai_ok": true,
       "factors": {
         "pattern": {
-          "pts": 10.0,
+          "pts": 20,
           "max": 20,
-          "note": "盤中資料缺，型態以中性計"
+          "note": "現價守在開盤之上(開-3.0%) → 有利"
         },
         "sector": {
           "pts": 0,
@@ -4185,19 +4185,19 @@
           "note": "SOX創2008年最長連跌、AVGO -4.52%/TSM ADR -2.28%，AI融資疑慮引爆全面科技拋售，板塊明顯轉弱。"
         },
         "entry": {
-          "pts": 7.5,
+          "pts": 0,
           "max": 15,
-          "note": "區間資料缺，以中性計"
+          "note": "現價在區間上緣(100%) → 屬追高"
         },
         "volume": {
-          "pts": 7.5,
+          "pts": 0,
           "max": 15,
-          "note": "量能資料缺，以中性計"
+          "note": "推估量約均量3.8倍 → 爆量(疑換手/出貨)"
         },
         "vwap": {
-          "pts": 5.0,
+          "pts": 10,
           "max": 10,
-          "note": "VWAP 資料缺，以中性計"
+          "note": "現價在VWAP之上(+0.62%) → 有利"
         },
         "macro": {
           "pts": 0,
@@ -4211,28 +4211,20 @@
         }
       },
       "paper": {
-        "cash": 679901,
-        "equity": 679901,
+        "cash": 962935,
+        "equity": 962935,
         "market_value": 0,
-        "return_pct": -32.01,
-        "holding": true,
-        "position": {
-          "shares": 7801,
-          "entry_price": 37.37,
-          "entry_date": "2026-10-16",
-          "entry_time": "11:30",
-          "cost": 291938.79,
-          "entry_score": 75,
-          "frac": 0.3
-        },
-        "shares": 7801,
-        "avg_cost": 37.37,
-        "unrealized": -291939,
-        "unrealized_pct": -100.0,
-        "trades": 13,
+        "return_pct": -3.71,
+        "holding": false,
+        "position": null,
+        "shares": 0,
+        "avg_cost": null,
+        "unrealized": 0,
+        "unrealized_pct": 0,
+        "trades": 14,
         "wins": 5,
-        "win_rate": 38.5,
-        "realized_pnl": -28160
+        "win_rate": 35.7,
+        "realized_pnl": -37065
       }
     }
   ]
