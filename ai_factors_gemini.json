@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-16",
-  "generated_at": "2026-10-16 12:37",
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19 12:47",
   "model": "gemini-2.5-flash",
   "factors": {
-    "sector": 3.0,
-    "macro": 6.0,
-    "trend": 4.0
+    "sector": 15.0,
+    "macro": 7.0,
+    "trend": 8.0
   },
-  "ai_sentiment_index": 32.5,
-  "summary": "全球科技股因對AI支出和通膨的擔憂而大幅下跌，那斯達克期貨走低，對台灣股市構成壓力。",
+  "ai_sentiment_index": 75.0,
+  "summary": "美國期貨市場在AI股拋售後反彈，但亞洲股市普遍下跌，韓國半導體股重挫，顯示市場情緒複雜。",
   "news_zh": [
-    "科技股因對AI支出的疑慮加劇而暴跌。",
-    "晶片製造商拋售，投資者轉向其他股票和債券尋求安全。",
-    "那斯達克期貨走低，受AI支出和聯準會利率擔憂影響。",
-    "市場拋售和利率上升考驗AI數據中心交易熱潮。",
-    "MSCI準備將印尼從全球指數中移除，引發市場跌至六年低點。"
+    "美國股指期貨在AI股拋售後上漲，預示本週財報季將至。",
+    "亞洲股市普遍下滑，華爾街和債券市場受油價下跌提振。",
+    "韓國KOSPI指數大跌3.17%，半導體類股領跌。",
+    "印尼股市跌至六年新低，受MSCI警告影響。",
+    "分析指出，台灣半導體與美光在AI晶片領域的競爭。"
   ],
   "news": [
-    "[Reuters] Market selloff, rising rates test AI data centre deal boom - Reuters - Market selloff, rising rates test AI data centre deal boom&nbsp;&nbsp;Reuters",
-    "[Reuters] Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say - Reuters - Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say&nbsp;&nbsp;Reuters",
-    "[Reuters] Wall St banks caught in capital markets lull after a strong first half of 2026 - Reuters - Wall St banks caught in capital markets lull after a strong first half of 2026&nbsp;&nbsp;Reuters",
-    "[Reuters] Nasdaq resolves network disruption that caused data gaps, source says - Reuters - Nasdaq resolves network disruption that caused data gaps, source says&nbsp;&nbsp;Reuters",
-    "[Reuters] Investors see outflow and FX risks as MSCI moves to downgrade Indonesia - Reuters - Investors see outflow and FX risks as MSCI moves to downgrade Indonesia&nbsp;&nbsp;Reuters",
-    "[Reuters] COMMENTARY: Morning Bid: CoreWeave unravels - Reuters - COMMENTARY: Morning Bid: CoreWeave unravels&nbsp;&nbsp;Reuters",
-    "[Reuters] European shares hit more than two-week high as sturdy earnings lift sentiment - Reuters - European shares hit more than two-week high as sturdy earnings lift sentiment&nbsp;&nbsp;Reuters",
-    "[Reuters] MSCI gets set to remove Indonesia from global indexes, sparks market slide to six-year low - Reuters - MSCI gets set to remove Indonesia from global indexes, sparks market slide to six-year low&nbsp;&nbsp;Reuters",
-    "[Semis] GOWell Energy Technology Rings the Nasdaq Stock Market Closing Bell - Nasdaq - GOWell Energy Technology Rings the Nasdaq Stock Market Closing Bell&nbsp;&nbsp;Nasdaq",
-    "[Semis] Tech Stocks Plunge as Doubts Over A.I. Spending Intensify - The New York Times - Tech Stocks Plunge as Doubts Over A.I. Spending Intensify&nbsp;&nbsp;The New York Times"
+    "[Reuters] Indonesian stocks slide to six-year low as MSCI warning weighs - Reuters - Indonesian stocks slide to six-year low as MSCI warning weighs&nbsp;&nbsp;Reuters",
+    "[Reuters] Markets left to figure out sanctions - Reuters - Markets left to figure out sanctions&nbsp;&nbsp;Reuters",
+    "[Reuters] Asian stocks slip, Wall St and bonds benefit from oil skid - Reuters - Asian stocks slip, Wall St and bonds benefit from oil skid&nbsp;&nbsp;Reuters",
+    "[Reuters] Australia central banker sees signs of labour market easing - Reuters - Australia central banker sees signs of labour market easing&nbsp;&nbsp;Reuters",
+    "[Reuters] Indian shares muted as investors assess key earnings against elevated oil prices - Reuters - Indian shares muted as investors assess key earnings against elevated oil prices&nbsp;&nbsp;Reuters",
+    "[Reuters] COMMENTARY: AI isn’t Asia’s only game in town - Reuters - COMMENTARY: AI isn’t Asia’s only game in town&nbsp;&nbsp;Reuters",
+    "[Reuters] COMMENTARY: The Global South is wiring up for an electric future - Reuters - COMMENTARY: The Global South is wiring up for an electric future&nbsp;&nbsp;Reuters",
+    "[Reuters] Oil, foreign flows in focus for rupee; bond traders eye rate-hike bets - Reuters - Oil, foreign flows in focus for rupee; bond traders eye rate-hike bets&nbsp;&nbsp;Reuters",
+    "[Semis] Black Monday Fears Fade as Nasdaq Futures Rally After Friday Selloff - Yahoo Finance - Black Monday Fears Fade as Nasdaq Futures Rally After Friday Selloff&nbsp;&nbsp;Yahoo Finance",
+    "[Semis] Dow Jones Futures Rebound After AI Sell-Off; Meta, SpaceX, Tesla Earnings Key - Investor's Business Daily - Dow Jones Futures Rebound After AI Sell-Off; Meta, SpaceX, Tesla Earnings Key&nbsp;&nbsp;Investor's Business Daily"
   ],
   "debug_error": ""
 }
