@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20 12:45 (Taipei)",
+  "updated": "2026-10-20 13:00 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -3937,10 +3937,10 @@
     },
     {
       "date": "2026-10-20",
-      "time": "12:45",
-      "price": 36.06,
+      "time": "13:00",
+      "price": 36.01,
       "tier1": 40,
-      "ai_index": 50.0,
+      "ai_index": 82.5,
       "target": 0.0,
       "zone": "red",
       "zone_label": "⚪ 觀望（等量化≥35＋趨勢）",
@@ -3948,9 +3948,20 @@
       "market_ok": true,
       "asset_trend_ok": false,
       "ma10_ok": false,
-      "ai_ok": false,
-      "summary": "（今日盤前判讀尚未產生，暫以中性計）",
-      "news": [],
+      "ai_ok": true,
+      "summary": "在半導體和AI相關股票強勁反彈的帶動下，那斯達克指數上漲，預示著台灣科技股的積極開盤。",
+      "news": [
+        "[Reuters] Indonesian markets inch up after authorities move to stem rout on MSCI expulsion fears - Reuters - Indonesian markets inch up after authorities move to stem rout on MSCI expulsion fears&nbsp;&nbsp;Reuters",
+        "[Reuters] EXCLUSIVE: OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say - Reuters - EXCLUSIVE: OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say&nbsp;&nbsp;Reuters",
+        "[Reuters] Nasdaq climbs as chip and AI-linked stocks bounce back - Reuters - Nasdaq climbs as chip and AI-linked stocks bounce back&nbsp;&nbsp;Reuters",
+        "[Reuters] AI stocks bounce back after bruising selloff, CoreWeave gets Goldman upgrade - Reuters - AI stocks bounce back after bruising selloff, CoreWeave gets Goldman upgrade&nbsp;&nbsp;Reuters",
+        "[Reuters] GCash owner Mynt edges higher in record Philippine IPO amid Asian selloff - Reuters - GCash owner Mynt edges higher in record Philippine IPO amid Asian selloff&nbsp;&nbsp;Reuters",
+        "[Reuters] Breakingviews - COMMENTARY: Merger Monday channels old economy vibes - Reuters - Breakingviews - COMMENTARY: Merger Monday channels old economy vibes&nbsp;&nbsp;Reuters",
+        "[Reuters] European shares slip as France unrest dents sentiment - Reuters - European shares slip as France unrest dents sentiment&nbsp;&nbsp;Reuters",
+        "[Reuters] Trading Day: AI storm abates - Reuters - Trading Day: AI storm abates&nbsp;&nbsp;Reuters",
+        "[Semis] Nasdaq climbs as chip and AI-linked stocks bounce back - Reuters - Nasdaq climbs as chip and AI-linked stocks bounce back&nbsp;&nbsp;Reuters",
+        "[Semis] Great News for Taiwan Semiconductor Stock Investors - The Motley Fool - Great News for Taiwan Semiconductor Stock Investors&nbsp;&nbsp;The Motley Fool"
+      ],
       "paper": {
         "cash": 1012012,
         "shares": 0.0,
@@ -3980,7 +3991,7 @@
         "last_action": "SELL",
         "last_action_reason": "DATA_INVALID_NO_TRADE",
         "tier1": 40,
-        "ai_index": 50.0,
+        "ai_index": 82.5,
         "target": 0.0,
         "zone": "red",
         "zone_label": "⚪ 觀望（等量化≥35＋趨勢）",
