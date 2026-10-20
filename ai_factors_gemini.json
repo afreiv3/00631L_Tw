@@ -1,32 +1,33 @@
 {
-  "date": "2026-10-19",
-  "generated_at": "2026-10-19 12:47",
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20 12:56",
   "model": "gemini-2.5-flash",
   "factors": {
-    "sector": 15.0,
+    "sector": 18.0,
     "macro": 7.0,
     "trend": 8.0
   },
-  "ai_sentiment_index": 75.0,
-  "summary": "美國期貨市場在AI股拋售後反彈，但亞洲股市普遍下跌，韓國半導體股重挫，顯示市場情緒複雜。",
+  "ai_sentiment_index": 82.5,
+  "summary": "在半導體和AI相關股票強勁反彈的帶動下，那斯達克指數上漲，預示著台灣科技股的積極開盤。",
   "news_zh": [
-    "美國股指期貨在AI股拋售後上漲，預示本週財報季將至。",
-    "亞洲股市普遍下滑，華爾街和債券市場受油價下跌提振。",
-    "韓國KOSPI指數大跌3.17%，半導體類股領跌。",
-    "印尼股市跌至六年新低，受MSCI警告影響。",
-    "分析指出，台灣半導體與美光在AI晶片領域的競爭。"
+    "那斯達克指數因晶片和AI相關股票反彈而上漲。",
+    "AI股票在經歷拋售後反彈，CoreWeave獲得高盛升級。",
+    "OpenAI據稱尋求加速募資，領先Anthropic的IPO。",
+    "台灣半導體股票投資者迎來好消息。",
+    "那斯達克因半導體反彈而上漲1.11%，儘管對AI債務的擔憂持續存在。",
+    "歐洲股市因法國動亂導致情緒受損而下滑。"
   ],
   "news": [
-    "[Reuters] Indonesian stocks slide to six-year low as MSCI warning weighs - Reuters - Indonesian stocks slide to six-year low as MSCI warning weighs&nbsp;&nbsp;Reuters",
-    "[Reuters] Markets left to figure out sanctions - Reuters - Markets left to figure out sanctions&nbsp;&nbsp;Reuters",
-    "[Reuters] Asian stocks slip, Wall St and bonds benefit from oil skid - Reuters - Asian stocks slip, Wall St and bonds benefit from oil skid&nbsp;&nbsp;Reuters",
-    "[Reuters] Australia central banker sees signs of labour market easing - Reuters - Australia central banker sees signs of labour market easing&nbsp;&nbsp;Reuters",
-    "[Reuters] Indian shares muted as investors assess key earnings against elevated oil prices - Reuters - Indian shares muted as investors assess key earnings against elevated oil prices&nbsp;&nbsp;Reuters",
-    "[Reuters] COMMENTARY: AI isn’t Asia’s only game in town - Reuters - COMMENTARY: AI isn’t Asia’s only game in town&nbsp;&nbsp;Reuters",
-    "[Reuters] COMMENTARY: The Global South is wiring up for an electric future - Reuters - COMMENTARY: The Global South is wiring up for an electric future&nbsp;&nbsp;Reuters",
-    "[Reuters] Oil, foreign flows in focus for rupee; bond traders eye rate-hike bets - Reuters - Oil, foreign flows in focus for rupee; bond traders eye rate-hike bets&nbsp;&nbsp;Reuters",
-    "[Semis] Black Monday Fears Fade as Nasdaq Futures Rally After Friday Selloff - Yahoo Finance - Black Monday Fears Fade as Nasdaq Futures Rally After Friday Selloff&nbsp;&nbsp;Yahoo Finance",
-    "[Semis] Dow Jones Futures Rebound After AI Sell-Off; Meta, SpaceX, Tesla Earnings Key - Investor's Business Daily - Dow Jones Futures Rebound After AI Sell-Off; Meta, SpaceX, Tesla Earnings Key&nbsp;&nbsp;Investor's Business Daily"
+    "[Reuters] Indonesian markets inch up after authorities move to stem rout on MSCI expulsion fears - Reuters - Indonesian markets inch up after authorities move to stem rout on MSCI expulsion fears&nbsp;&nbsp;Reuters",
+    "[Reuters] EXCLUSIVE: OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say - Reuters - EXCLUSIVE: OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say&nbsp;&nbsp;Reuters",
+    "[Reuters] Nasdaq climbs as chip and AI-linked stocks bounce back - Reuters - Nasdaq climbs as chip and AI-linked stocks bounce back&nbsp;&nbsp;Reuters",
+    "[Reuters] AI stocks bounce back after bruising selloff, CoreWeave gets Goldman upgrade - Reuters - AI stocks bounce back after bruising selloff, CoreWeave gets Goldman upgrade&nbsp;&nbsp;Reuters",
+    "[Reuters] GCash owner Mynt edges higher in record Philippine IPO amid Asian selloff - Reuters - GCash owner Mynt edges higher in record Philippine IPO amid Asian selloff&nbsp;&nbsp;Reuters",
+    "[Reuters] Breakingviews - COMMENTARY: Merger Monday channels old economy vibes - Reuters - Breakingviews - COMMENTARY: Merger Monday channels old economy vibes&nbsp;&nbsp;Reuters",
+    "[Reuters] European shares slip as France unrest dents sentiment - Reuters - European shares slip as France unrest dents sentiment&nbsp;&nbsp;Reuters",
+    "[Reuters] Trading Day: AI storm abates - Reuters - Trading Day: AI storm abates&nbsp;&nbsp;Reuters",
+    "[Semis] Nasdaq climbs as chip and AI-linked stocks bounce back - Reuters - Nasdaq climbs as chip and AI-linked stocks bounce back&nbsp;&nbsp;Reuters",
+    "[Semis] Great News for Taiwan Semiconductor Stock Investors - The Motley Fool - Great News for Taiwan Semiconductor Stock Investors&nbsp;&nbsp;The Motley Fool"
   ],
   "debug_error": ""
 }
