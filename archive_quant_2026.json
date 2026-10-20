@@ -1,6 +1,6 @@
 {
   "year": "2026",
-  "count": 63,
+  "count": 64,
   "history": [
     {
       "date": "2026-07-20",
@@ -4208,6 +4208,69 @@
           "pts": 2,
           "max": 10,
           "note": "加權估收46,443（-1.42%），月線失守、季線（~46,000）遭激烈測試但盤中有守；盤中低46,170顯示支撐存在，但結構已受損，2分"
+        }
+      },
+      "paper": {
+        "cash": 962935,
+        "equity": 962935,
+        "market_value": 0,
+        "return_pct": -3.71,
+        "holding": false,
+        "position": null,
+        "shares": 0,
+        "avg_cost": null,
+        "unrealized": 0,
+        "unrealized_pct": 0,
+        "trades": 14,
+        "wins": 5,
+        "win_rate": 35.7,
+        "realized_pnl": -37065
+      }
+    },
+    {
+      "date": "2026-10-20",
+      "time": "09:00",
+      "price": null,
+      "score": 50,
+      "zone": "amber",
+      "quant_sum": 30,
+      "ai_sum": 20,
+      "ai_ok": true,
+      "factors": {
+        "pattern": {
+          "pts": 10.0,
+          "max": 20,
+          "note": "盤中資料缺，型態以中性計"
+        },
+        "sector": {
+          "pts": 10,
+          "max": 20,
+          "note": "SOX隔夜技術反彈+1.6~1.9%、Nasdaq+1.11%，但仍處多週下跌格局（前8日-15.7%），台積電ADR法說後毛利率壓縮承壓，板塊分歧，計10分。"
+        },
+        "entry": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "區間資料缺，以中性計"
+        },
+        "volume": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "量能資料缺，以中性計"
+        },
+        "vwap": {
+          "pts": 5.0,
+          "max": 10,
+          "note": "VWAP 資料缺，以中性計"
+        },
+        "macro": {
+          "pts": 5,
+          "max": 10,
+          "note": "10年期殖利率高達5.1%以上，Fed 12月再升機率接近90%，俄制裁鬆綁使油價短線回落但荷姆茲緊張仍在，略波動計5分。"
+        },
+        "trend": {
+          "pts": 5,
+          "max": 10,
+          "note": "加權指數10月19日收46,822跌-0.61%，外資連賣8日，季線數值查無（以中性5分計），結構偏弱邊緣。"
         }
       },
       "paper": {
