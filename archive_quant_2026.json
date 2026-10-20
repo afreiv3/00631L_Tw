@@ -4229,11 +4229,11 @@
     },
     {
       "date": "2026-10-20",
-      "time": "12:00",
-      "price": 36.4,
-      "score": 65,
-      "zone": "amber",
-      "quant_sum": 45,
+      "time": "12:15",
+      "price": 36.26,
+      "score": 72,
+      "zone": "green",
+      "quant_sum": 52,
       "ai_sum": 20,
       "ai_ok": true,
       "factors": {
@@ -4248,19 +4248,19 @@
           "note": "SOX隔夜技術反彈+1.6~1.9%、Nasdaq+1.11%，但仍處多週下跌格局（前8日-15.7%），台積電ADR法說後毛利率壓縮承壓，板塊分歧，計10分。"
         },
         "entry": {
-          "pts": 0,
+          "pts": 7.5,
           "max": 15,
-          "note": "現價在區間上緣(69%) → 屬追高"
+          "note": "現價在區間中段(51%)"
         },
         "volume": {
           "pts": 15,
           "max": 15,
-          "note": "推估量約均量1.0倍 → 正常"
+          "note": "推估量約均量0.9倍 → 正常"
         },
         "vwap": {
           "pts": 10,
           "max": 10,
-          "note": "現價在VWAP之上(+0.46%) → 有利"
+          "note": "現價在VWAP之上(+0.07%) → 有利"
         },
         "macro": {
           "pts": 5,
@@ -4274,16 +4274,24 @@
         }
       },
       "paper": {
-        "cash": 962935,
-        "equity": 962935,
-        "market_value": 0,
-        "return_pct": -3.71,
-        "holding": false,
-        "position": null,
-        "shares": 0,
-        "avg_cost": null,
-        "unrealized": 0,
-        "unrealized_pct": 0,
+        "cash": 673677,
+        "equity": 962524,
+        "market_value": 288847,
+        "return_pct": -3.75,
+        "holding": true,
+        "position": {
+          "shares": 7966,
+          "entry_price": 36.26,
+          "entry_date": "2026-10-20",
+          "entry_time": "12:15",
+          "cost": 289258.77,
+          "entry_score": 72,
+          "frac": 0.3
+        },
+        "shares": 7966,
+        "avg_cost": 36.26,
+        "unrealized": -412,
+        "unrealized_pct": -0.14,
         "trades": 14,
         "wins": 5,
         "win_rate": 35.7,
