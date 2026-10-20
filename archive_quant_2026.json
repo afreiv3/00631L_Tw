@@ -4229,18 +4229,18 @@
     },
     {
       "date": "2026-10-20",
-      "time": "12:30",
-      "price": 36.16,
-      "score": 68,
+      "time": "12:45",
+      "price": 36.06,
+      "score": 60,
       "zone": "amber",
-      "quant_sum": 48,
+      "quant_sum": 40,
       "ai_sum": 20,
       "ai_ok": true,
       "factors": {
         "pattern": {
-          "pts": 20,
+          "pts": 10.0,
           "max": 20,
-          "note": "現價守在開盤之上(開-1.2%) → 有利"
+          "note": "開-1.2%、小幅回落，型態中性"
         },
         "sector": {
           "pts": 10,
@@ -4248,9 +4248,9 @@
           "note": "SOX隔夜技術反彈+1.6~1.9%、Nasdaq+1.11%，但仍處多週下跌格局（前8日-15.7%），台積電ADR法說後毛利率壓縮承壓，板塊分歧，計10分。"
         },
         "entry": {
-          "pts": 7.5,
+          "pts": 15,
           "max": 15,
-          "note": "現價在區間中段(37%)"
+          "note": "現價近今日低點(區間24%) → 接近支撐"
         },
         "volume": {
           "pts": 15,
@@ -4258,9 +4258,9 @@
           "note": "推估量約均量0.9倍 → 正常"
         },
         "vwap": {
-          "pts": 5.0,
+          "pts": 0,
           "max": 10,
-          "note": "現價貼近VWAP(-0.19%)"
+          "note": "現價在VWAP之下(-0.46%) → 弱勢"
         },
         "macro": {
           "pts": 5,
@@ -4275,9 +4275,9 @@
       },
       "paper": {
         "cash": 673677,
-        "equity": 961727,
-        "market_value": 288051,
-        "return_pct": -3.83,
+        "equity": 960930,
+        "market_value": 287254,
+        "return_pct": -3.91,
         "holding": true,
         "position": {
           "shares": 7966,
@@ -4290,8 +4290,8 @@
         },
         "shares": 7966,
         "avg_cost": 36.26,
-        "unrealized": -1208,
-        "unrealized_pct": -0.42,
+        "unrealized": -2005,
+        "unrealized_pct": -0.69,
         "trades": 14,
         "wins": 5,
         "win_rate": 35.7,
