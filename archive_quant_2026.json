@@ -1,6 +1,6 @@
 {
   "year": "2026",
-  "count": 64,
+  "count": 65,
   "history": [
     {
       "date": "2026-07-20",
@@ -4292,6 +4292,77 @@
         "avg_cost": 36.26,
         "unrealized": -3518,
         "unrealized_pct": -1.22,
+        "trades": 14,
+        "wins": 5,
+        "win_rate": 35.7,
+        "realized_pnl": -37065
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "time": "09:00",
+      "price": null,
+      "score": 48,
+      "zone": "amber",
+      "quant_sum": 30,
+      "ai_sum": 18,
+      "ai_ok": true,
+      "factors": {
+        "pattern": {
+          "pts": 10.0,
+          "max": 20,
+          "note": "盤中資料缺，型態以中性計"
+        },
+        "sector": {
+          "pts": 10,
+          "max": 20,
+          "note": "SOX費半10/19+1.61%終結9連跌、10/20日中維持+0.47%；但Nasdaq -0.02%近乎持平、台股昨仍跌1.13%至月低，美台板塊分歧明顯，給10分。"
+        },
+        "entry": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "區間資料缺，以中性計"
+        },
+        "volume": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "量能資料缺，以中性計"
+        },
+        "vwap": {
+          "pts": 5.0,
+          "max": 10,
+          "note": "VWAP 資料缺，以中性計"
+        },
+        "macro": {
+          "pts": 4,
+          "max": 10,
+          "note": "10Y殖利率5.12%維持高位，Fed 10/28按兵不動但12月升息風險仍存，WTI因美伊協議消息從$100+降至$97.8，宏觀偏緊但無惡化，給4分。"
+        },
+        "trend": {
+          "pts": 4,
+          "max": 10,
+          "note": "TAIEX 10/20收46,293創月低（-529點），外資單日賣超793億，已跌至季線（約46,000-46,400）支撐區邊緣，結構偏弱，給4分。"
+        }
+      },
+      "paper": {
+        "cash": 673677,
+        "equity": 673677,
+        "market_value": 0,
+        "return_pct": -32.63,
+        "holding": true,
+        "position": {
+          "shares": 7966,
+          "entry_price": 36.26,
+          "entry_date": "2026-10-20",
+          "entry_time": "12:15",
+          "cost": 289258.77,
+          "entry_score": 72,
+          "frac": 0.3
+        },
+        "shares": 7966,
+        "avg_cost": 36.26,
+        "unrealized": -289259,
+        "unrealized_pct": -100.0,
         "trades": 14,
         "wins": 5,
         "win_rate": 35.7,
