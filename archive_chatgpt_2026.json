@@ -4001,13 +4001,13 @@
     },
     {
       "date": "2026-10-21",
-      "time": "13:30",
-      "price": 36.54,
+      "time": "13:56",
+      "price": 36.61,
       "tier1": 32,
       "ai_index": 80.0,
       "target": 0.0,
       "zone": "red",
-      "zone_label": "⚪ 觀望（等量化≥35＋趨勢）",
+      "zone_label": "⚪ 觀望（非盤中）",
       "gate_open": false,
       "market_ok": true,
       "asset_trend_ok": false,
@@ -4058,7 +4058,7 @@
         "ai_index": 80.0,
         "target": 0.0,
         "zone": "red",
-        "zone_label": "⚪ 觀望（等量化≥35＋趨勢）",
+        "zone_label": "⚪ 觀望（非盤中）",
         "gate_open": false
       }
     }
