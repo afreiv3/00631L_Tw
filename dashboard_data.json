@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21 11:45 (Taipei)",
+  "updated": "2026-10-21 12:00 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -4299,11 +4299,11 @@
     },
     {
       "date": "2026-10-21",
-      "time": "11:45",
-      "price": 36.87,
-      "score": 56,
+      "time": "12:00",
+      "price": 36.78,
+      "score": 50,
       "zone": "amber",
-      "quant_sum": 38,
+      "quant_sum": 32,
       "ai_sum": 18,
       "ai_ok": true,
       "factors": {
@@ -4318,19 +4318,19 @@
           "note": "SOX費半10/19+1.61%終結9連跌、10/20日中維持+0.47%；但Nasdaq -0.02%近乎持平、台股昨仍跌1.13%至月低，美台板塊分歧明顯，給10分。"
         },
         "entry": {
-          "pts": 7.5,
-          "max": 15,
-          "note": "現價在區間中段(33%)"
-        },
-        "volume": {
           "pts": 15,
           "max": 15,
-          "note": "推估量約均量0.7倍 → 正常"
+          "note": "現價近今日低點(區間15%) → 接近支撐"
+        },
+        "volume": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "推估量約均量0.7倍 → 偏離"
         },
         "vwap": {
-          "pts": 5.0,
+          "pts": 0,
           "max": 10,
-          "note": "現價貼近VWAP(-0.19%)"
+          "note": "現價在VWAP之下(-0.42%) → 弱勢"
         },
         "macro": {
           "pts": 4,
@@ -4345,9 +4345,9 @@
       },
       "paper": {
         "cash": 673677,
-        "equity": 967383,
-        "market_value": 293706,
-        "return_pct": -3.26,
+        "equity": 966666,
+        "market_value": 292989,
+        "return_pct": -3.33,
         "holding": true,
         "position": {
           "shares": 7966,
@@ -4360,8 +4360,8 @@
         },
         "shares": 7966,
         "avg_cost": 36.26,
-        "unrealized": 4448,
-        "unrealized_pct": 1.54,
+        "unrealized": 3731,
+        "unrealized_pct": 1.29,
         "trades": 14,
         "wins": 5,
         "win_rate": 35.7,
