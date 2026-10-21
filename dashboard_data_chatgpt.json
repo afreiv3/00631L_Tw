@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21 12:45 (Taipei)",
+  "updated": "2026-10-21 13:00 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -4000,10 +4000,10 @@
     },
     {
       "date": "2026-10-21",
-      "time": "12:45",
-      "price": 36.55,
+      "time": "13:00",
+      "price": 36.56,
       "tier1": 32,
-      "ai_index": 50.0,
+      "ai_index": 80.0,
       "target": 0.0,
       "zone": "red",
       "zone_label": "⚪ 觀望（等量化≥35＋趨勢）",
@@ -4011,9 +4011,20 @@
       "market_ok": true,
       "asset_trend_ok": false,
       "ma10_ok": false,
-      "ai_ok": false,
-      "summary": "（今日盤前判讀尚未產生，暫以中性計）",
-      "news": [],
+      "ai_ok": true,
+      "summary": "全球股市因強勁財報和AI題材而上漲，半導體類股表現強勁，但歐洲市場因法國抗議活動而下跌。",
+      "news": [
+        "[Reuters] Dow outperforms as Wall Street rises, healthcare stocks lead gains - Reuters - Dow outperforms as Wall Street rises, healthcare stocks lead gains&nbsp;&nbsp;Reuters",
+        "[Reuters] COMMENTARY: Fed sneezes, but emerging markets aren't catching a cold yet: McGeever - Reuters - COMMENTARY: Fed sneezes, but emerging markets aren't catching a cold yet: McGeever&nbsp;&nbsp;Reuters",
+        "[Reuters] COMMENTARY: Trading Day: Oil reversal lifts spirits - Reuters - COMMENTARY: Trading Day: Oil reversal lifts spirits&nbsp;&nbsp;Reuters",
+        "[Reuters] Australian AI data centre operator NextDC shares shed 44% on revenue delay - Reuters - Australian AI data centre operator NextDC shares shed 44% on revenue delay&nbsp;&nbsp;Reuters",
+        "[Reuters] EXCLUSIVE: Blackstone, Warburg explore IntraFi sale at over $10 billion, sources say - Reuters - EXCLUSIVE: Blackstone, Warburg explore IntraFi sale at over $10 billion, sources say&nbsp;&nbsp;Reuters",
+        "[Reuters] Asian stocks climb as strong earnings buoy Wall Street - Reuters - Asian stocks climb as strong earnings buoy Wall Street&nbsp;&nbsp;Reuters",
+        "[Reuters] European stocks extend slide as French protests dent risk appetite - Reuters - European stocks extend slide as French protests dent risk appetite&nbsp;&nbsp;Reuters",
+        "[Reuters] UK stocks slip as banks and commodity-linked stocks weigh - Reuters - UK stocks slip as banks and commodity-linked stocks weigh&nbsp;&nbsp;Reuters",
+        "[Semis] Dow outperforms as Wall Street rises, healthcare stocks lead gains - Reuters - Dow outperforms as Wall Street rises, healthcare stocks lead gains&nbsp;&nbsp;Reuters",
+        "[Semis] Asian Shares, US Futures Rise on AI-Trade Revival: Markets Wrap - Bloomberg.com - Asian Shares, US Futures Rise on AI-Trade Revival: Markets Wrap&nbsp;&nbsp;Bloomberg.com"
+      ],
       "paper": {
         "cash": 1012012,
         "shares": 0.0,
@@ -4043,7 +4054,7 @@
         "last_action": "SELL",
         "last_action_reason": "DATA_INVALID_NO_TRADE",
         "tier1": 32,
-        "ai_index": 50.0,
+        "ai_index": 80.0,
         "target": 0.0,
         "zone": "red",
         "zone_label": "⚪ 觀望（等量化≥35＋趨勢）",
