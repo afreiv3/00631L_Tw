@@ -4371,11 +4371,11 @@
     },
     {
       "date": "2026-10-22",
-      "time": "09:45",
-      "price": 36.74,
-      "score": 66,
+      "time": "10:00",
+      "price": 36.55,
+      "score": 69,
       "zone": "amber",
-      "quant_sum": 38,
+      "quant_sum": 40,
       "ai_sum": 29,
       "ai_ok": true,
       "factors": {
@@ -4390,19 +4390,19 @@
           "note": "SOX 10/21+2.0-2.2%（收約11,534點）終止連8黑，Nasdaq+1.05%；TSM ADR+1.6%三連漲（431.89美元），TSMC Q3 EPS$4.60超預期；半導體板塊整體強勢修復，給17分"
         },
         "entry": {
-          "pts": 7.5,
+          "pts": 15,
           "max": 15,
-          "note": "現價在區間中段(33%)"
+          "note": "現價近今日低點(區間8%) → 接近支撐"
         },
         "volume": {
           "pts": 15,
           "max": 15,
-          "note": "推估量約均量1.0倍 → 正常"
+          "note": "推估量約均量0.9倍 → 正常"
         },
         "vwap": {
-          "pts": 5.0,
+          "pts": 0,
           "max": 10,
-          "note": "現價貼近VWAP(-0.22%)"
+          "note": "現價在VWAP之下(-0.59%) → 弱勢"
         },
         "macro": {
           "pts": 4,
@@ -4417,9 +4417,9 @@
       },
       "paper": {
         "cash": 673677,
-        "equity": 966347,
-        "market_value": 292671,
-        "return_pct": -3.37,
+        "equity": 964834,
+        "market_value": 291157,
+        "return_pct": -3.52,
         "holding": true,
         "position": {
           "shares": 7966,
@@ -4432,8 +4432,8 @@
         },
         "shares": 7966,
         "avg_cost": 36.26,
-        "unrealized": 3412,
-        "unrealized_pct": 1.18,
+        "unrealized": 1899,
+        "unrealized_pct": 0.66,
         "trades": 14,
         "wins": 5,
         "win_rate": 35.7,
