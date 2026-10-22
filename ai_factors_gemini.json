@@ -1,33 +1,33 @@
 {
-  "date": "2026-10-21",
-  "generated_at": "2026-10-21 12:55",
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22 12:55",
   "model": "gemini-2.5-flash",
   "factors": {
     "sector": 17.0,
     "macro": 8.0,
-    "trend": 7.0
+    "trend": 8.0
   },
-  "ai_sentiment_index": 80.0,
-  "summary": "全球股市因強勁財報和AI題材而上漲，半導體類股表現強勁，但歐洲市場因法國抗議活動而下跌。",
+  "ai_sentiment_index": 82.5,
+  "summary": "在SpaceX和Super Micro的AI利好消息帶動下，那斯達克指數領漲華爾街，儘管亞洲市場因科技財報和中東緊張局勢而下跌。",
   "news_zh": [
-    "華爾街股市上漲，醫療保健股領漲，道瓊指數表現優於大盤。",
-    "亞洲股市上漲，受華爾街強勁財報提振。",
-    "亞洲股市和美國期貨因AI交易復甦而上漲。",
-    "韓國綜合股價指數飆升3%，外資買入半導體股票。",
-    "油價反彈提振市場情緒。",
-    "歐洲股市因法國抗議活動導致風險偏好下降而持續下跌。"
+    "亞洲市場因科技股財報和波斯灣局勢緊張而下跌。",
+    "那斯達克指數在SpaceX和Super Micro提振AI情緒下領漲華爾街。",
+    "Meta將Muse代理作為其AI策略核心，並計劃發行新股以支持投資。",
+    "股市上漲，SpaceX的業績重新點燃了AI交易熱潮。",
+    "評論：本財報季值得關注的五個AI怪癖和難題。",
+    "交易日：科技股表現強勁。"
   ],
   "news": [
-    "[Reuters] Dow outperforms as Wall Street rises, healthcare stocks lead gains - Reuters - Dow outperforms as Wall Street rises, healthcare stocks lead gains&nbsp;&nbsp;Reuters",
-    "[Reuters] COMMENTARY: Fed sneezes, but emerging markets aren't catching a cold yet: McGeever - Reuters - COMMENTARY: Fed sneezes, but emerging markets aren't catching a cold yet: McGeever&nbsp;&nbsp;Reuters",
-    "[Reuters] COMMENTARY: Trading Day: Oil reversal lifts spirits - Reuters - COMMENTARY: Trading Day: Oil reversal lifts spirits&nbsp;&nbsp;Reuters",
-    "[Reuters] Australian AI data centre operator NextDC shares shed 44% on revenue delay - Reuters - Australian AI data centre operator NextDC shares shed 44% on revenue delay&nbsp;&nbsp;Reuters",
-    "[Reuters] EXCLUSIVE: Blackstone, Warburg explore IntraFi sale at over $10 billion, sources say - Reuters - EXCLUSIVE: Blackstone, Warburg explore IntraFi sale at over $10 billion, sources say&nbsp;&nbsp;Reuters",
-    "[Reuters] Asian stocks climb as strong earnings buoy Wall Street - Reuters - Asian stocks climb as strong earnings buoy Wall Street&nbsp;&nbsp;Reuters",
-    "[Reuters] European stocks extend slide as French protests dent risk appetite - Reuters - European stocks extend slide as French protests dent risk appetite&nbsp;&nbsp;Reuters",
-    "[Reuters] UK stocks slip as banks and commodity-linked stocks weigh - Reuters - UK stocks slip as banks and commodity-linked stocks weigh&nbsp;&nbsp;Reuters",
-    "[Semis] Dow outperforms as Wall Street rises, healthcare stocks lead gains - Reuters - Dow outperforms as Wall Street rises, healthcare stocks lead gains&nbsp;&nbsp;Reuters",
-    "[Semis] Asian Shares, US Futures Rise on AI-Trade Revival: Markets Wrap - Bloomberg.com - Asian Shares, US Futures Rise on AI-Trade Revival: Markets Wrap&nbsp;&nbsp;Bloomberg.com"
+    "[Reuters] Asian markets dip as investors weigh tech earnings, Gulf tensions - Reuters - Asian markets dip as investors weigh tech earnings, Gulf tensions&nbsp;&nbsp;Reuters",
+    "[Reuters] Indonesia issues record fines to companies over stock market violations - Reuters - Indonesia issues record fines to companies over stock market violations&nbsp;&nbsp;Reuters",
+    "[Reuters] COMMENTARY: Five AI quirks and conundrums to watch this earnings season - Reuters - COMMENTARY: Five AI quirks and conundrums to watch this earnings season&nbsp;&nbsp;Reuters",
+    "[Reuters] Trading Day: Tech it away - Reuters - Trading Day: Tech it away&nbsp;&nbsp;Reuters",
+    "[Reuters] Nasdaq leads Wall Street gains as SpaceX, Super Micro boost AI sentiment - Reuters - Nasdaq leads Wall Street gains as SpaceX, Super Micro boost AI sentiment&nbsp;&nbsp;Reuters",
+    "[Reuters] Meta puts Muse agent at heart of AI strategy, plans new stock to power investments - Reuters - Meta puts Muse agent at heart of AI strategy, plans new stock to power investments&nbsp;&nbsp;Reuters",
+    "[Reuters] Brookings paper offers broad plan to shrink Fed balance sheet - Reuters - Brookings paper offers broad plan to shrink Fed balance sheet&nbsp;&nbsp;Reuters",
+    "[Reuters] COMMENTARY: Morning Bid: Musk mulls megacap - Reuters - COMMENTARY: Morning Bid: Musk mulls megacap&nbsp;&nbsp;Reuters",
+    "[Semis] 4D Molecular Therapeutics Rings the Nasdaq Stock Market Closing Bell - Nasdaq - 4D Molecular Therapeutics Rings the Nasdaq Stock Market Closing Bell&nbsp;&nbsp;Nasdaq",
+    "[Semis] Robot Consulting Co., Ltd. Notified of Anticipated Delisting from The Nasdaq Stock Market - Yahoo Finance - Robot Consulting Co., Ltd. Notified of Anticipated Delisting from The Nasdaq Stock Market&nbsp;&nbsp;Yahoo Finance"
   ],
   "debug_error": ""
 }
