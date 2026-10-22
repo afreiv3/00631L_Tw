@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21 13:56 (Taipei)",
+  "updated": "2026-10-22 09:00 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -4362,6 +4362,77 @@
         "avg_cost": 36.26,
         "unrealized": 2376,
         "unrealized_pct": 0.82,
+        "trades": 14,
+        "wins": 5,
+        "win_rate": 35.7,
+        "realized_pnl": -37065
+      }
+    },
+    {
+      "date": "2026-10-22",
+      "time": "09:00",
+      "price": null,
+      "score": 59,
+      "zone": "amber",
+      "quant_sum": 30,
+      "ai_sum": 29,
+      "ai_ok": true,
+      "factors": {
+        "pattern": {
+          "pts": 10.0,
+          "max": 20,
+          "note": "盤中資料缺，型態以中性計"
+        },
+        "sector": {
+          "pts": 17,
+          "max": 20,
+          "note": "SOX 10/21+2.0-2.2%（收約11,534點）終止連8黑，Nasdaq+1.05%；TSM ADR+1.6%三連漲（431.89美元），TSMC Q3 EPS$4.60超預期；半導體板塊整體強勢修復，給17分"
+        },
+        "entry": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "區間資料缺，以中性計"
+        },
+        "volume": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "量能資料缺，以中性計"
+        },
+        "vwap": {
+          "pts": 5.0,
+          "max": 10,
+          "note": "VWAP 資料缺，以中性計"
+        },
+        "macro": {
+          "pts": 4,
+          "max": 10,
+          "note": "10Y殖利率~5.1%高位、WTI~$90+（霍爾木茲海峽地緣風險持續），宏觀壓力仍在；Fed 10/27-28預計按兵不動（83%暫停，17%升息機率），無急性惡化但屬略波動，給4分"
+        },
+        "trend": {
+          "pts": 8,
+          "max": 10,
+          "note": "TAIEX 10/21收46,887（+594），穩站季線（~46,113）上方774點；台指期夜盤47,482（+469，+1%），外資終止連10賣，結構顯著改善，給8分"
+        }
+      },
+      "paper": {
+        "cash": 673677,
+        "equity": 673677,
+        "market_value": 0,
+        "return_pct": -32.63,
+        "holding": true,
+        "position": {
+          "shares": 7966,
+          "entry_price": 36.26,
+          "entry_date": "2026-10-20",
+          "entry_time": "12:15",
+          "cost": 289258.77,
+          "entry_score": 72,
+          "frac": 0.3
+        },
+        "shares": 7966,
+        "avg_cost": 36.26,
+        "unrealized": -289259,
+        "unrealized_pct": -100.0,
         "trades": 14,
         "wins": 5,
         "win_rate": 35.7,
