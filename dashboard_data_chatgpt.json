@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23 12:45 (Taipei)",
+  "updated": "2026-10-23 13:00 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -4126,10 +4126,10 @@
     },
     {
       "date": "2026-10-23",
-      "time": "12:45",
+      "time": "13:00",
       "price": null,
       "tier1": 30,
-      "ai_index": 50.0,
+      "ai_index": 27.5,
       "target": 0.0,
       "zone": "red",
       "zone_label": "⚪ 資料缺，不動作",
@@ -4137,9 +4137,20 @@
       "market_ok": false,
       "asset_trend_ok": null,
       "ma10_ok": null,
-      "ai_ok": false,
-      "summary": "（今日盤前判讀尚未產生，暫以中性計）",
-      "news": [],
+      "ai_ok": true,
+      "summary": "美國科技股因對AI投資報酬率的疑慮而大幅下跌，加上油價上漲和歐洲政治不確定性，全球市場面臨多重壓力。",
+      "news": [
+        "[Reuters] S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff - Reuters - S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff&nbsp;&nbsp;Reuters",
+        "[Reuters] Ready for a French test?: Five questions for the ECB - Reuters - Ready for a French test?: Five questions for the ECB&nbsp;&nbsp;Reuters",
+        "[Reuters] LSEG's two decades of major deals, partnerships and strategic pivots - Reuters - LSEG's two decades of major deals, partnerships and strategic pivots&nbsp;&nbsp;Reuters",
+        "[Reuters] Breakingviews - COMMENTARY: US corporate profit boom faces its ‘Minsky moment’ - Reuters - Breakingviews - COMMENTARY: US corporate profit boom faces its ‘Minsky moment’&nbsp;&nbsp;Reuters",
+        "[Reuters] COMMENTARY: Morning Bid: Rattled by oil, tech and France - Reuters - COMMENTARY: Morning Bid: Rattled by oil, tech and France&nbsp;&nbsp;Reuters",
+        "[Reuters] Europe's STOXX 600 posts biggest drop in three weeks as banks tumble and oil climbs - Reuters - Europe's STOXX 600 posts biggest drop in three weeks as banks tumble and oil climbs&nbsp;&nbsp;Reuters",
+        "[Reuters] Investors see risk from US midterms to AI trade as data center backlash builds - Reuters - Investors see risk from US midterms to AI trade as data center backlash builds&nbsp;&nbsp;Reuters",
+        "[Reuters] COMMENTARY: Will US Treasury scrap 20-year bond sales?: McGeever - Reuters - COMMENTARY: Will US Treasury scrap 20-year bond sales?: McGeever&nbsp;&nbsp;Reuters",
+        "[Semis] Surging oil prices and fresh tech jitters are hammering stocks - Business Insider - Surging oil prices and fresh tech jitters are hammering stocks&nbsp;&nbsp;Business Insider",
+        "[Semis] U.S. Stocks Fall as Tech Selloff Deepens - WSJ - U.S. Stocks Fall as Tech Selloff Deepens&nbsp;&nbsp;WSJ"
+      ],
       "paper": {
         "cash": 1012012,
         "shares": 0.0,
@@ -4169,7 +4180,7 @@
         "last_action": "SELL",
         "last_action_reason": "DATA_INVALID_NO_TRADE",
         "tier1": 30,
-        "ai_index": 50.0,
+        "ai_index": 27.5,
         "target": 0.0,
         "zone": "red",
         "zone_label": "⚪ 資料缺，不動作",
