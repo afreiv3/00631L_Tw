@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26 12:45 (Taipei)",
+  "updated": "2026-10-26 13:00 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -3117,19 +3117,30 @@
     },
     {
       "date": "2026-10-26",
-      "time": "12:45",
+      "time": "13:00",
       "price": null,
       "tier1": 30,
-      "ai_index": 50.0,
+      "ai_index": 67.5,
       "target": null,
       "zone": null,
       "zone_label": null,
       "gate_open": null,
       "market_ok": false,
       "asset_trend_ok": null,
-      "ai_ok": false,
-      "summary": "（今日 Gemini 盤前判讀尚未產生，暫以中性計）",
-      "news": [],
+      "ai_ok": true,
+      "summary": "美國股指期貨在科技股近期下跌後小幅走高，市場正等待聯準會的決議和企業財報，而亞洲股市則表現謹慎。",
+      "news": [
+        "[Reuters] Indonesia strengthens measures against stock manipulation after market rout triggered by MSCI - Reuters - Indonesia strengthens measures against stock manipulation after market rout triggered by MSCI&nbsp;&nbsp;Reuters",
+        "[Reuters] Investors expect markets to unwind as Brazil's Lula reelected - Reuters - Investors expect markets to unwind as Brazil's Lula reelected&nbsp;&nbsp;Reuters",
+        "[Reuters] Stocks trade cautiously in Asia, Brent off six-month top - Reuters - Stocks trade cautiously in Asia, Brent off six-month top&nbsp;&nbsp;Reuters",
+        "[Reuters] Indian shares open lower as oil concerns persist, IT leads losses - Reuters - Indian shares open lower as oil concerns persist, IT leads losses&nbsp;&nbsp;Reuters",
+        "[Reuters] Japan's Nikkei edges lower as tech sector weighs, energy shares rise - Reuters - Japan's Nikkei edges lower as tech sector weighs, energy shares rise&nbsp;&nbsp;Reuters",
+        "[Reuters] COMMENTARY: Why China’s stimulus keeps missing the mark - Reuters - COMMENTARY: Why China’s stimulus keeps missing the mark&nbsp;&nbsp;Reuters",
+        "[Reuters] IEA's Birol does not expect energy markets to return to pre-war levels in 2027 - Reuters - IEA's Birol does not expect energy markets to return to pre-war levels in 2027&nbsp;&nbsp;Reuters",
+        "[Reuters] Five economic challenges facing Brazil's re-elected President Lula - Reuters - Five economic challenges facing Brazil's re-elected President Lula&nbsp;&nbsp;Reuters",
+        "[Semis] Stock Futures Are Rising Ahead of Fed Decision - Barron's - Stock Futures Are Rising Ahead of Fed Decision&nbsp;&nbsp;Barron's",
+        "[Semis] Australian Stock Market Today: ASX Futures Slip As Fed Path Keeps Volatility Elevated - Yahoo Finance - Australian Stock Market Today: ASX Futures Slip As Fed Path Keeps Volatility Elevated&nbsp;&nbsp;Yahoo Finance"
+      ],
       "paper": {
         "cash": 960119,
         "shares": 0.0,
@@ -3144,7 +3155,7 @@
         "max_asset": 1012557,
         "frenzy_days": 0,
         "tier1": 30,
-        "ai_index": 50.0,
+        "ai_index": 67.5,
         "target": null,
         "zone": null,
         "zone_label": null,
