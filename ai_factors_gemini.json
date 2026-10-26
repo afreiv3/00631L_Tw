@@ -1,33 +1,33 @@
 {
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23 12:57",
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26 12:53",
   "model": "gemini-2.5-flash",
   "factors": {
-    "sector": 3.0,
-    "macro": 4.0,
-    "trend": 4.0
+    "sector": 14.0,
+    "macro": 6.0,
+    "trend": 7.0
   },
-  "ai_sentiment_index": 27.5,
-  "summary": "美國科技股因對AI投資報酬率的疑慮而大幅下跌，加上油價上漲和歐洲政治不確定性，全球市場面臨多重壓力。",
+  "ai_sentiment_index": 67.5,
+  "summary": "美國股指期貨在科技股近期下跌後小幅走高，市場正等待聯準會的決議和企業財報，而亞洲股市則表現謹慎。",
   "news_zh": [
-    "標普500和那斯達克指數因AI疑慮重燃，科技股遭到拋售而大幅收低。",
-    "歐洲股市STOXX 600指數因銀行股下跌和油價上漲，創下三週來最大跌幅。",
-    "投資者擔憂美國期中選舉可能對AI產業造成風險，因資料中心面臨反彈。",
-    "油價飆升和科技股新一波的緊張情緒正在打擊股市。",
-    "那斯達克指數暴跌逾750點，投資者擔心巨額AI支出可能無法獲得回報。",
-    "美國股市下跌，科技股拋售潮加劇。"
+    "美國股指期貨上漲，市場正等待聯準會的決議。",
+    "標普500、道瓊斯和納斯達克指數上漲，AI概念股和Super Micro電腦表現強勁。",
+    "亞洲股市交易謹慎，布倫特原油價格脫離六個月高點。",
+    "中國的刺激措施未能達到預期效果。",
+    "國際能源署預計能源市場在2027年前不會回到戰前水平。",
+    "印度股市開盤走低，油價擔憂持續，科技股領跌。"
   ],
   "news": [
-    "[Reuters] S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff - Reuters - S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff&nbsp;&nbsp;Reuters",
-    "[Reuters] Ready for a French test?: Five questions for the ECB - Reuters - Ready for a French test?: Five questions for the ECB&nbsp;&nbsp;Reuters",
-    "[Reuters] LSEG's two decades of major deals, partnerships and strategic pivots - Reuters - LSEG's two decades of major deals, partnerships and strategic pivots&nbsp;&nbsp;Reuters",
-    "[Reuters] Breakingviews - COMMENTARY: US corporate profit boom faces its ‘Minsky moment’ - Reuters - Breakingviews - COMMENTARY: US corporate profit boom faces its ‘Minsky moment’&nbsp;&nbsp;Reuters",
-    "[Reuters] COMMENTARY: Morning Bid: Rattled by oil, tech and France - Reuters - COMMENTARY: Morning Bid: Rattled by oil, tech and France&nbsp;&nbsp;Reuters",
-    "[Reuters] Europe's STOXX 600 posts biggest drop in three weeks as banks tumble and oil climbs - Reuters - Europe's STOXX 600 posts biggest drop in three weeks as banks tumble and oil climbs&nbsp;&nbsp;Reuters",
-    "[Reuters] Investors see risk from US midterms to AI trade as data center backlash builds - Reuters - Investors see risk from US midterms to AI trade as data center backlash builds&nbsp;&nbsp;Reuters",
-    "[Reuters] COMMENTARY: Will US Treasury scrap 20-year bond sales?: McGeever - Reuters - COMMENTARY: Will US Treasury scrap 20-year bond sales?: McGeever&nbsp;&nbsp;Reuters",
-    "[Semis] Surging oil prices and fresh tech jitters are hammering stocks - Business Insider - Surging oil prices and fresh tech jitters are hammering stocks&nbsp;&nbsp;Business Insider",
-    "[Semis] U.S. Stocks Fall as Tech Selloff Deepens - WSJ - U.S. Stocks Fall as Tech Selloff Deepens&nbsp;&nbsp;WSJ"
+    "[Reuters] Indonesia strengthens measures against stock manipulation after market rout triggered by MSCI - Reuters - Indonesia strengthens measures against stock manipulation after market rout triggered by MSCI&nbsp;&nbsp;Reuters",
+    "[Reuters] Investors expect markets to unwind as Brazil's Lula reelected - Reuters - Investors expect markets to unwind as Brazil's Lula reelected&nbsp;&nbsp;Reuters",
+    "[Reuters] Stocks trade cautiously in Asia, Brent off six-month top - Reuters - Stocks trade cautiously in Asia, Brent off six-month top&nbsp;&nbsp;Reuters",
+    "[Reuters] Indian shares open lower as oil concerns persist, IT leads losses - Reuters - Indian shares open lower as oil concerns persist, IT leads losses&nbsp;&nbsp;Reuters",
+    "[Reuters] Japan's Nikkei edges lower as tech sector weighs, energy shares rise - Reuters - Japan's Nikkei edges lower as tech sector weighs, energy shares rise&nbsp;&nbsp;Reuters",
+    "[Reuters] COMMENTARY: Why China’s stimulus keeps missing the mark - Reuters - COMMENTARY: Why China’s stimulus keeps missing the mark&nbsp;&nbsp;Reuters",
+    "[Reuters] IEA's Birol does not expect energy markets to return to pre-war levels in 2027 - Reuters - IEA's Birol does not expect energy markets to return to pre-war levels in 2027&nbsp;&nbsp;Reuters",
+    "[Reuters] Five economic challenges facing Brazil's re-elected President Lula - Reuters - Five economic challenges facing Brazil's re-elected President Lula&nbsp;&nbsp;Reuters",
+    "[Semis] Stock Futures Are Rising Ahead of Fed Decision - Barron's - Stock Futures Are Rising Ahead of Fed Decision&nbsp;&nbsp;Barron's",
+    "[Semis] Australian Stock Market Today: ASX Futures Slip As Fed Path Keeps Volatility Elevated - Yahoo Finance - Australian Stock Market Today: ASX Futures Slip As Fed Path Keeps Volatility Elevated&nbsp;&nbsp;Yahoo Finance"
   ],
   "debug_error": ""
 }
