@@ -2006,7 +2006,7 @@
     },
     {
       "date": "2026-10-27",
-      "time": "10:00",
+      "time": "10:15",
       "price": 35.93,
       "tier1": 38,
       "ai_index": 50.0,
@@ -2014,7 +2014,7 @@
       "zone": "red",
       "zone_label": "⚪ 觀望（等量化≥35＋趨勢）",
       "gate_open": false,
-      "market_ok": false,
+      "market_ok": true,
       "asset_trend_ok": false,
       "ai_ok": false,
       "summary": "（今日盤前判讀尚未產生，暫以中性計）",
