@@ -1,33 +1,32 @@
 {
-  "date": "2026-10-26",
-  "generated_at": "2026-10-26 12:53",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27 13:11",
   "model": "gemini-2.5-flash",
   "factors": {
-    "sector": 14.0,
-    "macro": 6.0,
+    "sector": 18.0,
+    "macro": 7.0,
     "trend": 7.0
   },
-  "ai_sentiment_index": 67.5,
-  "summary": "美國股指期貨在科技股近期下跌後小幅走高，市場正等待聯準會的決議和企業財報，而亞洲股市則表現謹慎。",
+  "ai_sentiment_index": 80.0,
+  "summary": "AI樂觀情緒推動科技股上漲，市場對大型科技公司財報和聯準會會議保持關注。",
   "news_zh": [
-    "美國股指期貨上漲，市場正等待聯準會的決議。",
-    "標普500、道瓊斯和納斯達克指數上漲，AI概念股和Super Micro電腦表現強勁。",
-    "亞洲股市交易謹慎，布倫特原油價格脫離六個月高點。",
-    "中國的刺激措施未能達到預期效果。",
-    "國際能源署預計能源市場在2027年前不會回到戰前水平。",
-    "印度股市開盤走低，油價擔憂持續，科技股領跌。"
+    "Anthropic首次公開募股文件提振AI相關股票，推動股市走高。",
+    "亞洲股市預計將因Anthropic的IPO消息而上漲。",
+    "Meta考慮進行950億美元的股權融資以擴大AI業務。",
+    "大型科技公司財報和聯準會會議將是未來兩週市場的關鍵。",
+    "評論指出AI的低迷可能引發停滯性通膨的擔憂。"
   ],
   "news": [
-    "[Reuters] Indonesia strengthens measures against stock manipulation after market rout triggered by MSCI - Reuters - Indonesia strengthens measures against stock manipulation after market rout triggered by MSCI&nbsp;&nbsp;Reuters",
-    "[Reuters] Investors expect markets to unwind as Brazil's Lula reelected - Reuters - Investors expect markets to unwind as Brazil's Lula reelected&nbsp;&nbsp;Reuters",
-    "[Reuters] Stocks trade cautiously in Asia, Brent off six-month top - Reuters - Stocks trade cautiously in Asia, Brent off six-month top&nbsp;&nbsp;Reuters",
-    "[Reuters] Indian shares open lower as oil concerns persist, IT leads losses - Reuters - Indian shares open lower as oil concerns persist, IT leads losses&nbsp;&nbsp;Reuters",
-    "[Reuters] Japan's Nikkei edges lower as tech sector weighs, energy shares rise - Reuters - Japan's Nikkei edges lower as tech sector weighs, energy shares rise&nbsp;&nbsp;Reuters",
-    "[Reuters] COMMENTARY: Why China’s stimulus keeps missing the mark - Reuters - COMMENTARY: Why China’s stimulus keeps missing the mark&nbsp;&nbsp;Reuters",
-    "[Reuters] IEA's Birol does not expect energy markets to return to pre-war levels in 2027 - Reuters - IEA's Birol does not expect energy markets to return to pre-war levels in 2027&nbsp;&nbsp;Reuters",
-    "[Reuters] Five economic challenges facing Brazil's re-elected President Lula - Reuters - Five economic challenges facing Brazil's re-elected President Lula&nbsp;&nbsp;Reuters",
-    "[Semis] Stock Futures Are Rising Ahead of Fed Decision - Barron's - Stock Futures Are Rising Ahead of Fed Decision&nbsp;&nbsp;Barron's",
-    "[Semis] Australian Stock Market Today: ASX Futures Slip As Fed Path Keeps Volatility Elevated - Yahoo Finance - Australian Stock Market Today: ASX Futures Slip As Fed Path Keeps Volatility Elevated&nbsp;&nbsp;Yahoo Finance"
+    "[Reuters] Hang Seng investment arm to merge with HSBC's asset business, sources say - Reuters - Hang Seng investment arm to merge with HSBC's asset business, sources say&nbsp;&nbsp;Reuters",
+    "[Reuters] Equities end higher as Anthropic's IPO filing buoys AI stocks - Reuters - Equities end higher as Anthropic's IPO filing buoys AI stocks&nbsp;&nbsp;Reuters",
+    "[Reuters] Analysts forecast Brazil market plunge after Lula turnaround win - Reuters - Analysts forecast Brazil market plunge after Lula turnaround win&nbsp;&nbsp;Reuters",
+    "[Reuters] COMMENTARY: Nice earnings forecasts you have. Shame if something happened to them: Joachim Klement - Reuters - COMMENTARY: Nice earnings forecasts you have. Shame if something happened to them: Joachim Klement&nbsp;&nbsp;Reuters",
+    "[Reuters] DoorDash in talks to buy Instacart in roughly $17 billion deal, source says - Reuters - DoorDash in talks to buy Instacart in roughly $17 billion deal, source says&nbsp;&nbsp;Reuters",
+    "[Reuters] Meta eyes record $95 billion equity raise to fund AI expansion - Reuters - Meta eyes record $95 billion equity raise to fund AI expansion&nbsp;&nbsp;Reuters",
+    "[Reuters] US CFTC, NBA agree to cooperate over basketball and prediction markets - Reuters - US CFTC, NBA agree to cooperate over basketball and prediction markets&nbsp;&nbsp;Reuters",
+    "[Reuters] COMMENTARY: AI gloom revives the specter of stagflation - Reuters - COMMENTARY: AI gloom revives the specter of stagflation&nbsp;&nbsp;Reuters",
+    "[Semis] Equities end higher as Anthropic's IPO filing buoys AI stocks - Reuters - Equities end higher as Anthropic's IPO filing buoys AI stocks&nbsp;&nbsp;Reuters",
+    "[Semis] Stock Market Today, Oct. 26: AI Optimism Lifts Nasdaq as Tech Stocks Rebound - Yahoo Finance - Stock Market Today, Oct. 26: AI Optimism Lifts Nasdaq as Tech Stocks Rebound&nbsp;&nbsp;Yahoo Finance"
   ],
   "debug_error": ""
 }
