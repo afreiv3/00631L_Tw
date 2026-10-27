@@ -4584,11 +4584,11 @@
     },
     {
       "date": "2026-10-27",
-      "time": "09:30",
-      "price": 35.99,
-      "score": 55,
+      "time": "09:45",
+      "price": 35.82,
+      "score": 58,
       "zone": "amber",
-      "quant_sum": 30,
+      "quant_sum": 32,
       "ai_sum": 25,
       "ai_ok": true,
       "factors": {
@@ -4603,19 +4603,19 @@
           "note": "SOX 10/26大漲逾3%（10,779→11,000+），TSM ADR +1.40%（$424.37）、AVGO +2.33%，Anthropic IPO帶動科技情緒；惟NVDA相對平淡、SOX仍在技術熊市（較高點累跌逾25%），板塊明確偏強但非全面爆發，給15分"
         },
         "entry": {
-          "pts": 7.5,
+          "pts": 15,
           "max": 15,
-          "note": "現價在區間中段(45%)"
+          "note": "現價近今日低點(區間14%) → 接近支撐"
         },
         "volume": {
           "pts": 7.5,
           "max": 15,
-          "note": "推估量約均量1.6倍 → 偏離"
+          "note": "推估量約均量1.5倍 → 偏離"
         },
         "vwap": {
-          "pts": 5.0,
+          "pts": 0,
           "max": 10,
-          "note": "現價貼近VWAP(-0.16%)"
+          "note": "現價在VWAP之下(-0.47%) → 弱勢"
         },
         "macro": {
           "pts": 5,
@@ -4630,9 +4630,9 @@
       },
       "paper": {
         "cash": 673677,
-        "equity": 960373,
-        "market_value": 286696,
-        "return_pct": -3.96,
+        "equity": 959019,
+        "market_value": 285342,
+        "return_pct": -4.1,
         "holding": true,
         "position": {
           "shares": 7966,
@@ -4645,8 +4645,8 @@
         },
         "shares": 7966,
         "avg_cost": 36.26,
-        "unrealized": -2562,
-        "unrealized_pct": -0.89,
+        "unrealized": -3917,
+        "unrealized_pct": -1.35,
         "trades": 14,
         "wins": 5,
         "win_rate": 35.7,
