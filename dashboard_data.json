@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27 13:15 (Taipei)",
+  "updated": "2026-10-27 13:30 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -4583,11 +4583,11 @@
     },
     {
       "date": "2026-10-27",
-      "time": "13:15",
-      "price": 35.52,
-      "score": 65,
+      "time": "13:30",
+      "price": 35.79,
+      "score": 60,
       "zone": "amber",
-      "quant_sum": 40,
+      "quant_sum": 35,
       "ai_sum": 25,
       "ai_ok": true,
       "factors": {
@@ -4602,19 +4602,19 @@
           "note": "SOX 10/26大漲逾3%（10,779→11,000+），TSM ADR +1.40%（$424.37）、AVGO +2.33%，Anthropic IPO帶動科技情緒；惟NVDA相對平淡、SOX仍在技術熊市（較高點累跌逾25%），板塊明確偏強但非全面爆發，給15分"
         },
         "entry": {
-          "pts": 15,
+          "pts": 7.5,
           "max": 15,
-          "note": "現價近今日低點(區間28%) → 接近支撐"
+          "note": "現價在區間中段(55%)"
         },
         "volume": {
-          "pts": 15,
+          "pts": 7.5,
           "max": 15,
-          "note": "推估量約均量0.7倍 → 正常"
+          "note": "推估量約均量0.7倍 → 偏離"
         },
         "vwap": {
-          "pts": 0,
+          "pts": 10,
           "max": 10,
-          "note": "現價在VWAP之下(-0.49%) → 弱勢"
+          "note": "現價在VWAP之上(+0.27%) → 有利"
         },
         "macro": {
           "pts": 5,
@@ -4629,9 +4629,9 @@
       },
       "paper": {
         "cash": 673677,
-        "equity": 956629,
-        "market_value": 282952,
-        "return_pct": -4.34,
+        "equity": 958780,
+        "market_value": 285103,
+        "return_pct": -4.12,
         "holding": true,
         "position": {
           "shares": 7966,
@@ -4644,8 +4644,8 @@
         },
         "shares": 7966,
         "avg_cost": 36.26,
-        "unrealized": -6306,
-        "unrealized_pct": -2.18,
+        "unrealized": -4156,
+        "unrealized_pct": -1.44,
         "trades": 14,
         "wins": 5,
         "win_rate": 35.7,
