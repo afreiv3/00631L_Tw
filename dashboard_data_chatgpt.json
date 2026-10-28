@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28 13:30 (Taipei)",
+  "updated": "2026-10-28 14:47 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -4315,20 +4315,31 @@
     },
     {
       "date": "2026-10-28",
-      "time": "13:30",
-      "price": 36.8,
+      "time": "14:47",
+      "price": 36.88,
       "tier1": 38,
-      "ai_index": 50.0,
+      "ai_index": 82.5,
       "target": 0.0,
       "zone": "red",
-      "zone_label": "⚪ 觀望（等量化≥35＋趨勢）",
+      "zone_label": "⚪ 觀望（非盤中）",
       "gate_open": false,
       "market_ok": true,
       "asset_trend_ok": false,
       "ma10_ok": false,
-      "ai_ok": false,
-      "summary": "（今日盤前判讀尚未產生，暫以中性計）",
-      "news": [],
+      "ai_ok": true,
+      "summary": "在人工智慧樂觀情緒重燃的推動下，隔夜美股上漲，預計將提振今日台灣股市。",
+      "news": [
+        "[Reuters] EXCLUSIVE: US agency is again probing if Polymarket broke 2022 settlement, sources says - Reuters - EXCLUSIVE: US agency is again probing if Polymarket broke 2022 settlement, sources says&nbsp;&nbsp;Reuters",
+        "[Reuters] Robinhood profit misses estimates as crypto trading slows - Reuters - Robinhood profit misses estimates as crypto trading slows&nbsp;&nbsp;Reuters",
+        "[Reuters] Brazil's markets recover some ground after selloff; minister vows fiscal discipline - Reuters - Brazil's markets recover some ground after selloff; minister vows fiscal discipline&nbsp;&nbsp;Reuters",
+        "[Reuters] Wall Street ends higher on revived AI momentum - Reuters - Wall Street ends higher on revived AI momentum&nbsp;&nbsp;Reuters",
+        "[Reuters] EXCLUSIVE: Neocloud firm Argentum AI in talks for $5 billion AI chip financing, sources say - Reuters - EXCLUSIVE: Neocloud firm Argentum AI in talks for $5 billion AI chip financing, sources say&nbsp;&nbsp;Reuters",
+        "[Reuters] COMMENTARY: Morning Bid: ANTimatter - Reuters - COMMENTARY: Morning Bid: ANTimatter&nbsp;&nbsp;Reuters",
+        "[Reuters] Hold or sell? High Treasury yields spur US banks to rethink bond portfolios - Reuters - Hold or sell? High Treasury yields spur US banks to rethink bond portfolios&nbsp;&nbsp;Reuters",
+        "[Reuters] EXCLUSIVE: Syngenta IPO aims for valuation of at least $66 billion, sources say - Reuters - EXCLUSIVE: Syngenta IPO aims for valuation of at least $66 billion, sources say&nbsp;&nbsp;Reuters",
+        "[Semis] Wall Street ends higher on revived AI momentum - Reuters - Wall Street ends higher on revived AI momentum&nbsp;&nbsp;Reuters",
+        "[Semis] Asian Stocks Set to Gain on Resurgent AI Optimism: Markets Wrap - Bloomberg - Asian Stocks Set to Gain on Resurgent AI Optimism: Markets Wrap&nbsp;&nbsp;Bloomberg"
+      ],
       "paper": {
         "cash": 1012012,
         "shares": 0.0,
@@ -4358,10 +4369,10 @@
         "last_action": "SELL",
         "last_action_reason": "DATA_INVALID_NO_TRADE",
         "tier1": 38,
-        "ai_index": 50.0,
+        "ai_index": 82.5,
         "target": 0.0,
         "zone": "red",
-        "zone_label": "⚪ 觀望（等量化≥35＋趨勢）",
+        "zone_label": "⚪ 觀望（非盤中）",
         "gate_open": false
       }
     }
