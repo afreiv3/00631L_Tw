@@ -4655,11 +4655,11 @@
     },
     {
       "date": "2026-10-28",
-      "time": "13:00",
-      "price": 36.67,
-      "score": 74,
-      "zone": "green",
-      "quant_sum": 45,
+      "time": "13:15",
+      "price": 36.8,
+      "score": 66,
+      "zone": "amber",
+      "quant_sum": 38,
       "ai_sum": 29,
       "ai_ok": true,
       "factors": {
@@ -4674,9 +4674,9 @@
           "note": "SOX 10/27大漲3.6%至11,482（連三日強勢），AMD+5.4%、AVGO+3.9%、NVDA+1.2%、TSM ADR+3%，Anthropic IPO申請進一步加持AI科技情緒，板塊極為偏強，給18分"
         },
         "entry": {
-          "pts": 7.5,
+          "pts": 0,
           "max": 15,
-          "note": "現價在區間中段(55%)"
+          "note": "現價在區間上緣(83%) → 屬追高"
         },
         "volume": {
           "pts": 7.5,
@@ -4686,7 +4686,7 @@
         "vwap": {
           "pts": 10,
           "max": 10,
-          "note": "現價在VWAP之上(+0.02%) → 有利"
+          "note": "現價在VWAP之上(+0.35%) → 有利"
         },
         "macro": {
           "pts": 6,
@@ -4701,9 +4701,9 @@
       },
       "paper": {
         "cash": 673677,
-        "equity": 965790,
-        "market_value": 292113,
-        "return_pct": -3.42,
+        "equity": 966825,
+        "market_value": 293149,
+        "return_pct": -3.32,
         "holding": true,
         "position": {
           "shares": 7966,
@@ -4716,8 +4716,8 @@
         },
         "shares": 7966,
         "avg_cost": 36.26,
-        "unrealized": 2854,
-        "unrealized_pct": 0.99,
+        "unrealized": 3890,
+        "unrealized_pct": 1.34,
         "trades": 14,
         "wins": 5,
         "win_rate": 35.7,
