@@ -1,6 +1,6 @@
 {
   "year": "2026",
-  "count": 69,
+  "count": 70,
   "history": [
     {
       "date": "2026-07-20",
@@ -4647,6 +4647,77 @@
         "avg_cost": 36.26,
         "unrealized": -5669,
         "unrealized_pct": -1.96,
+        "trades": 14,
+        "wins": 5,
+        "win_rate": 35.7,
+        "realized_pnl": -37065
+      }
+    },
+    {
+      "date": "2026-10-28",
+      "time": "09:00",
+      "price": null,
+      "score": 59,
+      "zone": "amber",
+      "quant_sum": 30,
+      "ai_sum": 29,
+      "ai_ok": true,
+      "factors": {
+        "pattern": {
+          "pts": 10.0,
+          "max": 20,
+          "note": "盤中資料缺，型態以中性計"
+        },
+        "sector": {
+          "pts": 18,
+          "max": 20,
+          "note": "SOX 10/27大漲3.6%至11,482（連三日強勢），AMD+5.4%、AVGO+3.9%、NVDA+1.2%、TSM ADR+3%，Anthropic IPO申請進一步加持AI科技情緒，板塊極為偏強，給18分"
+        },
+        "entry": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "區間資料缺，以中性計"
+        },
+        "volume": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "量能資料缺，以中性計"
+        },
+        "vwap": {
+          "pts": 5.0,
+          "max": 10,
+          "note": "VWAP 資料缺，以中性計"
+        },
+        "macro": {
+          "pts": 6,
+          "max": 10,
+          "note": "FOMC今日決策預期87%按兵（3.75-4.00%），若符預期為正向確認；10Y殖利率近4.99%、WTI $101.76仍高，宏觀壓力有限但背景風險仍在，給6分"
+        },
+        "trend": {
+          "pts": 5,
+          "max": 10,
+          "note": "加權10/27估收46,021，季線約46,113（下差92點），連休後開高走低顯示籌碼壓力；今日US隔夜大漲有機會回收季線，但尚未確認，給5分"
+        }
+      },
+      "paper": {
+        "cash": 673677,
+        "equity": 673677,
+        "market_value": 0,
+        "return_pct": -32.63,
+        "holding": true,
+        "position": {
+          "shares": 7966,
+          "entry_price": 36.26,
+          "entry_date": "2026-10-20",
+          "entry_time": "12:15",
+          "cost": 289258.77,
+          "entry_score": 72,
+          "frac": 0.3
+        },
+        "shares": 7966,
+        "avg_cost": 36.26,
+        "unrealized": -289259,
+        "unrealized_pct": -100.0,
         "trades": 14,
         "wins": 5,
         "win_rate": 35.7,
