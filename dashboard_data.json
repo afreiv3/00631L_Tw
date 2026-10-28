@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28 10:15 (Taipei)",
+  "updated": "2026-10-28 10:30 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -4654,18 +4654,18 @@
     },
     {
       "date": "2026-10-28",
-      "time": "10:15",
-      "price": 36.67,
-      "score": 76,
-      "zone": "green",
-      "quant_sum": 48,
+      "time": "10:30",
+      "price": 36.57,
+      "score": 69,
+      "zone": "amber",
+      "quant_sum": 40,
       "ai_sum": 29,
       "ai_ok": true,
       "factors": {
         "pattern": {
-          "pts": 20,
+          "pts": 10.0,
           "max": 20,
-          "note": "現價守在開盤之上(開+2.9%) → 有利"
+          "note": "開+2.9%、小幅回落，型態中性"
         },
         "sector": {
           "pts": 18,
@@ -4673,19 +4673,19 @@
           "note": "SOX 10/27大漲3.6%至11,482（連三日強勢），AMD+5.4%、AVGO+3.9%、NVDA+1.2%、TSM ADR+3%，Anthropic IPO申請進一步加持AI科技情緒，板塊極為偏強，給18分"
         },
         "entry": {
-          "pts": 7.5,
+          "pts": 15,
           "max": 15,
-          "note": "現價在區間中段(45%)"
+          "note": "現價近今日低點(區間18%) → 接近支撐"
         },
         "volume": {
           "pts": 15,
           "max": 15,
-          "note": "推估量約均量1.0倍 → 正常"
+          "note": "推估量約均量0.9倍 → 正常"
         },
         "vwap": {
-          "pts": 5.0,
+          "pts": 0,
           "max": 10,
-          "note": "現價貼近VWAP(-0.11%)"
+          "note": "現價在VWAP之下(-0.35%) → 弱勢"
         },
         "macro": {
           "pts": 6,
@@ -4700,9 +4700,9 @@
       },
       "paper": {
         "cash": 673677,
-        "equity": 965790,
-        "market_value": 292113,
-        "return_pct": -3.42,
+        "equity": 964993,
+        "market_value": 291317,
+        "return_pct": -3.5,
         "holding": true,
         "position": {
           "shares": 7966,
@@ -4715,8 +4715,8 @@
         },
         "shares": 7966,
         "avg_cost": 36.26,
-        "unrealized": 2854,
-        "unrealized_pct": 0.99,
+        "unrealized": 2058,
+        "unrealized_pct": 0.71,
         "trades": 14,
         "wins": 5,
         "win_rate": 35.7,
