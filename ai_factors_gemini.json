@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-27",
-  "generated_at": "2026-10-27 13:11",
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28 13:49",
   "model": "gemini-2.5-flash",
   "factors": {
     "sector": 18.0,
     "macro": 7.0,
-    "trend": 7.0
+    "trend": 8.0
   },
-  "ai_sentiment_index": 80.0,
-  "summary": "AI樂觀情緒推動科技股上漲，市場對大型科技公司財報和聯準會會議保持關注。",
+  "ai_sentiment_index": 82.5,
+  "summary": "在人工智慧樂觀情緒重燃的推動下，隔夜美股上漲，預計將提振今日台灣股市。",
   "news_zh": [
-    "Anthropic首次公開募股文件提振AI相關股票，推動股市走高。",
-    "亞洲股市預計將因Anthropic的IPO消息而上漲。",
-    "Meta考慮進行950億美元的股權融資以擴大AI業務。",
-    "大型科技公司財報和聯準會會議將是未來兩週市場的關鍵。",
-    "評論指出AI的低迷可能引發停滯性通膨的擔憂。"
+    "華爾街股市因人工智慧動能復甦而收高。",
+    "獨家：新雲公司Argentum AI正洽談50億美元的人工智慧晶片融資。",
+    "亞洲股市預計將因人工智慧樂觀情緒重燃而上漲。",
+    "美國股市期貨上漲，油價因伊朗言論下跌。",
+    "股市受人工智慧提振，美元在聯準會決策前保持穩定。"
   ],
   "news": [
-    "[Reuters] Hang Seng investment arm to merge with HSBC's asset business, sources say - Reuters - Hang Seng investment arm to merge with HSBC's asset business, sources say&nbsp;&nbsp;Reuters",
-    "[Reuters] Equities end higher as Anthropic's IPO filing buoys AI stocks - Reuters - Equities end higher as Anthropic's IPO filing buoys AI stocks&nbsp;&nbsp;Reuters",
-    "[Reuters] Analysts forecast Brazil market plunge after Lula turnaround win - Reuters - Analysts forecast Brazil market plunge after Lula turnaround win&nbsp;&nbsp;Reuters",
-    "[Reuters] COMMENTARY: Nice earnings forecasts you have. Shame if something happened to them: Joachim Klement - Reuters - COMMENTARY: Nice earnings forecasts you have. Shame if something happened to them: Joachim Klement&nbsp;&nbsp;Reuters",
-    "[Reuters] DoorDash in talks to buy Instacart in roughly $17 billion deal, source says - Reuters - DoorDash in talks to buy Instacart in roughly $17 billion deal, source says&nbsp;&nbsp;Reuters",
-    "[Reuters] Meta eyes record $95 billion equity raise to fund AI expansion - Reuters - Meta eyes record $95 billion equity raise to fund AI expansion&nbsp;&nbsp;Reuters",
-    "[Reuters] US CFTC, NBA agree to cooperate over basketball and prediction markets - Reuters - US CFTC, NBA agree to cooperate over basketball and prediction markets&nbsp;&nbsp;Reuters",
-    "[Reuters] COMMENTARY: AI gloom revives the specter of stagflation - Reuters - COMMENTARY: AI gloom revives the specter of stagflation&nbsp;&nbsp;Reuters",
-    "[Semis] Equities end higher as Anthropic's IPO filing buoys AI stocks - Reuters - Equities end higher as Anthropic's IPO filing buoys AI stocks&nbsp;&nbsp;Reuters",
-    "[Semis] Stock Market Today, Oct. 26: AI Optimism Lifts Nasdaq as Tech Stocks Rebound - Yahoo Finance - Stock Market Today, Oct. 26: AI Optimism Lifts Nasdaq as Tech Stocks Rebound&nbsp;&nbsp;Yahoo Finance"
+    "[Reuters] EXCLUSIVE: US agency is again probing if Polymarket broke 2022 settlement, sources says - Reuters - EXCLUSIVE: US agency is again probing if Polymarket broke 2022 settlement, sources says&nbsp;&nbsp;Reuters",
+    "[Reuters] Robinhood profit misses estimates as crypto trading slows - Reuters - Robinhood profit misses estimates as crypto trading slows&nbsp;&nbsp;Reuters",
+    "[Reuters] Brazil's markets recover some ground after selloff; minister vows fiscal discipline - Reuters - Brazil's markets recover some ground after selloff; minister vows fiscal discipline&nbsp;&nbsp;Reuters",
+    "[Reuters] Wall Street ends higher on revived AI momentum - Reuters - Wall Street ends higher on revived AI momentum&nbsp;&nbsp;Reuters",
+    "[Reuters] EXCLUSIVE: Neocloud firm Argentum AI in talks for $5 billion AI chip financing, sources say - Reuters - EXCLUSIVE: Neocloud firm Argentum AI in talks for $5 billion AI chip financing, sources say&nbsp;&nbsp;Reuters",
+    "[Reuters] COMMENTARY: Morning Bid: ANTimatter - Reuters - COMMENTARY: Morning Bid: ANTimatter&nbsp;&nbsp;Reuters",
+    "[Reuters] Hold or sell? High Treasury yields spur US banks to rethink bond portfolios - Reuters - Hold or sell? High Treasury yields spur US banks to rethink bond portfolios&nbsp;&nbsp;Reuters",
+    "[Reuters] EXCLUSIVE: Syngenta IPO aims for valuation of at least $66 billion, sources say - Reuters - EXCLUSIVE: Syngenta IPO aims for valuation of at least $66 billion, sources say&nbsp;&nbsp;Reuters",
+    "[Semis] Wall Street ends higher on revived AI momentum - Reuters - Wall Street ends higher on revived AI momentum&nbsp;&nbsp;Reuters",
+    "[Semis] Asian Stocks Set to Gain on Resurgent AI Optimism: Markets Wrap - Bloomberg - Asian Stocks Set to Gain on Resurgent AI Optimism: Markets Wrap&nbsp;&nbsp;Bloomberg"
   ],
   "debug_error": ""
 }
