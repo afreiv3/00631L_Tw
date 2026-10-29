@@ -1,6 +1,6 @@
 {
   "year": "2026",
-  "count": 70,
+  "count": 71,
   "history": [
     {
       "date": "2026-07-20",
@@ -4718,6 +4718,77 @@
         "avg_cost": 36.26,
         "unrealized": 4527,
         "unrealized_pct": 1.57,
+        "trades": 14,
+        "wins": 5,
+        "win_rate": 35.7,
+        "realized_pnl": -37065
+      }
+    },
+    {
+      "date": "2026-10-29",
+      "time": "09:00",
+      "price": null,
+      "score": 59,
+      "zone": "amber",
+      "quant_sum": 30,
+      "ai_sum": 29,
+      "ai_ok": true,
+      "factors": {
+        "pattern": {
+          "pts": 10.0,
+          "max": 20,
+          "note": "盤中資料缺，型態以中性計"
+        },
+        "sector": {
+          "pts": 16,
+          "max": 20,
+          "note": "SOX三連漲（10/27+3.6%、10/28盤中+1.75%），AVGO +4%、TSM ADR +2.96%、NVDA +0.9%領漲；惟GOOGL盤後-11%、FTNT -26%為科技板塊雜音，半導體核心仍強，給16分"
+        },
+        "entry": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "區間資料缺，以中性計"
+        },
+        "volume": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "量能資料缺，以中性計"
+        },
+        "vwap": {
+          "pts": 5.0,
+          "max": 10,
+          "note": "VWAP 資料缺，以中性計"
+        },
+        "macro": {
+          "pts": 5,
+          "max": 10,
+          "note": "FOMC確認按兵（正向確認），但10Y殖利率升至5.03%偏高、兩委員傾向升息有鷹派隱憂、WTI油價$100高位（中東），宏觀略有波動，給5分"
+        },
+        "trend": {
+          "pts": 8,
+          "max": 10,
+          "note": "TAIEX 47,036站上季線（~46,113），夜盤+774至47,244，外資期貨淨空減碼至84,917口，短期結構轉偏多，惟單日大漲後需確認站穩，給8分"
+        }
+      },
+      "paper": {
+        "cash": 673677,
+        "equity": 673677,
+        "market_value": 0,
+        "return_pct": -32.63,
+        "holding": true,
+        "position": {
+          "shares": 7966,
+          "entry_price": 36.26,
+          "entry_date": "2026-10-20",
+          "entry_time": "12:15",
+          "cost": 289258.77,
+          "entry_score": 72,
+          "frac": 0.3
+        },
+        "shares": 7966,
+        "avg_cost": 36.26,
+        "unrealized": -289259,
+        "unrealized_pct": -100.0,
         "trades": 14,
         "wins": 5,
         "win_rate": 35.7,
