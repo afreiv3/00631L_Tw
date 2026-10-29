@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-28",
-  "generated_at": "2026-10-28 13:49",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29 13:53",
   "model": "gemini-2.5-flash",
   "factors": {
-    "sector": 18.0,
-    "macro": 7.0,
-    "trend": 8.0
+    "sector": 16.0,
+    "macro": 8.0,
+    "trend": 7.0
   },
-  "ai_sentiment_index": 82.5,
-  "summary": "在人工智慧樂觀情緒重燃的推動下，隔夜美股上漲，預計將提振今日台灣股市。",
+  "ai_sentiment_index": 77.5,
+  "summary": "聯準會維持利率不變，華爾街股市收高，但美國期貨在Alphabet財報後下跌，AI產業融資需求考驗市場風險胃納。",
   "news_zh": [
-    "華爾街股市因人工智慧動能復甦而收高。",
-    "獨家：新雲公司Argentum AI正洽談50億美元的人工智慧晶片融資。",
-    "亞洲股市預計將因人工智慧樂觀情緒重燃而上漲。",
-    "美國股市期貨上漲，油價因伊朗言論下跌。",
-    "股市受人工智慧提振，美元在聯準會決策前保持穩定。"
+    "聯準會維持利率不變，市場反應溫和上漲。",
+    "華爾街股市收高，因聯準會維持利率不變，市場焦點轉向財報。",
+    "美國股指期貨在Alphabet財報和聯準會決議後下跌。",
+    "AI巨頭的融資野心考驗華爾街的風險偏好。",
+    "LME計劃推動金屬代幣，與香港的五年計畫掛鉤。"
   ],
   "news": [
-    "[Reuters] EXCLUSIVE: US agency is again probing if Polymarket broke 2022 settlement, sources says - Reuters - EXCLUSIVE: US agency is again probing if Polymarket broke 2022 settlement, sources says&nbsp;&nbsp;Reuters",
-    "[Reuters] Robinhood profit misses estimates as crypto trading slows - Reuters - Robinhood profit misses estimates as crypto trading slows&nbsp;&nbsp;Reuters",
-    "[Reuters] Brazil's markets recover some ground after selloff; minister vows fiscal discipline - Reuters - Brazil's markets recover some ground after selloff; minister vows fiscal discipline&nbsp;&nbsp;Reuters",
-    "[Reuters] Wall Street ends higher on revived AI momentum - Reuters - Wall Street ends higher on revived AI momentum&nbsp;&nbsp;Reuters",
-    "[Reuters] EXCLUSIVE: Neocloud firm Argentum AI in talks for $5 billion AI chip financing, sources say - Reuters - EXCLUSIVE: Neocloud firm Argentum AI in talks for $5 billion AI chip financing, sources say&nbsp;&nbsp;Reuters",
-    "[Reuters] COMMENTARY: Morning Bid: ANTimatter - Reuters - COMMENTARY: Morning Bid: ANTimatter&nbsp;&nbsp;Reuters",
-    "[Reuters] Hold or sell? High Treasury yields spur US banks to rethink bond portfolios - Reuters - Hold or sell? High Treasury yields spur US banks to rethink bond portfolios&nbsp;&nbsp;Reuters",
-    "[Reuters] EXCLUSIVE: Syngenta IPO aims for valuation of at least $66 billion, sources say - Reuters - EXCLUSIVE: Syngenta IPO aims for valuation of at least $66 billion, sources say&nbsp;&nbsp;Reuters",
-    "[Semis] Wall Street ends higher on revived AI momentum - Reuters - Wall Street ends higher on revived AI momentum&nbsp;&nbsp;Reuters",
-    "[Semis] Asian Stocks Set to Gain on Resurgent AI Optimism: Markets Wrap - Bloomberg - Asian Stocks Set to Gain on Resurgent AI Optimism: Markets Wrap&nbsp;&nbsp;Bloomberg"
+    "[Reuters] Bloomberg, two trading firms agree to pay Trump’s Truth Social for faster access to president’s posts, sources say - Reuters - Bloomberg, two trading firms agree to pay Trump’s Truth Social for faster access to president’s posts, sources say&nbsp;&nbsp;Reuters",
+    "[Reuters] Instant View: FOMC holds rates steady, markets rise modestly - Reuters - Instant View: FOMC holds rates steady, markets rise modestly&nbsp;&nbsp;Reuters",
+    "[Reuters] EXCLUSIVE: LME plans metal tokens push tied to Hong Kong's 5-year plan, sources say - Reuters - EXCLUSIVE: LME plans metal tokens push tied to Hong Kong's 5-year plan, sources say&nbsp;&nbsp;Reuters",
+    "[Reuters] Prediction market bets set the tone for Anthropic's much-awaited IPO - Reuters - Prediction market bets set the tone for Anthropic's much-awaited IPO&nbsp;&nbsp;Reuters",
+    "[Reuters] AI giants' funding ambitions test Wall Street's appetite for risk - Reuters - AI giants' funding ambitions test Wall Street's appetite for risk&nbsp;&nbsp;Reuters",
+    "[Reuters] British markets take Healey's first budget in their stride - Reuters - British markets take Healey's first budget in their stride&nbsp;&nbsp;Reuters",
+    "[Reuters] Wall Street ends higher as Fed holds key rate steady, focus turns to earnings - Reuters - Wall Street ends higher as Fed holds key rate steady, focus turns to earnings&nbsp;&nbsp;Reuters",
+    "[Reuters] Bank of America plans new branches in Wisconsin, Alabama, New Orleans - Reuters - Bank of America plans new branches in Wisconsin, Alabama, New Orleans&nbsp;&nbsp;Reuters",
+    "[Semis] US Stock Futures Fall After Alphabet, Fed Holds: Markets Wrap - Bloomberg.com - US Stock Futures Fall After Alphabet, Fed Holds: Markets Wrap&nbsp;&nbsp;Bloomberg.com",
+    "[Semis] Wall Street ends higher as Fed holds key rate steady, focus turns to earnings - Reuters - Wall Street ends higher as Fed holds key rate steady, focus turns to earnings&nbsp;&nbsp;Reuters"
   ],
   "debug_error": ""
 }
