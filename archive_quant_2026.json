@@ -4726,11 +4726,11 @@
     },
     {
       "date": "2026-10-29",
-      "time": "13:15",
-      "price": 35.81,
-      "score": 66,
+      "time": "13:30",
+      "price": 35.98,
+      "score": 64,
       "zone": "amber",
-      "quant_sum": 38,
+      "quant_sum": 35,
       "ai_sum": 29,
       "ai_ok": true,
       "factors": {
@@ -4745,19 +4745,19 @@
           "note": "SOX三連漲（10/27+3.6%、10/28盤中+1.75%），AVGO +4%、TSM ADR +2.96%、NVDA +0.9%領漲；惟GOOGL盤後-11%、FTNT -26%為科技板塊雜音，半導體核心仍強，給16分"
         },
         "entry": {
-          "pts": 15,
+          "pts": 7.5,
           "max": 15,
-          "note": "現價近今日低點(區間20%) → 接近支撐"
+          "note": "現價在區間中段(34%)"
         },
         "volume": {
           "pts": 7.5,
           "max": 15,
-          "note": "推估量約均量1.6倍 → 偏離"
+          "note": "推估量約均量1.5倍 → 偏離"
         },
         "vwap": {
-          "pts": 5.0,
+          "pts": 10,
           "max": 10,
-          "note": "現價貼近VWAP(-0.01%)"
+          "note": "現價在VWAP之上(+0.46%) → 有利"
         },
         "macro": {
           "pts": 5,
@@ -4772,9 +4772,9 @@
       },
       "paper": {
         "cash": 673677,
-        "equity": 958939,
-        "market_value": 285262,
-        "return_pct": -4.11,
+        "equity": 960293,
+        "market_value": 286617,
+        "return_pct": -3.97,
         "holding": true,
         "position": {
           "shares": 7966,
@@ -4787,8 +4787,8 @@
         },
         "shares": 7966,
         "avg_cost": 36.26,
-        "unrealized": -3996,
-        "unrealized_pct": -1.38,
+        "unrealized": -2642,
+        "unrealized_pct": -0.91,
         "trades": 14,
         "wins": 5,
         "win_rate": 35.7,
