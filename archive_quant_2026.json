@@ -1,6 +1,6 @@
 {
   "year": "2026",
-  "count": 71,
+  "count": 72,
   "history": [
     {
       "date": "2026-07-20",
@@ -4789,6 +4789,77 @@
         "avg_cost": 36.26,
         "unrealized": -3359,
         "unrealized_pct": -1.16,
+        "trades": 14,
+        "wins": 5,
+        "win_rate": 35.7,
+        "realized_pnl": -37065
+      }
+    },
+    {
+      "date": "2026-10-30",
+      "time": "09:00",
+      "price": null,
+      "score": 38,
+      "zone": "red",
+      "quant_sum": 30,
+      "ai_sum": 8,
+      "ai_ok": true,
+      "factors": {
+        "pattern": {
+          "pts": 10.0,
+          "max": 20,
+          "note": "盤中資料缺，型態以中性計"
+        },
+        "sector": {
+          "pts": 0,
+          "max": 20,
+          "note": "SOX跌約1.5%至11,497-11,518、TSM ADR跌1.75%至431.81美元，半導體全面轉弱；盤後Intel-23%更加重壓力，板塊分數為0"
+        },
+        "entry": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "區間資料缺，以中性計"
+        },
+        "volume": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "量能資料缺，以中性計"
+        },
+        "vwap": {
+          "pts": 5.0,
+          "max": 10,
+          "note": "VWAP 資料缺，以中性計"
+        },
+        "macro": {
+          "pts": 5,
+          "max": 10,
+          "note": "GOOGL財報失利屬個股事件非系統性衝擊，大盤廣度仍正向有資金旋轉；但10Y殖利率參考值偏高（~5.15%）、WTI油價估>$104，最新數字查不到以中性計，整體略有波動"
+        },
+        "trend": {
+          "pts": 3,
+          "max": 10,
+          "note": "台股前收46,220（10/29估）僅高於季線~46,113約107點，TSM ADR-1.75%預示今日開盤可能試破季線；外資月累計賣超逾6,620億、期貨淨空單~9.2萬口，結構偏弱，介於貼近季線與跌破之間"
+        }
+      },
+      "paper": {
+        "cash": 673677,
+        "equity": 673677,
+        "market_value": 0,
+        "return_pct": -32.63,
+        "holding": true,
+        "position": {
+          "shares": 7966,
+          "entry_price": 36.26,
+          "entry_date": "2026-10-20",
+          "entry_time": "12:15",
+          "cost": 289258.77,
+          "entry_score": 72,
+          "frac": 0.3
+        },
+        "shares": 7966,
+        "avg_cost": 36.26,
+        "unrealized": -289259,
+        "unrealized_pct": -100.0,
         "trades": 14,
         "wins": 5,
         "win_rate": 35.7,
