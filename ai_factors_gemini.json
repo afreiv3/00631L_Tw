@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-29",
-  "generated_at": "2026-10-29 13:53",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30 13:54",
   "model": "gemini-2.5-flash",
   "factors": {
-    "sector": 16.0,
-    "macro": 8.0,
-    "trend": 7.0
+    "sector": 3.0,
+    "macro": 6.0,
+    "trend": 5.0
   },
-  "ai_sentiment_index": 77.5,
-  "summary": "聯準會維持利率不變，華爾街股市收高，但美國期貨在Alphabet財報後下跌，AI產業融資需求考驗市場風險胃納。",
+  "ai_sentiment_index": 35.0,
+  "summary": "Alphabet財報不如預期引發AI資本支出疑慮，導致華爾街股市收低，半導體和科技股承壓，預計今日台灣市場將面臨下行壓力。",
   "news_zh": [
-    "聯準會維持利率不變，市場反應溫和上漲。",
-    "華爾街股市收高，因聯準會維持利率不變，市場焦點轉向財報。",
-    "美國股指期貨在Alphabet財報和聯準會決議後下跌。",
-    "AI巨頭的融資野心考驗華爾街的風險偏好。",
-    "LME計劃推動金屬代幣，與香港的五年計畫掛鉤。"
+    "Alphabet營收未達預期，引發市場對AI資本支出的擔憂，華爾街股市收盤走低。",
+    "美國股市期貨下跌，亞馬遜和英特爾財報表現不佳，那斯達克指數下跌2%。",
+    "亞洲股市面臨壓力，避險需求推升債券價格。",
+    "紐約股市AI和半導體板塊出現拋售。",
+    "五角大廈要求歐洲國家緩和對俄羅斯的言論。"
   ],
   "news": [
-    "[Reuters] Bloomberg, two trading firms agree to pay Trump’s Truth Social for faster access to president’s posts, sources say - Reuters - Bloomberg, two trading firms agree to pay Trump’s Truth Social for faster access to president’s posts, sources say&nbsp;&nbsp;Reuters",
-    "[Reuters] Instant View: FOMC holds rates steady, markets rise modestly - Reuters - Instant View: FOMC holds rates steady, markets rise modestly&nbsp;&nbsp;Reuters",
-    "[Reuters] EXCLUSIVE: LME plans metal tokens push tied to Hong Kong's 5-year plan, sources say - Reuters - EXCLUSIVE: LME plans metal tokens push tied to Hong Kong's 5-year plan, sources say&nbsp;&nbsp;Reuters",
-    "[Reuters] Prediction market bets set the tone for Anthropic's much-awaited IPO - Reuters - Prediction market bets set the tone for Anthropic's much-awaited IPO&nbsp;&nbsp;Reuters",
-    "[Reuters] AI giants' funding ambitions test Wall Street's appetite for risk - Reuters - AI giants' funding ambitions test Wall Street's appetite for risk&nbsp;&nbsp;Reuters",
-    "[Reuters] British markets take Healey's first budget in their stride - Reuters - British markets take Healey's first budget in their stride&nbsp;&nbsp;Reuters",
-    "[Reuters] Wall Street ends higher as Fed holds key rate steady, focus turns to earnings - Reuters - Wall Street ends higher as Fed holds key rate steady, focus turns to earnings&nbsp;&nbsp;Reuters",
-    "[Reuters] Bank of America plans new branches in Wisconsin, Alabama, New Orleans - Reuters - Bank of America plans new branches in Wisconsin, Alabama, New Orleans&nbsp;&nbsp;Reuters",
-    "[Semis] US Stock Futures Fall After Alphabet, Fed Holds: Markets Wrap - Bloomberg.com - US Stock Futures Fall After Alphabet, Fed Holds: Markets Wrap&nbsp;&nbsp;Bloomberg.com",
-    "[Semis] Wall Street ends higher as Fed holds key rate steady, focus turns to earnings - Reuters - Wall Street ends higher as Fed holds key rate steady, focus turns to earnings&nbsp;&nbsp;Reuters"
+    "[Reuters] Wall Street ends lower as Alphabet revenue miss revives AI capex jitters - Reuters - Wall Street ends lower as Alphabet revenue miss revives AI capex jitters&nbsp;&nbsp;Reuters",
+    "[Reuters] Microsoft expects to raise $25 billion in US bond sale, sources say - Reuters - Microsoft expects to raise $25 billion in US bond sale, sources say&nbsp;&nbsp;Reuters",
+    "[Reuters] Coinbase returns to profit as crypto investment gains offset trading weakness - Reuters - Coinbase returns to profit as crypto investment gains offset trading weakness&nbsp;&nbsp;Reuters",
+    "[Reuters] Trading Day: Communication breakdown - Reuters - Trading Day: Communication breakdown&nbsp;&nbsp;Reuters",
+    "[Reuters] EXCLUSIVE: Pentagon tells Europeans to cool their rhetoric on Russia, sources say - Reuters - EXCLUSIVE: Pentagon tells Europeans to cool their rhetoric on Russia, sources say&nbsp;&nbsp;Reuters",
+    "[Reuters] Polymarket resumes trading after third-party security breach, to reimburse users - Reuters - Polymarket resumes trading after third-party security breach, to reimburse users&nbsp;&nbsp;Reuters",
+    "[Reuters] COMMENTARY: Warsh's muddled messaging revives Fed credibility doubts - Reuters - COMMENTARY: Warsh's muddled messaging revives Fed credibility doubts&nbsp;&nbsp;Reuters",
+    "[Reuters] COMMENTARY: Biggest market impact of US midterms may be 2028 countdown - Reuters - COMMENTARY: Biggest market impact of US midterms may be 2028 countdown&nbsp;&nbsp;Reuters",
+    "[Semis] October 2026 Nasdaq Stock Market Bell Ceremonies - Nasdaq - October 2026 Nasdaq Stock Market Bell Ceremonies&nbsp;&nbsp;Nasdaq",
+    "[Semis] Wall Street ends lower as Alphabet revenue miss revives AI capex jitters - Reuters - Wall Street ends lower as Alphabet revenue miss revives AI capex jitters&nbsp;&nbsp;Reuters"
   ],
   "debug_error": ""
 }
