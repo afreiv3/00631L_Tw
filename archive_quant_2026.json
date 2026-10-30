@@ -4797,8 +4797,8 @@
     },
     {
       "date": "2026-10-30",
-      "time": "09:15",
-      "price": null,
+      "time": "09:30",
+      "price": 34.0,
       "score": 38,
       "zone": "red",
       "quant_sum": 30,
@@ -4808,7 +4808,7 @@
         "pattern": {
           "pts": 10.0,
           "max": 20,
-          "note": "盤中資料缺，型態以中性計"
+          "note": "開-4.4%、小幅回落，型態中性"
         },
         "sector": {
           "pts": 0,
@@ -4816,19 +4816,19 @@
           "note": "SOX跌約1.5%至11,497-11,518、TSM ADR跌1.75%至431.81美元，半導體全面轉弱；盤後Intel-23%更加重壓力，板塊分數為0"
         },
         "entry": {
-          "pts": 7.5,
+          "pts": 15,
           "max": 15,
-          "note": "區間資料缺，以中性計"
+          "note": "現價近今日低點(區間31%) → 接近支撐"
         },
         "volume": {
-          "pts": 7.5,
+          "pts": 0,
           "max": 15,
-          "note": "量能資料缺，以中性計"
+          "note": "推估量約均量4.9倍 → 爆量(疑換手/出貨)"
         },
         "vwap": {
           "pts": 5.0,
           "max": 10,
-          "note": "VWAP 資料缺，以中性計"
+          "note": "現價貼近VWAP(-0.01%)"
         },
         "macro": {
           "pts": 5,
@@ -4842,28 +4842,20 @@
         }
       },
       "paper": {
-        "cash": 673677,
-        "equity": 673677,
+        "cash": 943864,
+        "equity": 943864,
         "market_value": 0,
-        "return_pct": -32.63,
-        "holding": true,
-        "position": {
-          "shares": 7966,
-          "entry_price": 36.26,
-          "entry_date": "2026-10-20",
-          "entry_time": "12:15",
-          "cost": 289258.77,
-          "entry_score": 72,
-          "frac": 0.3
-        },
-        "shares": 7966,
-        "avg_cost": 36.26,
-        "unrealized": -289259,
-        "unrealized_pct": -100.0,
-        "trades": 14,
+        "return_pct": -5.61,
+        "holding": false,
+        "position": null,
+        "shares": 0,
+        "avg_cost": null,
+        "unrealized": 0,
+        "unrealized_pct": 0,
+        "trades": 15,
         "wins": 5,
-        "win_rate": 35.7,
-        "realized_pnl": -37065
+        "win_rate": 33.3,
+        "realized_pnl": -56136
       }
     }
   ]
