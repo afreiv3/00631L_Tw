@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30 14:59 (Taipei)",
+  "updated": "2026-11-02 09:00 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -4838,6 +4838,69 @@
           "pts": 1,
           "max": 10,
           "note": "TWII終場估~45,000（-2.95%），明確跌破季線46,113千點以上，技術結構正式轉空；近兩週在季線上下震盪後今日確認向下突破，中期趨勢轉弱，評1分"
+        }
+      },
+      "paper": {
+        "cash": 943864,
+        "equity": 943864,
+        "market_value": 0,
+        "return_pct": -5.61,
+        "holding": false,
+        "position": null,
+        "shares": 0,
+        "avg_cost": null,
+        "unrealized": 0,
+        "unrealized_pct": 0,
+        "trades": 15,
+        "wins": 5,
+        "win_rate": 33.3,
+        "realized_pnl": -56136
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "time": "09:00",
+      "price": null,
+      "score": 32,
+      "zone": "red",
+      "quant_sum": 30,
+      "ai_sum": 2,
+      "ai_ok": true,
+      "factors": {
+        "pattern": {
+          "pts": 10.0,
+          "max": 20,
+          "note": "盤中資料缺，型態以中性計"
+        },
+        "sector": {
+          "pts": 0,
+          "max": 20,
+          "note": "SOX 10/30 US單日暴跌-7.20%至10,688（Intel Q4指引災難引爆），TSM ADR -5.95%至$406，AVGO -7.31%，NVDA -3.37%，半導體板塊本輪跌勢最猛單日，板塊偏強評0分"
+        },
+        "entry": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "區間資料缺，以中性計"
+        },
+        "volume": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "量能資料缺，以中性計"
+        },
+        "vwap": {
+          "pts": 5.0,
+          "max": 10,
+          "note": "VWAP 資料缺，以中性計"
+        },
+        "macro": {
+          "pts": 2,
+          "max": 10,
+          "note": "10Y殖利率~4.93-5.04%高位，WTI~$102/桶，FOMC鷹派暗示（2委員傾升息），Intel需求衰退訊號延至2027H1；系統性風險升溫顯著但未見金融危機，評2分"
+        },
+        "trend": {
+          "pts": 0,
+          "max": 10,
+          "note": "TWII 10/30 Taiwan close約45,211，明確跌破季線(~46,113)逾900點，技術結構正式轉空；10/31台股盤資料查不到（以偏空中性計），大盤結構評0分"
         }
       },
       "paper": {
