@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02 13:30 (Taipei)",
+  "updated": "2026-11-02 15:35 (Taipei)",
   "history": [
     {
       "date": "2026-09-07",
@@ -2249,19 +2249,30 @@
     },
     {
       "date": "2026-11-02",
-      "time": "13:30",
-      "price": 33.85,
-      "tier1": 45,
-      "ai_index": 50.0,
+      "time": "15:35",
+      "price": 33.83,
+      "tier1": 25,
+      "ai_index": 70.0,
       "target": 0.0,
       "zone": "red",
-      "zone_label": "⚪ 觀望（等量化≥35＋趨勢）",
+      "zone_label": "⚪ 今日已交易過",
       "gate_open": false,
       "market_ok": false,
       "asset_trend_ok": false,
-      "ai_ok": false,
-      "summary": "（今日盤前判讀尚未產生，暫以中性計）",
-      "news": [],
+      "ai_ok": true,
+      "summary": "全球AI股拋售潮趨緩，那斯達克經歷逾一年來最差月份後反彈，但亞洲股市仍受科技股下跌影響，市場關注蘋果財報與聯準會訊號。",
+      "news": [
+        "[Reuters] COMMENTARY: India's booming growth has an earnings problem - Reuters - COMMENTARY: India's booming growth has an earnings problem&nbsp;&nbsp;Reuters",
+        "[Reuters] Gold rises on softer oil; Markets parse Fed signals - Reuters - Gold rises on softer oil; Markets parse Fed signals&nbsp;&nbsp;Reuters",
+        "[Reuters] Indian shares rise on Iran war talks, Reliance earnings beat - Reuters - Indian shares rise on Iran war talks, Reliance earnings beat&nbsp;&nbsp;Reuters",
+        "[Reuters] Stocks bounce as Apple earnings near, oil falls - Reuters - Stocks bounce as Apple earnings near, oil falls&nbsp;&nbsp;Reuters",
+        "[Reuters] HSBC to open Hong Kong AI Institute following Singapore launch - Reuters - HSBC to open Hong Kong AI Institute following Singapore launch&nbsp;&nbsp;Reuters",
+        "[Reuters] Japan sees no change in US FX coordination after midterm elections, Katayama says - Reuters - Japan sees no change in US FX coordination after midterm elections, Katayama says&nbsp;&nbsp;Reuters",
+        "[Reuters] China's shift to new policy rate signals easier funding conditions - Reuters - China's shift to new policy rate signals easier funding conditions&nbsp;&nbsp;Reuters",
+        "[Reuters] Goldman Sachs sees BoE raising rate in February 2027 - Reuters - Goldman Sachs sees BoE raising rate in February 2027&nbsp;&nbsp;Reuters",
+        "[Semis] Stock futures jump ahead of a monster week after a $5 trillion AI rout - Yahoo Finance - Stock futures jump ahead of a monster week after a $5 trillion AI rout&nbsp;&nbsp;Yahoo Finance",
+        "[Semis] Dow Jones Futures Rise But Market Still Ails; Midterm Elections Ahead - Investor's Business Daily - Dow Jones Futures Rise But Market Still Ails; Midterm Elections Ahead&nbsp;&nbsp;Investor's Business Daily"
+      ],
       "paper": {
         "cash": 986962,
         "shares": 0.0,
@@ -2289,11 +2300,11 @@
         "cooldown_remaining": 0,
         "last_action": "SELL",
         "last_action_reason": "DATA_INVALID_NO_TRADE",
-        "tier1": 45,
-        "ai_index": 50.0,
+        "tier1": 25,
+        "ai_index": 70.0,
         "target": 0.0,
         "zone": "red",
-        "zone_label": "⚪ 觀望（等量化≥35＋趨勢）",
+        "zone_label": "⚪ 今日已交易過",
         "gate_open": false
       }
     }
