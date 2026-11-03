@@ -1,6 +1,6 @@
 {
   "year": "2026",
-  "count": 73,
+  "count": 74,
   "history": [
     {
       "date": "2026-07-20",
@@ -4902,6 +4902,69 @@
           "pts": 3,
           "max": 10,
           "note": "TWII估收44,960，在季線46,113下方逾1,150點，今日為近期收盤新低（低於10/30的45,211），結構空頭格局未改；但底部44,399有明顯承接、收斂550+點，短線支撐有一定確認意義，評3分"
+        }
+      },
+      "paper": {
+        "cash": 943864,
+        "equity": 943864,
+        "market_value": 0,
+        "return_pct": -5.61,
+        "holding": false,
+        "position": null,
+        "shares": 0,
+        "avg_cost": null,
+        "unrealized": 0,
+        "unrealized_pct": 0,
+        "trades": 15,
+        "wins": 5,
+        "win_rate": 33.3,
+        "realized_pnl": -56136
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "time": "09:00",
+      "price": null,
+      "score": 40,
+      "zone": "amber",
+      "quant_sum": 30,
+      "ai_sum": 10,
+      "ai_ok": true,
+      "factors": {
+        "pattern": {
+          "pts": 10.0,
+          "max": 20,
+          "note": "盤中資料缺，型態以中性計"
+        },
+        "sector": {
+          "pts": 5,
+          "max": 20,
+          "note": "SOX週一盤中+7%反彈全數失守、收-3.37%（至10,328），兩日累計-10.3%，距6月高點已下修29.4%；NVDA+1.13%為少數亮點，科技板塊整體轉弱，評5分"
+        },
+        "entry": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "區間資料缺，以中性計"
+        },
+        "volume": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "量能資料缺，以中性計"
+        },
+        "vwap": {
+          "pts": 5.0,
+          "max": 10,
+          "note": "VWAP 資料缺，以中性計"
+        },
+        "macro": {
+          "pts": 3,
+          "max": 10,
+          "note": "Fed 10/28鷹派異議票升溫（Cook/Hammack要求升息）、10Y殖利率維持4.92-5.026%高位、通膨3.7%，宏觀緊縮風險持續升溫，評3分"
+        },
+        "trend": {
+          "pts": 2,
+          "max": 10,
+          "note": "TWII 11/2收44,920，在季線46,113下方逾1,193點（-2.6%），外資10月累計淨賣超逾NT$994億且11/2再流出NT$73.5億，結構偏弱空頭格局，評2分"
         }
       },
       "paper": {
