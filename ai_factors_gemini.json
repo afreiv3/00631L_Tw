@@ -1,33 +1,33 @@
 {
-  "date": "2026-11-03",
-  "generated_at": "2026-11-03 14:54",
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04 14:32",
   "model": "gemini-2.5-flash",
   "factors": {
-    "sector": 3.0,
-    "macro": 5.0,
-    "trend": 4.0
+    "sector": 17.0,
+    "macro": 7.0,
+    "trend": 8.0
   },
-  "ai_sentiment_index": 30.0,
-  "summary": "全球市場因AI股拋售而顯得脆弱，那斯達克下跌，油價因中東希望而下跌，中國則推出支持措施。",
+  "ai_sentiment_index": 80.0,
+  "summary": "在半導體股反彈和那斯達克指數上漲的帶動下，台灣股市預計將呈現樂觀氛圍，儘管全球仍存在融資缺口和中期選舉結果的不確定性。",
   "news_zh": [
-    "全球市場因對AI的巨大押注而顯得脆弱，可能導致崩潰。",
-    "AI相關的債務狂潮可能會對歐洲債券市場造成壓力。",
-    "那斯達克下跌，為亞洲市場開盤蒙上陰影，油價因伊朗消息而下跌。",
-    "那斯達克副主席警告：台灣股票市值躍居全球第四，但79%的AI曝險居全球之冠。",
-    "韓國綜合股價指數因半導體股票暴跌而下跌3.59%。",
-    "美國科技股因AI和中期選舉風險進入修正階段。"
+    "那斯達克指數上漲，AI權重股在中期選舉結果公布前反彈。",
+    "半導體類股反彈，推動美國股市走高。",
+    "Meta發行150億美元債券以資助AI擴張。",
+    "全球面臨30兆歐元的融資缺口警告。",
+    "美國中期選舉結果對市場的影響分析。",
+    "美國股指期貨在投資者權衡中期選舉潛在變局時漲跌互現。"
   ],
   "news": [
-    "[Reuters] Global markets were already fragile. Big AI bets could break them - Reuters - Global markets were already fragile. Big AI bets could break them&nbsp;&nbsp;Reuters",
-    "[Reuters] AI-related debt binge may pressure European bond markets - Reuters - AI-related debt binge may pressure European bond markets&nbsp;&nbsp;Reuters",
-    "[Reuters] Breakingviews - COMMENTARY: China's stock rout prompts new contortions - Reuters - Breakingviews - COMMENTARY: China's stock rout prompts new contortions&nbsp;&nbsp;Reuters",
-    "[Reuters] Trading Day: Oil slump no cure for AI angst - Reuters - Trading Day: Oil slump no cure for AI angst&nbsp;&nbsp;Reuters",
-    "[Reuters] COMMENTARY: Brutal AI selloff stirs recession fears: McGeever - Reuters - COMMENTARY: Brutal AI selloff stirs recession fears: McGeever&nbsp;&nbsp;Reuters",
-    "[Reuters] October dive for AI-related shares tests broader US stock market's resilience - Reuters - October dive for AI-related shares tests broader US stock market's resilience&nbsp;&nbsp;Reuters",
-    "[Reuters] European shares rise as oil falls on Middle East deal hopes - Reuters - European shares rise as oil falls on Middle East deal hopes&nbsp;&nbsp;Reuters",
-    "[Reuters] China rolls out support measures to aid struggling stocks - Reuters - China rolls out support measures to aid struggling stocks&nbsp;&nbsp;Reuters",
-    "[Semis] Nasdaq Slide Clouds Asian Open, Oil Falls on Iran: Markets Wrap - Bloomberg.com - Nasdaq Slide Clouds Asian Open, Oil Falls on Iran: Markets Wrap&nbsp;&nbsp;Bloomberg.com",
-    "[Semis] PRA Group, Inc. Rings the Nasdaq Stock Market Opening Bell - Nasdaq - PRA Group, Inc. Rings the Nasdaq Stock Market Opening Bell&nbsp;&nbsp;Nasdaq"
+    "[Reuters] Canadian dollar pulls back from six-week high ahead of key jobs data - Reuters - Canadian dollar pulls back from six-week high ahead of key jobs data&nbsp;&nbsp;Reuters",
+    "[Reuters] Meta raises $15 billion in five-part US bond sale to fund AI expansion - Reuters - Meta raises $15 billion in five-part US bond sale to fund AI expansion&nbsp;&nbsp;Reuters",
+    "[Reuters] World faces €30 trillion financing gap, Santander report warns - Reuters - World faces €30 trillion financing gap, Santander report warns&nbsp;&nbsp;Reuters",
+    "[Reuters] Intesa CEO upbeat on antitrust ruling on MPS bid after strong quarter - Reuters - Intesa CEO upbeat on antitrust ruling on MPS bid after strong quarter&nbsp;&nbsp;Reuters",
+    "[Reuters] Market analysts react to US midterm election results - Reuters - Market analysts react to US midterm election results&nbsp;&nbsp;Reuters",
+    "[Reuters] BNP Paribas shakes up investment bank management, memo says - Reuters - BNP Paribas shakes up investment bank management, memo says&nbsp;&nbsp;Reuters",
+    "[Reuters] COMMENTARY: As markets sway, safe havens shine. Except gold - Reuters - COMMENTARY: As markets sway, safe havens shine. Except gold&nbsp;&nbsp;Reuters",
+    "[Reuters] Nasdaq ends higher as AI heavyweights rebound ahead of midterm results - Reuters - Nasdaq ends higher as AI heavyweights rebound ahead of midterm results&nbsp;&nbsp;Reuters",
+    "[Semis] US Equity Futures Inch Higher as Investors Await Midterm Results - Bloomberg.com - US Equity Futures Inch Higher as Investors Await Midterm Results&nbsp;&nbsp;Bloomberg.com",
+    "[Semis] Manhattan Associates Rings the Nasdaq Stock Market Closing Bell - Nasdaq - Manhattan Associates Rings the Nasdaq Stock Market Closing Bell&nbsp;&nbsp;Nasdaq"
   ],
   "debug_error": ""
 }
