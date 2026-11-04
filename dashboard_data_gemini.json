@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04 13:30 (Taipei)",
+  "updated": "2026-11-04 15:26 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -3446,19 +3446,30 @@
     },
     {
       "date": "2026-11-04",
-      "time": "13:30",
-      "price": 30.99,
+      "time": "15:26",
+      "price": 30.85,
       "tier1": 28,
-      "ai_index": 50.0,
+      "ai_index": 80.0,
       "target": 0.0,
       "zone": "red",
       "zone_label": "⚪ 觀望（等好買點＋趨勢）",
       "gate_open": false,
       "market_ok": false,
       "asset_trend_ok": false,
-      "ai_ok": false,
-      "summary": "（今日 Gemini 盤前判讀尚未產生，暫以中性計）",
-      "news": [],
+      "ai_ok": true,
+      "summary": "在半導體股反彈和那斯達克指數上漲的帶動下，台灣股市預計將呈現樂觀氛圍，儘管全球仍存在融資缺口和中期選舉結果的不確定性。",
+      "news": [
+        "[Reuters] Canadian dollar pulls back from six-week high ahead of key jobs data - Reuters - Canadian dollar pulls back from six-week high ahead of key jobs data&nbsp;&nbsp;Reuters",
+        "[Reuters] Meta raises $15 billion in five-part US bond sale to fund AI expansion - Reuters - Meta raises $15 billion in five-part US bond sale to fund AI expansion&nbsp;&nbsp;Reuters",
+        "[Reuters] World faces €30 trillion financing gap, Santander report warns - Reuters - World faces €30 trillion financing gap, Santander report warns&nbsp;&nbsp;Reuters",
+        "[Reuters] Intesa CEO upbeat on antitrust ruling on MPS bid after strong quarter - Reuters - Intesa CEO upbeat on antitrust ruling on MPS bid after strong quarter&nbsp;&nbsp;Reuters",
+        "[Reuters] Market analysts react to US midterm election results - Reuters - Market analysts react to US midterm election results&nbsp;&nbsp;Reuters",
+        "[Reuters] BNP Paribas shakes up investment bank management, memo says - Reuters - BNP Paribas shakes up investment bank management, memo says&nbsp;&nbsp;Reuters",
+        "[Reuters] COMMENTARY: As markets sway, safe havens shine. Except gold - Reuters - COMMENTARY: As markets sway, safe havens shine. Except gold&nbsp;&nbsp;Reuters",
+        "[Reuters] Nasdaq ends higher as AI heavyweights rebound ahead of midterm results - Reuters - Nasdaq ends higher as AI heavyweights rebound ahead of midterm results&nbsp;&nbsp;Reuters",
+        "[Semis] US Equity Futures Inch Higher as Investors Await Midterm Results - Bloomberg.com - US Equity Futures Inch Higher as Investors Await Midterm Results&nbsp;&nbsp;Bloomberg.com",
+        "[Semis] Manhattan Associates Rings the Nasdaq Stock Market Closing Bell - Nasdaq - Manhattan Associates Rings the Nasdaq Stock Market Closing Bell&nbsp;&nbsp;Nasdaq"
+      ],
       "paper": {
         "cash": 960119,
         "shares": 0.0,
@@ -3473,7 +3484,7 @@
         "max_asset": 1012557,
         "frenzy_days": 0,
         "tier1": 28,
-        "ai_index": 50.0,
+        "ai_index": 80.0,
         "target": 0.0,
         "zone": "red",
         "zone_label": "⚪ 觀望（等好買點＋趨勢）",
