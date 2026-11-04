@@ -1,6 +1,6 @@
 {
   "year": "2026",
-  "count": 74,
+  "count": 75,
   "history": [
     {
       "date": "2026-07-20",
@@ -4965,6 +4965,69 @@
           "pts": 1,
           "max": 10,
           "note": "TWII 11/3收43,307，低於季線46,113達-2,805點（-6.1%）；外資今年累計賣超NT$2.44兆（歷史新高），技術面空頭結構深化，無反彈訊號，評1分"
+        }
+      },
+      "paper": {
+        "cash": 943864,
+        "equity": 943864,
+        "market_value": 0,
+        "return_pct": -5.61,
+        "holding": false,
+        "position": null,
+        "shares": 0,
+        "avg_cost": null,
+        "unrealized": 0,
+        "unrealized_pct": 0,
+        "trades": 15,
+        "wins": 5,
+        "win_rate": 33.3,
+        "realized_pnl": -56136
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "time": "09:00",
+      "price": null,
+      "score": 51,
+      "zone": "amber",
+      "quant_sum": 30,
+      "ai_sum": 21,
+      "ai_ok": true,
+      "factors": {
+        "pattern": {
+          "pts": 10.0,
+          "max": 20,
+          "note": "盤中資料缺，型態以中性計"
+        },
+        "sector": {
+          "pts": 15,
+          "max": 20,
+          "note": "費半SOX 11/3+2.63%至10,600、Nasdaq+0.8%；NVDA+3.2%、AVGO+3.8%、AMD+3%+；TSM ADR+1.6%重返$404.80；半導體隔夜強彈，評15分（波動仍大、選舉日不確定性扣分）"
+        },
+        "entry": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "區間資料缺，以中性計"
+        },
+        "volume": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "量能資料缺，以中性計"
+        },
+        "vwap": {
+          "pts": 5.0,
+          "max": 10,
+          "note": "VWAP 資料缺，以中性計"
+        },
+        "macro": {
+          "pts": 4,
+          "max": 10,
+          "note": "Fed維持3.75%-4%但12月升息機率79%（鷹派），10年期殖利率升至~4.97%（接近5%），WTI~$96美元仍偏高；美伊談判傳言使油價略緩，但整體利率風險偏高，評4分"
+        },
+        "trend": {
+          "pts": 2,
+          "max": 10,
+          "note": "TWII 11/3收43,307，低於季線46,113達-2,805點（-6.1%），11/3崩跌1,612點加深空頭結構；外資台指期淨空單逼近9.2萬口，技術面嚴重受損，評2分"
         }
       },
       "paper": {
