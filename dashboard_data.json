@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04 12:45 (Taipei)",
+  "updated": "2026-11-04 13:00 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -4985,11 +4985,11 @@
     },
     {
       "date": "2026-11-04",
-      "time": "12:45",
-      "price": 30.0,
-      "score": 46,
-      "zone": "amber",
-      "quant_sum": 25,
+      "time": "13:00",
+      "price": 30.43,
+      "score": 38,
+      "zone": "red",
+      "quant_sum": 18,
       "ai_sum": 21,
       "ai_ok": true,
       "factors": {
@@ -5004,9 +5004,9 @@
           "note": "費半SOX 11/3+2.63%至10,600、Nasdaq+0.8%；NVDA+3.2%、AVGO+3.8%、AMD+3%+；TSM ADR+1.6%重返$404.80；半導體隔夜強彈，評15分（波動仍大、選舉日不確定性扣分）"
         },
         "entry": {
-          "pts": 15,
+          "pts": 7.5,
           "max": 15,
-          "note": "現價近今日低點(區間16%) → 接近支撐"
+          "note": "現價在區間中段(34%)"
         },
         "volume": {
           "pts": 0,
@@ -5016,7 +5016,7 @@
         "vwap": {
           "pts": 0,
           "max": 10,
-          "note": "現價在VWAP之下(-1.89%) → 弱勢"
+          "note": "現價在VWAP之下(-0.38%) → 弱勢"
         },
         "macro": {
           "pts": 4,
