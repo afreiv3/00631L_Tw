@@ -12,13 +12,13 @@
   "current_target_exposure": 0.0,
   "realized_pnl": -13037.880679889058,
   "frenzy_days": 0,
-  "ma20_break_days": 12,
-  "market_break_days": 3,
+  "ma20_break_days": 13,
+  "market_break_days": 4,
   "cooldown_remaining": 0,
-  "last_date": "2026-11-03",
+  "last_date": "2026-11-04",
   "last_trade_date": "2026-10-15",
   "last_action": "SELL",
   "last_action_reason": "DATA_INVALID_NO_TRADE",
   "trades": 9,
-  "updated": "2026-11-04 09:15"
+  "updated": "2026-11-04 09:30"
 }
