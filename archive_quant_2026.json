@@ -4986,11 +4986,11 @@
     },
     {
       "date": "2026-11-04",
-      "time": "13:00",
-      "price": 30.43,
-      "score": 38,
-      "zone": "red",
-      "quant_sum": 18,
+      "time": "13:15",
+      "price": 31.1,
+      "score": 48,
+      "zone": "amber",
+      "quant_sum": 28,
       "ai_sum": 21,
       "ai_ok": true,
       "factors": {
@@ -5007,17 +5007,17 @@
         "entry": {
           "pts": 7.5,
           "max": 15,
-          "note": "現價在區間中段(34%)"
+          "note": "現價在區間中段(62%)"
         },
         "volume": {
           "pts": 0,
           "max": 15,
-          "note": "推估量約均量2.3倍 → 爆量(疑換手/出貨)"
+          "note": "推估量約均量3.0倍 → 爆量(疑換手/出貨)"
         },
         "vwap": {
-          "pts": 0,
+          "pts": 10,
           "max": 10,
-          "note": "現價在VWAP之下(-0.38%) → 弱勢"
+          "note": "現價在VWAP之上(+1.23%) → 有利"
         },
         "macro": {
           "pts": 4,
