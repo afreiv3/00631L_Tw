@@ -1,33 +1,31 @@
 {
-  "date": "2026-11-04",
-  "generated_at": "2026-11-04 14:32",
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05 14:54",
   "model": "gemini-2.5-flash",
   "factors": {
-    "sector": 17.0,
-    "macro": 7.0,
-    "trend": 8.0
+    "sector": 5.0,
+    "macro": 8.0,
+    "trend": 7.0
   },
-  "ai_sentiment_index": 80.0,
-  "summary": "在半導體股反彈和那斯達克指數上漲的帶動下，台灣股市預計將呈現樂觀氛圍，儘管全球仍存在融資缺口和中期選舉結果的不確定性。",
+  "ai_sentiment_index": 50.0,
+  "summary": "美國民主黨贏得國會選舉，華爾街股市上漲，但費城半導體指數下跌，中國晶片製造商IPO受阻，對台灣科技股構成壓力。",
   "news_zh": [
-    "那斯達克指數上漲，AI權重股在中期選舉結果公布前反彈。",
-    "半導體類股反彈，推動美國股市走高。",
-    "Meta發行150億美元債券以資助AI擴張。",
-    "全球面臨30兆歐元的融資缺口警告。",
-    "美國中期選舉結果對市場的影響分析。",
-    "美國股指期貨在投資者權衡中期選舉潛在變局時漲跌互現。"
+    "美國民主黨贏得國會，華爾街股市收高，但數據中心類股下跌。",
+    "中國收緊股票發行審批，晶片製造商長江存儲（YMTC）的IPO計畫暫緩。",
+    "費城半導體指數下跌3.13%，拖累台灣股市開盤下跌282點，台積電開盤價為新台幣2,250元。",
+    "道瓊斯期貨上漲，但科技股下跌；蘋果、微軟、亞馬遜在選舉後反彈中閃現買入信號。"
   ],
   "news": [
-    "[Reuters] Canadian dollar pulls back from six-week high ahead of key jobs data - Reuters - Canadian dollar pulls back from six-week high ahead of key jobs data&nbsp;&nbsp;Reuters",
-    "[Reuters] Meta raises $15 billion in five-part US bond sale to fund AI expansion - Reuters - Meta raises $15 billion in five-part US bond sale to fund AI expansion&nbsp;&nbsp;Reuters",
-    "[Reuters] World faces €30 trillion financing gap, Santander report warns - Reuters - World faces €30 trillion financing gap, Santander report warns&nbsp;&nbsp;Reuters",
-    "[Reuters] Intesa CEO upbeat on antitrust ruling on MPS bid after strong quarter - Reuters - Intesa CEO upbeat on antitrust ruling on MPS bid after strong quarter&nbsp;&nbsp;Reuters",
-    "[Reuters] Market analysts react to US midterm election results - Reuters - Market analysts react to US midterm election results&nbsp;&nbsp;Reuters",
-    "[Reuters] BNP Paribas shakes up investment bank management, memo says - Reuters - BNP Paribas shakes up investment bank management, memo says&nbsp;&nbsp;Reuters",
-    "[Reuters] COMMENTARY: As markets sway, safe havens shine. Except gold - Reuters - COMMENTARY: As markets sway, safe havens shine. Except gold&nbsp;&nbsp;Reuters",
-    "[Reuters] Nasdaq ends higher as AI heavyweights rebound ahead of midterm results - Reuters - Nasdaq ends higher as AI heavyweights rebound ahead of midterm results&nbsp;&nbsp;Reuters",
-    "[Semis] US Equity Futures Inch Higher as Investors Await Midterm Results - Bloomberg.com - US Equity Futures Inch Higher as Investors Await Midterm Results&nbsp;&nbsp;Bloomberg.com",
-    "[Semis] Manhattan Associates Rings the Nasdaq Stock Market Closing Bell - Nasdaq - Manhattan Associates Rings the Nasdaq Stock Market Closing Bell&nbsp;&nbsp;Nasdaq"
+    "[Reuters] Wall Street ends higher after Democrats win Congress; data center stocks tumble - Reuters - Wall Street ends higher after Democrats win Congress; data center stocks tumble&nbsp;&nbsp;Reuters",
+    "[Reuters] Indonesia stock market to publish more details on company shareholding - Reuters - Indonesia stock market to publish more details on company shareholding&nbsp;&nbsp;Reuters",
+    "[Reuters] Revolut's rise to become Europe's $115 billion big bank rival - Reuters - Revolut's rise to become Europe's $115 billion big bank rival&nbsp;&nbsp;Reuters",
+    "[Reuters] EXCLUSIVE: Chipmaker YMTC's IPO on hold as China tightens share sale approvals, sources say - Reuters - EXCLUSIVE: Chipmaker YMTC's IPO on hold as China tightens share sale approvals, sources say&nbsp;&nbsp;Reuters",
+    "[Reuters] Breakingviews - COMMENTARY: Hong Kong summit exposes Wall Street AI confusion - Reuters - Breakingviews - COMMENTARY: Hong Kong summit exposes Wall Street AI confusion&nbsp;&nbsp;Reuters",
+    "[Reuters] Indian benchmarks near three-month highs as oil slides after US Democratic win - Reuters - Indian benchmarks near three-month highs as oil slides after US Democratic win&nbsp;&nbsp;Reuters",
+    "[Reuters] COMMENTARY: Morning Bid: Tangled up in blue - Reuters - COMMENTARY: Morning Bid: Tangled up in blue&nbsp;&nbsp;Reuters",
+    "[Reuters] AstraZeneca made $10 billion offer for obesity drugmaker Rhythm, sources say - Reuters - AstraZeneca made $10 billion offer for obesity drugmaker Rhythm, sources say&nbsp;&nbsp;Reuters",
+    "[Semis] Stocks surge as ‘blue tsunami’ puts political uncertainty to rest - NBC News - Stocks surge as ‘blue tsunami’ puts political uncertainty to rest&nbsp;&nbsp;NBC News",
+    "[Semis] ProShares Rings the Nasdaq Stock Market Closing Bell - Nasdaq - ProShares Rings the Nasdaq Stock Market Closing Bell&nbsp;&nbsp;Nasdaq"
   ],
   "debug_error": ""
 }
