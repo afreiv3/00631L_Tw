@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05 13:30 (Taipei)",
+  "updated": "2026-11-05 15:51 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -4693,20 +4693,31 @@
     },
     {
       "date": "2026-11-05",
-      "time": "13:30",
-      "price": 29.32,
+      "time": "15:51",
+      "price": 29.21,
       "tier1": 25,
       "ai_index": 50.0,
       "target": 0.0,
       "zone": "red",
-      "zone_label": "⚪ 觀望（等量化≥35＋趨勢）",
+      "zone_label": "⚪ 觀望（非盤中）",
       "gate_open": false,
       "market_ok": false,
       "asset_trend_ok": false,
       "ma10_ok": false,
-      "ai_ok": false,
-      "summary": "（今日盤前判讀尚未產生，暫以中性計）",
-      "news": [],
+      "ai_ok": true,
+      "summary": "美國民主黨贏得國會選舉，華爾街股市上漲，但費城半導體指數下跌，中國晶片製造商IPO受阻，對台灣科技股構成壓力。",
+      "news": [
+        "[Reuters] Wall Street ends higher after Democrats win Congress; data center stocks tumble - Reuters - Wall Street ends higher after Democrats win Congress; data center stocks tumble&nbsp;&nbsp;Reuters",
+        "[Reuters] Indonesia stock market to publish more details on company shareholding - Reuters - Indonesia stock market to publish more details on company shareholding&nbsp;&nbsp;Reuters",
+        "[Reuters] Revolut's rise to become Europe's $115 billion big bank rival - Reuters - Revolut's rise to become Europe's $115 billion big bank rival&nbsp;&nbsp;Reuters",
+        "[Reuters] EXCLUSIVE: Chipmaker YMTC's IPO on hold as China tightens share sale approvals, sources say - Reuters - EXCLUSIVE: Chipmaker YMTC's IPO on hold as China tightens share sale approvals, sources say&nbsp;&nbsp;Reuters",
+        "[Reuters] Breakingviews - COMMENTARY: Hong Kong summit exposes Wall Street AI confusion - Reuters - Breakingviews - COMMENTARY: Hong Kong summit exposes Wall Street AI confusion&nbsp;&nbsp;Reuters",
+        "[Reuters] Indian benchmarks near three-month highs as oil slides after US Democratic win - Reuters - Indian benchmarks near three-month highs as oil slides after US Democratic win&nbsp;&nbsp;Reuters",
+        "[Reuters] COMMENTARY: Morning Bid: Tangled up in blue - Reuters - COMMENTARY: Morning Bid: Tangled up in blue&nbsp;&nbsp;Reuters",
+        "[Reuters] AstraZeneca made $10 billion offer for obesity drugmaker Rhythm, sources say - Reuters - AstraZeneca made $10 billion offer for obesity drugmaker Rhythm, sources say&nbsp;&nbsp;Reuters",
+        "[Semis] Stocks surge as ‘blue tsunami’ puts political uncertainty to rest - NBC News - Stocks surge as ‘blue tsunami’ puts political uncertainty to rest&nbsp;&nbsp;NBC News",
+        "[Semis] ProShares Rings the Nasdaq Stock Market Closing Bell - Nasdaq - ProShares Rings the Nasdaq Stock Market Closing Bell&nbsp;&nbsp;Nasdaq"
+      ],
       "paper": {
         "cash": 1012012,
         "shares": 0.0,
@@ -4739,7 +4750,7 @@
         "ai_index": 50.0,
         "target": 0.0,
         "zone": "red",
-        "zone_label": "⚪ 觀望（等量化≥35＋趨勢）",
+        "zone_label": "⚪ 觀望（非盤中）",
         "gate_open": false
       }
     }
