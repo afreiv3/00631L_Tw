@@ -1,31 +1,33 @@
 {
-  "date": "2026-11-05",
-  "generated_at": "2026-11-05 14:54",
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06 14:54",
   "model": "gemini-2.5-flash",
   "factors": {
-    "sector": 5.0,
-    "macro": 8.0,
-    "trend": 7.0
+    "sector": 1.0,
+    "macro": 4.0,
+    "trend": 2.0
   },
-  "ai_sentiment_index": 50.0,
-  "summary": "美國民主黨贏得國會選舉，華爾街股市上漲，但費城半導體指數下跌，中國晶片製造商IPO受阻，對台灣科技股構成壓力。",
+  "ai_sentiment_index": 17.5,
+  "summary": "全球科技股因對AI產業放緩的擔憂而大幅下跌，那斯達克指數進入修正，預示台灣市場今日可能面臨壓力。",
   "news_zh": [
-    "美國民主黨贏得國會，華爾街股市收高，但數據中心類股下跌。",
-    "中國收緊股票發行審批，晶片製造商長江存儲（YMTC）的IPO計畫暫緩。",
-    "費城半導體指數下跌3.13%，拖累台灣股市開盤下跌282點，台積電開盤價為新台幣2,250元。",
-    "道瓊斯期貨上漲，但科技股下跌；蘋果、微軟、亞馬遜在選舉後反彈中閃現買入信號。"
+    "那斯達克指數確認進入修正，對AI支出的擔憂日益加劇。",
+    "全球科技股暴跌，美國期中選舉結果加劇了對AI產業放緩的擔憂。",
+    "道瓊指數下跌1,800點，那斯達克指數進入修正區，抹去了期中選舉反彈的漲幅。",
+    "美國股市期貨分歧，晶片股拋售潮持續第二天。",
+    "市場對成長和通膨感到擔憂，儘管油價有所緩解。",
+    "那斯達克指數經歷18個月來最糟糕的一天，AI交易受到質疑。"
   ],
   "news": [
-    "[Reuters] Wall Street ends higher after Democrats win Congress; data center stocks tumble - Reuters - Wall Street ends higher after Democrats win Congress; data center stocks tumble&nbsp;&nbsp;Reuters",
-    "[Reuters] Indonesia stock market to publish more details on company shareholding - Reuters - Indonesia stock market to publish more details on company shareholding&nbsp;&nbsp;Reuters",
-    "[Reuters] Revolut's rise to become Europe's $115 billion big bank rival - Reuters - Revolut's rise to become Europe's $115 billion big bank rival&nbsp;&nbsp;Reuters",
-    "[Reuters] EXCLUSIVE: Chipmaker YMTC's IPO on hold as China tightens share sale approvals, sources say - Reuters - EXCLUSIVE: Chipmaker YMTC's IPO on hold as China tightens share sale approvals, sources say&nbsp;&nbsp;Reuters",
-    "[Reuters] Breakingviews - COMMENTARY: Hong Kong summit exposes Wall Street AI confusion - Reuters - Breakingviews - COMMENTARY: Hong Kong summit exposes Wall Street AI confusion&nbsp;&nbsp;Reuters",
-    "[Reuters] Indian benchmarks near three-month highs as oil slides after US Democratic win - Reuters - Indian benchmarks near three-month highs as oil slides after US Democratic win&nbsp;&nbsp;Reuters",
-    "[Reuters] COMMENTARY: Morning Bid: Tangled up in blue - Reuters - COMMENTARY: Morning Bid: Tangled up in blue&nbsp;&nbsp;Reuters",
-    "[Reuters] AstraZeneca made $10 billion offer for obesity drugmaker Rhythm, sources say - Reuters - AstraZeneca made $10 billion offer for obesity drugmaker Rhythm, sources say&nbsp;&nbsp;Reuters",
-    "[Semis] Stocks surge as ‘blue tsunami’ puts political uncertainty to rest - NBC News - Stocks surge as ‘blue tsunami’ puts political uncertainty to rest&nbsp;&nbsp;NBC News",
-    "[Semis] ProShares Rings the Nasdaq Stock Market Closing Bell - Nasdaq - ProShares Rings the Nasdaq Stock Market Closing Bell&nbsp;&nbsp;Nasdaq"
+    "[Reuters] Trading Day: A November 5 market bonfire - Reuters - Trading Day: A November 5 market bonfire&nbsp;&nbsp;Reuters",
+    "[Reuters] Phones 'explode' on Wall Street as 'steamroller' shows up for the AI trade - Reuters - Phones 'explode' on Wall Street as 'steamroller' shows up for the AI trade&nbsp;&nbsp;Reuters",
+    "[Reuters] Binance hack prompted US regulators to check in on bank systems, sources say - Reuters - Binance hack prompted US regulators to check in on bank systems, sources say&nbsp;&nbsp;Reuters",
+    "[Reuters] EXCLUSIVE: VietJet to pay lessor $250 million after court-ordered asset freeze, sources say - Reuters - EXCLUSIVE: VietJet to pay lessor $250 million after court-ordered asset freeze, sources say&nbsp;&nbsp;Reuters",
+    "[Reuters] India bucks Asia tech rout as oil slide reverses market fortunes - Reuters - India bucks Asia tech rout as oil slide reverses market fortunes&nbsp;&nbsp;Reuters",
+    "[Reuters] Markets fret over growth and inflation despite easing oil prices - Reuters - Markets fret over growth and inflation despite easing oil prices&nbsp;&nbsp;Reuters",
+    "[Reuters] Nasdaq set to confirm correction as AI spending worries mount - Reuters - Nasdaq set to confirm correction as AI spending worries mount&nbsp;&nbsp;Reuters",
+    "[Reuters] Breakingviews - COMMENTARY: Hedge funds risk crowding themselves out of favor - Reuters - Breakingviews - COMMENTARY: Hedge funds risk crowding themselves out of favor&nbsp;&nbsp;Reuters",
+    "[Semis] Nasdaq Stock Market Correction: History Says This Is What Happens Next - Yahoo Finance - Nasdaq Stock Market Correction: History Says This Is What Happens Next&nbsp;&nbsp;Yahoo Finance",
+    "[Semis] Global tech stocks plunge as US midterms add to AI slowdown fears - BBC - Global tech stocks plunge as US midterms add to AI slowdown fears&nbsp;&nbsp;BBC"
   ],
   "debug_error": ""
 }
