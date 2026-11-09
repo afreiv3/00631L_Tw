@@ -1,6 +1,6 @@
 {
   "year": "2026",
-  "count": 77,
+  "count": 78,
   "history": [
     {
       "date": "2026-07-20",
@@ -5154,6 +5154,69 @@
           "pts": 1,
           "max": 10,
           "note": "加權收39,701，較季線46,113跌幅達-13.9%，空頭結構嚴重深化；連7跌自10月高點累計逾7,330點；盤中出現長下影線（有些許低接跡象）但空頭格局未改，給1分"
+        }
+      },
+      "paper": {
+        "cash": 943864,
+        "equity": 943864,
+        "market_value": 0,
+        "return_pct": -5.61,
+        "holding": false,
+        "position": null,
+        "shares": 0,
+        "avg_cost": null,
+        "unrealized": 0,
+        "unrealized_pct": 0,
+        "trades": 15,
+        "wins": 5,
+        "win_rate": 33.3,
+        "realized_pnl": -56136
+      }
+    },
+    {
+      "date": "2026-11-09",
+      "time": "09:00",
+      "price": null,
+      "score": 43,
+      "zone": "amber",
+      "quant_sum": 30,
+      "ai_sum": 13,
+      "ai_ok": true,
+      "factors": {
+        "pattern": {
+          "pts": 10.0,
+          "max": 20,
+          "note": "盤中資料缺，型態以中性計"
+        },
+        "sector": {
+          "pts": 10,
+          "max": 20,
+          "note": "美股週五費半SOX反彈4.21%（收9,390）、TSM ADR+6.33%、NVDA+6.44%，半導體板塊技術性回彈；但週日那指期指再跌0.8%，恢復動能未穩，板塊分歧，給10分"
+        },
+        "entry": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "區間資料缺，以中性計"
+        },
+        "volume": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "量能資料缺，以中性計"
+        },
+        "vwap": {
+          "pts": 5.0,
+          "max": 10,
+          "note": "VWAP 資料缺，以中性計"
+        },
+        "macro": {
+          "pts": 3,
+          "max": 10,
+          "note": "美10Y殖利率升至4.87%（強勁就業後升溫），Fed升息週期持續（3.75-4.00%），12月仍有升息預期，CPI數據11/10公布在即，WTI單週跌12.8%引發需求疑慮，系統性風險偏高，給3分"
+        },
+        "trend": {
+          "pts": 0,
+          "max": 10,
+          "note": "台灣加權收39,701，較季線（MA60約46,415）跌幅達-14.3%，空頭結構嚴重破壞，結構完全破壞，給0分"
         }
       },
       "paper": {
