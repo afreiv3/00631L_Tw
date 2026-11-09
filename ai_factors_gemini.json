@@ -1,33 +1,33 @@
 {
-  "date": "2026-11-06",
-  "generated_at": "2026-11-06 14:54",
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09 14:43",
   "model": "gemini-2.5-flash",
   "factors": {
-    "sector": 1.0,
-    "macro": 4.0,
-    "trend": 2.0
+    "sector": 12.0,
+    "macro": 7.0,
+    "trend": 7.0
   },
-  "ai_sentiment_index": 17.5,
-  "summary": "全球科技股因對AI產業放緩的擔憂而大幅下跌，那斯達克指數進入修正，預示台灣市場今日可能面臨壓力。",
+  "ai_sentiment_index": 65.0,
+  "summary": "亞洲股市在AI和中東緊張局勢緩解下反彈，但Nvidia執行長調查消息可能對科技股造成壓力。",
   "news_zh": [
-    "那斯達克指數確認進入修正，對AI支出的擔憂日益加劇。",
-    "全球科技股暴跌，美國期中選舉結果加劇了對AI產業放緩的擔憂。",
-    "道瓊指數下跌1,800點，那斯達克指數進入修正區，抹去了期中選舉反彈的漲幅。",
-    "美國股市期貨分歧，晶片股拋售潮持續第二天。",
-    "市場對成長和通膨感到擔憂，儘管油價有所緩解。",
-    "那斯達克指數經歷18個月來最糟糕的一天，AI交易受到質疑。"
+    "中國銀行提高美元存款利率，以平抑人民幣升值。",
+    "亞洲股市因AI和中東緊張局勢緩解而反彈，美元因聯準會預期而走強。",
+    "Nvidia盤後股價下跌，因公司正在調查執行長黃仁勳。",
+    "評論指出台灣的AI護城河優於韓國的記憶體晶片策略。",
+    "半導體股在經歷拋售後，投資者描述市場恐慌。",
+    "亞洲股市面臨新壓力，因Nvidia間諜調查動搖科技板塊。"
   ],
   "news": [
-    "[Reuters] Trading Day: A November 5 market bonfire - Reuters - Trading Day: A November 5 market bonfire&nbsp;&nbsp;Reuters",
-    "[Reuters] Phones 'explode' on Wall Street as 'steamroller' shows up for the AI trade - Reuters - Phones 'explode' on Wall Street as 'steamroller' shows up for the AI trade&nbsp;&nbsp;Reuters",
-    "[Reuters] Binance hack prompted US regulators to check in on bank systems, sources say - Reuters - Binance hack prompted US regulators to check in on bank systems, sources say&nbsp;&nbsp;Reuters",
-    "[Reuters] EXCLUSIVE: VietJet to pay lessor $250 million after court-ordered asset freeze, sources say - Reuters - EXCLUSIVE: VietJet to pay lessor $250 million after court-ordered asset freeze, sources say&nbsp;&nbsp;Reuters",
-    "[Reuters] India bucks Asia tech rout as oil slide reverses market fortunes - Reuters - India bucks Asia tech rout as oil slide reverses market fortunes&nbsp;&nbsp;Reuters",
-    "[Reuters] Markets fret over growth and inflation despite easing oil prices - Reuters - Markets fret over growth and inflation despite easing oil prices&nbsp;&nbsp;Reuters",
-    "[Reuters] Nasdaq set to confirm correction as AI spending worries mount - Reuters - Nasdaq set to confirm correction as AI spending worries mount&nbsp;&nbsp;Reuters",
-    "[Reuters] Breakingviews - COMMENTARY: Hedge funds risk crowding themselves out of favor - Reuters - Breakingviews - COMMENTARY: Hedge funds risk crowding themselves out of favor&nbsp;&nbsp;Reuters",
-    "[Semis] Nasdaq Stock Market Correction: History Says This Is What Happens Next - Yahoo Finance - Nasdaq Stock Market Correction: History Says This Is What Happens Next&nbsp;&nbsp;Yahoo Finance",
-    "[Semis] Global tech stocks plunge as US midterms add to AI slowdown fears - BBC - Global tech stocks plunge as US midterms add to AI slowdown fears&nbsp;&nbsp;BBC"
+    "[Reuters] EXCLUSIVE: Chinese banks boost dollar deposit rates, sources say, as Beijing seeks to smooth yuan rally - Reuters - EXCLUSIVE: Chinese banks boost dollar deposit rates, sources say, as Beijing seeks to smooth yuan rally&nbsp;&nbsp;Reuters",
+    "[Reuters] Asian stocks bounce as AI, Mideast jitters recede; dollar firm on Fed bets - Reuters - Asian stocks bounce as AI, Mideast jitters recede; dollar firm on Fed bets&nbsp;&nbsp;Reuters",
+    "[Reuters] Indian shares edge lower as market consolidates after last week's surge - Reuters - Indian shares edge lower as market consolidates after last week's surge&nbsp;&nbsp;Reuters",
+    "[Reuters] UBS CEO says AI investors had been pricing for 'perfection' until sector's sharp correction - Reuters - UBS CEO says AI investors had been pricing for 'perfection' until sector's sharp correction&nbsp;&nbsp;Reuters",
+    "[Reuters] Credit Agricole pitches tie-up of Italian subsidiary and Banco BPM - Reuters - Credit Agricole pitches tie-up of Italian subsidiary and Banco BPM&nbsp;&nbsp;Reuters",
+    "[Reuters] Nvidia's out-of-hour shares fall as firm probes CEO Jensen Huang - Reuters - Nvidia's out-of-hour shares fall as firm probes CEO Jensen Huang&nbsp;&nbsp;Reuters",
+    "[Reuters] Breakingviews - COMMENTARY: How to stop \"securonomics\" from killing growth - Reuters - Breakingviews - COMMENTARY: How to stop \"securonomics\" from killing growth&nbsp;&nbsp;Reuters",
+    "[Reuters] COMMENTARY: Why Taiwan’s AI moat trumps South Korea's memory bet - Reuters - COMMENTARY: Why Taiwan’s AI moat trumps South Korea's memory bet&nbsp;&nbsp;Reuters",
+    "[Semis] Asian stocks steady as AI, Mideast jitters recede; dollar firm on Fed bets - Yahoo Finance - Asian stocks steady as AI, Mideast jitters recede; dollar firm on Fed bets&nbsp;&nbsp;Yahoo Finance",
+    "[Semis] Asian stocks bounce as AI, Mideast jitters recede; dollar firm on Fed bets - Reuters - Asian stocks bounce as AI, Mideast jitters recede; dollar firm on Fed bets&nbsp;&nbsp;Reuters"
   ],
   "debug_error": ""
 }
