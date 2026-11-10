@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09 15:51 (Taipei)",
+  "updated": "2026-11-10 09:00 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -5216,6 +5216,69 @@
           "pts": 3,
           "max": 10,
           "note": "加權指數從39,701反彈至42,085（估），距季線（46,415）仍差-9.3%，空頭格局未解除，僅確認超賣反彈訊號，結構修復仍需時間，給3分"
+        }
+      },
+      "paper": {
+        "cash": 943864,
+        "equity": 943864,
+        "market_value": 0,
+        "return_pct": -5.61,
+        "holding": false,
+        "position": null,
+        "shares": 0,
+        "avg_cost": null,
+        "unrealized": 0,
+        "unrealized_pct": 0,
+        "trades": 15,
+        "wins": 5,
+        "win_rate": 33.3,
+        "realized_pnl": -56136
+      }
+    },
+    {
+      "date": "2026-11-10",
+      "time": "09:00",
+      "price": null,
+      "score": 50,
+      "zone": "amber",
+      "quant_sum": 30,
+      "ai_sum": 20,
+      "ai_ok": true,
+      "factors": {
+        "pattern": {
+          "pts": 10.0,
+          "max": 20,
+          "note": "盤中資料缺，型態以中性計"
+        },
+        "sector": {
+          "pts": 15,
+          "max": 20,
+          "note": "SOX+6.85%收10,034、AVGO+8.78%，半導體板塊全面強彈；NVDA-4.27%為個別股議題（黃仁勳遭美國會調查），非板塊系統性問題，整體偏強，給15分"
+        },
+        "entry": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "區間資料缺，以中性計"
+        },
+        "volume": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "量能資料缺，以中性計"
+        },
+        "vwap": {
+          "pts": 5.0,
+          "max": 10,
+          "note": "VWAP 資料缺，以中性計"
+        },
+        "macro": {
+          "pts": 5,
+          "max": 10,
+          "note": "10Y殖利率4.87%偏高，WTI $90.83高位，今日美10月CPI盤後公布為最大不確定因子，Fed升息週期持續（12月9日FOMC），系統性風險略升溫，給5分"
+        },
+        "trend": {
+          "pts": 0,
+          "max": 10,
+          "note": "加權指數41,661距季線（約46,415）差-10.4%，市場前期在熊市格局，昨日反彈係政策護盤驅動，外資期貨空單101,771口歷史高位，結構仍偏空，給0分"
         }
       },
       "paper": {
