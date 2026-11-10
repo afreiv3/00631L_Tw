@@ -1,33 +1,33 @@
 {
-  "date": "2026-11-09",
-  "generated_at": "2026-11-09 14:43",
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10 15:24",
   "model": "gemini-2.5-flash",
   "factors": {
-    "sector": 12.0,
+    "sector": 15.0,
     "macro": 7.0,
     "trend": 7.0
   },
-  "ai_sentiment_index": 65.0,
-  "summary": "亞洲股市在AI和中東緊張局勢緩解下反彈，但Nvidia執行長調查消息可能對科技股造成壓力。",
+  "ai_sentiment_index": 72.5,
+  "summary": "儘管對AI債務的擔憂和Nvidia的下跌，科技股仍將主導美國股市走勢，而日本投資者轉為外國債券的淨買家，顯示出市場的複雜情緒。",
   "news_zh": [
-    "中國銀行提高美元存款利率，以平抑人民幣升值。",
-    "亞洲股市因AI和中東緊張局勢緩解而反彈，美元因聯準會預期而走強。",
-    "Nvidia盤後股價下跌，因公司正在調查執行長黃仁勳。",
-    "評論指出台灣的AI護城河優於韓國的記憶體晶片策略。",
-    "半導體股在經歷拋售後，投資者描述市場恐慌。",
-    "亞洲股市面臨新壓力，因Nvidia間諜調查動搖科技板塊。"
+    "路透社：市場動盪考驗日本央行對金融狀況的樂觀看法。",
+    "路透社：日本投資者三個月來首次成為外國債券的淨買家。",
+    "路透社：儘管AI驅動的下跌，科技股仍將影響美國股市走向。",
+    "路透社：銀行和投資者對AI債務日益警惕，受市場拋售驚嚇。",
+    "Semis：納斯達克指數：超賣科技股引領美國股市劇烈反彈。",
+    "Semis：科技股的劇烈下跌將避免20%的回調。"
   ],
   "news": [
-    "[Reuters] EXCLUSIVE: Chinese banks boost dollar deposit rates, sources say, as Beijing seeks to smooth yuan rally - Reuters - EXCLUSIVE: Chinese banks boost dollar deposit rates, sources say, as Beijing seeks to smooth yuan rally&nbsp;&nbsp;Reuters",
-    "[Reuters] Asian stocks bounce as AI, Mideast jitters recede; dollar firm on Fed bets - Reuters - Asian stocks bounce as AI, Mideast jitters recede; dollar firm on Fed bets&nbsp;&nbsp;Reuters",
-    "[Reuters] Indian shares edge lower as market consolidates after last week's surge - Reuters - Indian shares edge lower as market consolidates after last week's surge&nbsp;&nbsp;Reuters",
-    "[Reuters] UBS CEO says AI investors had been pricing for 'perfection' until sector's sharp correction - Reuters - UBS CEO says AI investors had been pricing for 'perfection' until sector's sharp correction&nbsp;&nbsp;Reuters",
-    "[Reuters] Credit Agricole pitches tie-up of Italian subsidiary and Banco BPM - Reuters - Credit Agricole pitches tie-up of Italian subsidiary and Banco BPM&nbsp;&nbsp;Reuters",
-    "[Reuters] Nvidia's out-of-hour shares fall as firm probes CEO Jensen Huang - Reuters - Nvidia's out-of-hour shares fall as firm probes CEO Jensen Huang&nbsp;&nbsp;Reuters",
-    "[Reuters] Breakingviews - COMMENTARY: How to stop \"securonomics\" from killing growth - Reuters - Breakingviews - COMMENTARY: How to stop \"securonomics\" from killing growth&nbsp;&nbsp;Reuters",
-    "[Reuters] COMMENTARY: Why Taiwan’s AI moat trumps South Korea's memory bet - Reuters - COMMENTARY: Why Taiwan’s AI moat trumps South Korea's memory bet&nbsp;&nbsp;Reuters",
-    "[Semis] Asian stocks steady as AI, Mideast jitters recede; dollar firm on Fed bets - Yahoo Finance - Asian stocks steady as AI, Mideast jitters recede; dollar firm on Fed bets&nbsp;&nbsp;Yahoo Finance",
-    "[Semis] Asian stocks bounce as AI, Mideast jitters recede; dollar firm on Fed bets - Reuters - Asian stocks bounce as AI, Mideast jitters recede; dollar firm on Fed bets&nbsp;&nbsp;Reuters"
+    "[Reuters] Market rout tests BOJ's upbeat view of financial conditions - Reuters - Market rout tests BOJ's upbeat view of financial conditions&nbsp;&nbsp;Reuters",
+    "[Reuters] Japanese investors become net buyers of foreign bonds for the first time in three months - Reuters - Japanese investors become net buyers of foreign bonds for the first time in three months&nbsp;&nbsp;Reuters",
+    "[Reuters] COMMENTARY: Europe's shrinking flexible power cushion leaves Germany exposed - Reuters - COMMENTARY: Europe's shrinking flexible power cushion leaves Germany exposed&nbsp;&nbsp;Reuters",
+    "[Reuters] Tech set to still sway US stock market's course despite AI-driven swoon - Reuters - Tech set to still sway US stock market's course despite AI-driven swoon&nbsp;&nbsp;Reuters",
+    "[Reuters] Banks, investors grow wary of AI debt, spooked by market selloff - Reuters - Banks, investors grow wary of AI debt, spooked by market selloff&nbsp;&nbsp;Reuters",
+    "[Reuters] Trump administration's embrace of \"perp\" futures sets off risk alarms for Wall Street stalwarts - Reuters - Trump administration's embrace of \"perp\" futures sets off risk alarms for Wall Street stalwarts&nbsp;&nbsp;Reuters",
+    "[Reuters] Lucid expands credit line from top investor by $1.75 billion amid turnaround - Reuters - Lucid expands credit line from top investor by $1.75 billion amid turnaround&nbsp;&nbsp;Reuters",
+    "[Reuters] Wall St jumps as oil slide cools inflation worries; Nvidia slumps - Reuters - Wall St jumps as oil slide cools inflation worries; Nvidia slumps&nbsp;&nbsp;Reuters",
+    "[Semis] Jazz Pharmaceuticals Rings the Nasdaq Stock Market Closing Bell - Nasdaq - Jazz Pharmaceuticals Rings the Nasdaq Stock Market Closing Bell&nbsp;&nbsp;Nasdaq",
+    "[Semis] Stock Market Today, Nov. 9: Markets Rally as Semiconductor Gains Lift Nasdaq - The Motley Fool - Stock Market Today, Nov. 9: Markets Rally as Semiconductor Gains Lift Nasdaq&nbsp;&nbsp;The Motley Fool"
   ],
   "debug_error": ""
 }
