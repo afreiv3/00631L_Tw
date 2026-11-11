@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11 13:30 (Taipei)",
+  "updated": "2026-11-11 15:41 (Taipei)",
   "history": [
     {
       "date": "2026-09-07",
@@ -2676,19 +2676,30 @@
     },
     {
       "date": "2026-11-11",
-      "time": "13:30",
-      "price": 32.26,
-      "tier1": 30,
-      "ai_index": 50.0,
+      "time": "15:41",
+      "price": 32.53,
+      "tier1": 45,
+      "ai_index": 25.0,
       "target": 0.0,
       "zone": "red",
-      "zone_label": "⚪ 觀望（等量化≥35＋趨勢）",
+      "zone_label": "⚪ 今日已交易過",
       "gate_open": false,
       "market_ok": false,
       "asset_trend_ok": false,
-      "ai_ok": false,
-      "summary": "（今日盤前判讀尚未產生，暫以中性計）",
-      "news": [],
+      "ai_ok": true,
+      "summary": "美國通膨數據高於預期，聯準會升息擔憂加劇，導致華爾街股市下跌，科技股，特別是AI相關股票面臨壓力，預計將對台灣市場產生負面影響。",
+      "news": [
+        "[Reuters] EXCLUSIVE: Nomura weighs rebuilding its Hong Kong equity capital markets business, sources say - Reuters - EXCLUSIVE: Nomura weighs rebuilding its Hong Kong equity capital markets business, sources say&nbsp;&nbsp;Reuters",
+        "[Reuters] CFTC warns prediction market Kalshi of imminent charges, source says - Reuters - CFTC warns prediction market Kalshi of imminent charges, source says&nbsp;&nbsp;Reuters",
+        "[Reuters] Nvidia selloff deepens, adding to AI jitters - Reuters - Nvidia selloff deepens, adding to AI jitters&nbsp;&nbsp;Reuters",
+        "[Reuters] Wall St ends lower as hot inflation data, Fed comments heighten rate worries - Reuters - Wall St ends lower as hot inflation data, Fed comments heighten rate worries&nbsp;&nbsp;Reuters",
+        "[Reuters] EXCLUSIVE: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor - Reuters - EXCLUSIVE: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor&nbsp;&nbsp;Reuters",
+        "[Reuters] Microsoft tops Nvidia's market cap for first time since June 2025 - Reuters - Microsoft tops Nvidia's market cap for first time since June 2025&nbsp;&nbsp;Reuters",
+        "[Reuters] What got more expensive for US consumers in October? - Reuters - What got more expensive for US consumers in October?&nbsp;&nbsp;Reuters",
+        "[Reuters] Venture Global raises profit forecast, expands push into AI data center market - Reuters - Venture Global raises profit forecast, expands push into AI data center market&nbsp;&nbsp;Reuters",
+        "[Semis] Heartland Express Rings the Nasdaq Stock Market Closing Bell - Nasdaq - Heartland Express Rings the Nasdaq Stock Market Closing Bell&nbsp;&nbsp;Nasdaq",
+        "[Semis] Fed’s Bowman Warns of Stock Correction If AI Bets Don’t Pan Out - Bloomberg.com - Fed’s Bowman Warns of Stock Correction If AI Bets Don’t Pan Out&nbsp;&nbsp;Bloomberg.com"
+      ],
       "paper": {
         "cash": 986962,
         "shares": 0.0,
@@ -2716,11 +2727,11 @@
         "cooldown_remaining": 0,
         "last_action": "SELL",
         "last_action_reason": "DATA_INVALID_NO_TRADE",
-        "tier1": 30,
-        "ai_index": 50.0,
+        "tier1": 45,
+        "ai_index": 25.0,
         "target": 0.0,
         "zone": "red",
-        "zone_label": "⚪ 觀望（等量化≥35＋趨勢）",
+        "zone_label": "⚪ 今日已交易過",
         "gate_open": false
       }
     }
