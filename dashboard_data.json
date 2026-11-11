@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10 16:17 (Taipei)",
+  "updated": "2026-11-11 09:00 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -5279,6 +5279,69 @@
           "pts": 3,
           "max": 10,
           "note": "加權42,632距季線（約46,300，估）差-7.9%，較前日-10.4%改善，連兩日政策護盤反彈但外資連9日賣超未止、期貨空單歷史高位，結構修復初步但不穩固，給3分"
+        }
+      },
+      "paper": {
+        "cash": 943864,
+        "equity": 943864,
+        "market_value": 0,
+        "return_pct": -5.61,
+        "holding": false,
+        "position": null,
+        "shares": 0,
+        "avg_cost": null,
+        "unrealized": 0,
+        "unrealized_pct": 0,
+        "trades": 15,
+        "wins": 5,
+        "win_rate": 33.3,
+        "realized_pnl": -56136
+      }
+    },
+    {
+      "date": "2026-11-11",
+      "time": "09:00",
+      "price": null,
+      "score": 45,
+      "zone": "amber",
+      "quant_sum": 30,
+      "ai_sum": 15,
+      "ai_ok": true,
+      "factors": {
+        "pattern": {
+          "pts": 10.0,
+          "max": 20,
+          "note": "盤中資料缺，型態以中性計"
+        },
+        "sector": {
+          "pts": 10,
+          "max": 20,
+          "note": "板塊分歧：TSM ADR隔夜+2.0%至$396.49正向，但NVDA -5.47%重挫拖累SOX整體（估下跌2-4%，Yahoo 403無法確認），半導體個股走勢分裂，整體偏中性，給10分"
+        },
+        "entry": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "區間資料缺，以中性計"
+        },
+        "volume": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "量能資料缺，以中性計"
+        },
+        "vwap": {
+          "pts": 5.0,
+          "max": 10,
+          "note": "VWAP 資料缺，以中性計"
+        },
+        "macro": {
+          "pts": 2,
+          "max": 10,
+          "note": "CPI超預期（headline+0.4%、core+0.3%），10Y殖利率飆至近5%（4.93-5.02%），12月升息97%確定，50bp討論重啟，系統性通膨風險顯著升溫，給2分"
+        },
+        "trend": {
+          "pts": 3,
+          "max": 10,
+          "note": "加權42,712距季線（估46,300，Yahoo 403）差-7.7%，外資連9日賣超、期貨逆價差88.92點、空單逾10萬口，結構弱，短期反彈仍未修復趨勢，給3分"
         }
       },
       "paper": {
