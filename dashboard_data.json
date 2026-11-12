@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12 11:30 (Taipei)",
+  "updated": "2026-11-12 11:45 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -5363,18 +5363,18 @@
     },
     {
       "date": "2026-11-12",
-      "time": "11:30",
-      "price": 32.74,
-      "score": 71,
-      "zone": "green",
-      "quant_sum": 45,
+      "time": "11:45",
+      "price": 32.35,
+      "score": 58,
+      "zone": "amber",
+      "quant_sum": 32,
       "ai_sum": 26,
       "ai_ok": true,
       "factors": {
         "pattern": {
-          "pts": 20,
+          "pts": 10.0,
           "max": 20,
-          "note": "現價守在開盤之上(開+0.1%) → 有利"
+          "note": "開+0.1%、小幅回落，型態中性"
         },
         "sector": {
           "pts": 18,
@@ -5382,9 +5382,9 @@
           "note": "SOX隔夜+7.32%至10,730，TSM ADR+4.25%至$413.35、AVGO+4.08%、NVDA+2.87%，AI交易因CoreWeave財報全面回溫，半導體板塊強勢；微扣分：NVDA被Baird降評且11/17財報壓力仍在。"
         },
         "entry": {
-          "pts": 0,
+          "pts": 7.5,
           "max": 15,
-          "note": "現價在區間上緣(77%) → 屬追高"
+          "note": "現價在區間中段(39%)"
         },
         "volume": {
           "pts": 15,
@@ -5392,9 +5392,9 @@
           "note": "推估量約均量1.1倍 → 正常"
         },
         "vwap": {
-          "pts": 10,
+          "pts": 0,
           "max": 10,
-          "note": "現價在VWAP之上(+0.52%) → 有利"
+          "note": "現價在VWAP之下(-0.66%) → 弱勢"
         },
         "macro": {
           "pts": 3,
@@ -5409,9 +5409,9 @@
       },
       "paper": {
         "cash": 660321,
-        "equity": 941656,
-        "market_value": 281335,
-        "return_pct": -5.83,
+        "equity": 938304,
+        "market_value": 277984,
+        "return_pct": -6.17,
         "holding": true,
         "position": {
           "shares": 8593,
@@ -5424,8 +5424,8 @@
         },
         "shares": 8593,
         "avg_cost": 32.95,
-        "unrealized": -2208,
-        "unrealized_pct": -0.78,
+        "unrealized": -5559,
+        "unrealized_pct": -1.96,
         "trades": 15,
         "wins": 5,
         "win_rate": 33.3,
