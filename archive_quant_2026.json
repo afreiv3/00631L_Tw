@@ -1,6 +1,6 @@
 {
   "year": "2026",
-  "count": 80,
+  "count": 81,
   "history": [
     {
       "date": "2026-07-20",
@@ -5343,6 +5343,69 @@
           "pts": 5,
           "max": 10,
           "note": "加權43,385為三連漲，三日累計約+9.3%反彈；但仍距季線(~46,300)差-6.3%，外資持續賣超，結構修復中給5分"
+        }
+      },
+      "paper": {
+        "cash": 943864,
+        "equity": 943864,
+        "market_value": 0,
+        "return_pct": -5.61,
+        "holding": false,
+        "position": null,
+        "shares": 0,
+        "avg_cost": null,
+        "unrealized": 0,
+        "unrealized_pct": 0,
+        "trades": 15,
+        "wins": 5,
+        "win_rate": 33.3,
+        "realized_pnl": -56136
+      }
+    },
+    {
+      "date": "2026-11-12",
+      "time": "09:00",
+      "price": null,
+      "score": 56,
+      "zone": "amber",
+      "quant_sum": 30,
+      "ai_sum": 26,
+      "ai_ok": true,
+      "factors": {
+        "pattern": {
+          "pts": 10.0,
+          "max": 20,
+          "note": "盤中資料缺，型態以中性計"
+        },
+        "sector": {
+          "pts": 18,
+          "max": 20,
+          "note": "SOX隔夜+7.32%至10,730，TSM ADR+4.25%至$413.35、AVGO+4.08%、NVDA+2.87%，AI交易因CoreWeave財報全面回溫，半導體板塊強勢；微扣分：NVDA被Baird降評且11/17財報壓力仍在。"
+        },
+        "entry": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "區間資料缺，以中性計"
+        },
+        "volume": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "量能資料缺，以中性計"
+        },
+        "vwap": {
+          "pts": 5.0,
+          "max": 10,
+          "note": "VWAP 資料缺，以中性計"
+        },
+        "macro": {
+          "pts": 3,
+          "max": 10,
+          "note": "美10Y殖利率逼近5%(4.99%)，10月CPI核心月增0.3%超預期，Fed 12月加息概率80%；WTI$86.04(-0.9%)略穩；但通膨壓力高位、Fed緊縮風險升溫，系統性風險偏高。"
+        },
+        "trend": {
+          "pts": 5,
+          "max": 10,
+          "note": "加權11/11收44,257(+3.62%)，較季線(估~46,300)仍低約-4.4%；外資期貨空單逾10.4萬口，半年線挑戰持續，結構修復中但尚未站回季線。"
         }
       },
       "paper": {
