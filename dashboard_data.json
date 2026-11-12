@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12 12:00 (Taipei)",
+  "updated": "2026-11-12 12:15 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -5363,11 +5363,11 @@
     },
     {
       "date": "2026-11-12",
-      "time": "12:00",
-      "price": 32.4,
-      "score": 58,
+      "time": "12:15",
+      "price": 32.0,
+      "score": 66,
       "zone": "amber",
-      "quant_sum": 32,
+      "quant_sum": 40,
       "ai_sum": 26,
       "ai_ok": true,
       "factors": {
@@ -5382,9 +5382,9 @@
           "note": "SOX隔夜+7.32%至10,730，TSM ADR+4.25%至$413.35、AVGO+4.08%、NVDA+2.87%，AI交易因CoreWeave財報全面回溫，半導體板塊強勢；微扣分：NVDA被Baird降評且11/17財報壓力仍在。"
         },
         "entry": {
-          "pts": 7.5,
+          "pts": 15,
           "max": 15,
-          "note": "現價在區間中段(44%)"
+          "note": "現價近今日低點(區間5%) → 接近支撐"
         },
         "volume": {
           "pts": 15,
@@ -5394,7 +5394,7 @@
         "vwap": {
           "pts": 0,
           "max": 10,
-          "note": "現價在VWAP之下(-0.47%) → 弱勢"
+          "note": "現價在VWAP之下(-1.60%) → 弱勢"
         },
         "macro": {
           "pts": 3,
@@ -5409,9 +5409,9 @@
       },
       "paper": {
         "cash": 660321,
-        "equity": 938734,
-        "market_value": 278413,
-        "return_pct": -6.13,
+        "equity": 935297,
+        "market_value": 274976,
+        "return_pct": -6.47,
         "holding": true,
         "position": {
           "shares": 8593,
@@ -5424,8 +5424,8 @@
         },
         "shares": 8593,
         "avg_cost": 32.95,
-        "unrealized": -5130,
-        "unrealized_pct": -1.81,
+        "unrealized": -8567,
+        "unrealized_pct": -3.02,
         "trades": 15,
         "wins": 5,
         "win_rate": 33.3,
