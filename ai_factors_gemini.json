@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-12",
-  "generated_at": "2026-11-12 15:17",
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13 14:51",
   "model": "gemini-2.5-flash",
   "factors": {
     "sector": 12.0,
@@ -8,26 +8,26 @@
     "trend": 6.0
   },
   "ai_sentiment_index": 62.5,
-  "summary": "儘管歐洲股市受AI樂觀情緒推動創下新高，但Nvidia領導層危機和美國市場震盪的跡象，以及油價下跌，顯示今日台灣盤前環境存在不確定性。",
+  "summary": "儘管Nvidia執行長變動引發科技股波動，但零售買盤限制跌幅，且整體市場對聯準會升息的擔憂持續。",
   "news_zh": [
-    "油價下跌超過1美元，因地緣政治擔憂緩解和供應過剩。",
-    "Nvidia股價盤後下跌8%，因有報導稱董事會可能罷免執行長黃仁勳。",
-    "美國市場震盪後，有跡象表明最壞情況尚未結束。",
-    "歐洲股市受西門子和CoreWeave帶來的AI樂觀情緒推動，創下收盤新高。",
-    "CoreWeave股價飆升25%，重新點燃AI交易熱潮，那斯達克指數大漲。",
-    "那斯達克期貨下跌，因Nvidia在黃仁勳可能被罷免的報導後大跌8%。"
+    "Nvidia執行長黃仁勳意外離職，華爾街科技股下跌，但競爭對手股價上漲。",
+    "零售買盤限制了Nvidia股票的跌勢。",
+    "聯準會收緊政策可能導致股市出現中期調整。",
+    "道瓊期貨在經歷韌性交易後上漲，AMD和Arista被視為買入機會。",
+    "美國財政部七月買入日圓；聯準會第三季未進行單獨外匯干預。",
+    "中國股市的支撐措施可能導致市場失靈。"
   ],
   "news": [
-    "[Reuters] Oil falls over $1 on easing geopolitical fears and oversupply worries - Reuters - Oil falls over $1 on easing geopolitical fears and oversupply worries&nbsp;&nbsp;Reuters",
-    "[Reuters] Morning Bid: Jensen hangs on as Nvidia tumbles - Reuters - Morning Bid: Jensen hangs on as Nvidia tumbles&nbsp;&nbsp;Reuters",
-    "[Reuters] After US market shake-out, signs suggest too soon to say worst is over - Reuters - After US market shake-out, signs suggest too soon to say worst is over&nbsp;&nbsp;Reuters",
-    "[Reuters] Polymarket cuts jobs, contracts as prediction market competition heats up - Reuters - Polymarket cuts jobs, contracts as prediction market competition heats up&nbsp;&nbsp;Reuters",
-    "[Reuters] European shares log record close on Siemens, CoreWeave-fueled AI optimism - Reuters - European shares log record close on Siemens, CoreWeave-fueled AI optimism&nbsp;&nbsp;Reuters",
-    "[Reuters] Exxon files legal challenge to EU carbon capture law, FT reports - Reuters - Exxon files legal challenge to EU carbon capture law, FT reports&nbsp;&nbsp;Reuters",
-    "[Reuters] Nvidia board meets to decide CEO Huang's future as leadership crisis deepens - Reuters - Nvidia board meets to decide CEO Huang's future as leadership crisis deepens&nbsp;&nbsp;Reuters",
-    "[Reuters] Instant View: Nvidia board meets to decide CEO Huang's future, source says - Reuters - Instant View: Nvidia board meets to decide CEO Huang's future, source says&nbsp;&nbsp;Reuters",
-    "[Semis] Stock Market Today, Nov. 11: Stock Market Today, Nov. 11: Nasdaq Surges as CoreWeave's 25% Rally Reignites the AI Trade - The Motley Fool - Stock Market Today, Nov. 11: Stock Market Today, Nov. 11: Nasdaq Surges as CoreWeave's 25% Rally Reignites the AI Trade&nbsp;&nbsp;The Motley Fool",
-    "[Semis] Stock Market Today: Major Indexes Pare Earlier Gains But Finish Trading Day Solidly Higher - Investor's Business Daily - Stock Market Today: Major Indexes Pare Earlier Gains But Finish Trading Day Solidly Higher&nbsp;&nbsp;Investor's Business Daily"
+    "[Reuters] Breakingviews - COMMENTARY: China's stock backstop risks market misfire - Reuters - Breakingviews - COMMENTARY: China's stock backstop risks market misfire&nbsp;&nbsp;Reuters",
+    "[Reuters] Kalshi in talks to raise funds at $65 billion valuation for compute futures platform, source says - Reuters - Kalshi in talks to raise funds at $65 billion valuation for compute futures platform, source says&nbsp;&nbsp;Reuters",
+    "[Reuters] Retail buyers limit Nvidia stock rout - Reuters - Retail buyers limit Nvidia stock rout&nbsp;&nbsp;Reuters",
+    "[Reuters] CD&R, GTCR drop pursuit of Global Payments, sources say - Reuters - CD&R, GTCR drop pursuit of Global Payments, sources say&nbsp;&nbsp;Reuters",
+    "[Reuters] Intesa criticises Italy for bank levies in 2027 budget, says ECB may intervene - Reuters - Intesa criticises Italy for bank levies in 2027 budget, says ECB may intervene&nbsp;&nbsp;Reuters",
+    "[Reuters] EXCLUSIVE: Kalshi says it ended Donald Trump Jr's advisory contract over Polymarket conflict - Reuters - EXCLUSIVE: Kalshi says it ended Donald Trump Jr's advisory contract over Polymarket conflict&nbsp;&nbsp;Reuters",
+    "[Reuters] US Treasury bought yen in July; Fed made no solo FX interventions in Q3 - Reuters - US Treasury bought yen in July; Fed made no solo FX interventions in Q3&nbsp;&nbsp;Reuters",
+    "[Reuters] Colette Kress, the CFO who challenged Huang's bets, is Nvidia's interim CEO - Reuters - Colette Kress, the CFO who challenged Huang's bets, is Nvidia's interim CEO&nbsp;&nbsp;Reuters",
+    "[Semis] Mid-cycle correction in the stock market ahead as Fed tightens: CEO - CNBC - Mid-cycle correction in the stock market ahead as Fed tightens: CEO&nbsp;&nbsp;CNBC",
+    "[Semis] Q&A: How Nasdaq Supports the IPO Process - Nasdaq - Q&A: How Nasdaq Supports the IPO Process&nbsp;&nbsp;Nasdaq"
   ],
   "debug_error": ""
 }
