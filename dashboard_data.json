@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12 16:11 (Taipei)",
+  "updated": "2026-11-13 09:01 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -5426,6 +5426,77 @@
         "avg_cost": 32.95,
         "unrealized": -17246,
         "unrealized_pct": -6.08,
+        "trades": 15,
+        "wins": 5,
+        "win_rate": 33.3,
+        "realized_pnl": -56136
+      }
+    },
+    {
+      "date": "2026-11-13",
+      "time": "09:01",
+      "price": null,
+      "score": 40,
+      "zone": "amber",
+      "quant_sum": 30,
+      "ai_sum": 10,
+      "ai_ok": true,
+      "factors": {
+        "pattern": {
+          "pts": 10.0,
+          "max": 20,
+          "note": "盤中資料缺，型態以中性計"
+        },
+        "sector": {
+          "pts": 7,
+          "max": 20,
+          "note": "NVDA CEO黃仁勳傳辭職，NVDA 11/12下跌約3-4%，TSM ADR下跌約2%；SOX收約10,507(-0.6%)；AVGO逆漲+5.54%，半導體板塊分歧偏弱，給7分"
+        },
+        "entry": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "區間資料缺，以中性計"
+        },
+        "volume": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "量能資料缺，以中性計"
+        },
+        "vwap": {
+          "pts": 5.0,
+          "max": 10,
+          "note": "VWAP 資料缺，以中性計"
+        },
+        "macro": {
+          "pts": 0,
+          "max": 10,
+          "note": "美10Y殖利率升破5.10-5.125%(+13bps)，CPI超預期推動Fed 12月升息機率達100%，WTI原油漲2.9%至$89.36，宏觀緊縮風險全面升溫，給0分"
+        },
+        "trend": {
+          "pts": 3,
+          "max": 10,
+          "note": "台股11/12收43,091，低於季線(估~46,300)逾7.4%；延續跌勢、外資期貨淨空單約99,573口，大盤結構明顯轉弱，給3分"
+        }
+      },
+      "paper": {
+        "cash": 660321,
+        "equity": 660321,
+        "market_value": 0,
+        "return_pct": -33.97,
+        "holding": true,
+        "position": {
+          "shares": 8593,
+          "entry_price": 32.95,
+          "entry_date": "2026-11-12",
+          "entry_time": "10:45",
+          "cost": 283542.82,
+          "entry_score": 71,
+          "frac": 0.3
+        },
+        "shares": 8593,
+        "avg_cost": 32.95,
+        "unrealized": -283543,
+        "unrealized_pct": -100.0,
         "trades": 15,
         "wins": 5,
         "win_rate": 33.3,
