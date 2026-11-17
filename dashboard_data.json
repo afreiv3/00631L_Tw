@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16 15:52 (Taipei)",
+  "updated": "2026-11-17 09:00 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -5539,6 +5539,69 @@
           "pts": 3,
           "max": 10,
           "note": "TWII估收~44,056仍在季線(~46,215)下方約4.7%，外資期貨淨空單龐大，今日V型收紅略改善短線情緒但中線結構仍空，給3分"
+        }
+      },
+      "paper": {
+        "cash": 940973,
+        "equity": 940973,
+        "market_value": 0,
+        "return_pct": -5.9,
+        "holding": false,
+        "position": null,
+        "shares": 0,
+        "avg_cost": null,
+        "unrealized": 0,
+        "unrealized_pct": 0,
+        "trades": 16,
+        "wins": 5,
+        "win_rate": 31.2,
+        "realized_pnl": -59027
+      }
+    },
+    {
+      "date": "2026-11-17",
+      "time": "09:00",
+      "price": null,
+      "score": 30,
+      "zone": "red",
+      "quant_sum": 30,
+      "ai_sum": 0,
+      "ai_ok": true,
+      "factors": {
+        "pattern": {
+          "pts": 10.0,
+          "max": 20,
+          "note": "盤中資料缺，型態以中性計"
+        },
+        "sector": {
+          "pts": 0,
+          "max": 20,
+          "note": "SOX -4.72%、AVGO -4.29%、NVDA -2.28%隔夜全面重挫，黃仁勳辭職引爆AI信心崩潰，半導體板塊明確轉弱，給0分"
+        },
+        "entry": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "區間資料缺，以中性計"
+        },
+        "volume": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "量能資料缺，以中性計"
+        },
+        "vwap": {
+          "pts": 5.0,
+          "max": 10,
+          "note": "VWAP 資料缺，以中性計"
+        },
+        "macro": {
+          "pts": 0,
+          "max": 10,
+          "note": "10Y殖利率升至5.17%、Fed 12月升息機率100%、中東地緣風險升溫（伊朗/巴林/沙特），系統性風險高度升溫，給0分"
+        },
+        "trend": {
+          "pts": 0,
+          "max": 10,
+          "note": "TWII 41040跌破季線(~46165)逾11%，11/16為史上第二大單日跌點，大盤結構嚴重轉弱，年線39212為最後防線，給0分"
         }
       },
       "paper": {
