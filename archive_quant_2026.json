@@ -1,6 +1,6 @@
 {
   "year": "2026",
-  "count": 84,
+  "count": 85,
   "history": [
     {
       "date": "2026-07-20",
@@ -5603,6 +5603,69 @@
           "pts": 3,
           "max": 10,
           "note": "TWII收40,092，在季線（~46,165）下方13%、年線（~39,212）上方2.2%；V轉後年線守住為唯一正面訊號，但連兩日大跌、外資持續出走，大盤結構嚴重偏弱"
+        }
+      },
+      "paper": {
+        "cash": 940973,
+        "equity": 940973,
+        "market_value": 0,
+        "return_pct": -5.9,
+        "holding": false,
+        "position": null,
+        "shares": 0,
+        "avg_cost": null,
+        "unrealized": 0,
+        "unrealized_pct": 0,
+        "trades": 16,
+        "wins": 5,
+        "win_rate": 31.2,
+        "realized_pnl": -59027
+      }
+    },
+    {
+      "date": "2026-11-18",
+      "time": "09:00",
+      "price": null,
+      "score": 45,
+      "zone": "amber",
+      "quant_sum": 30,
+      "ai_sum": 15,
+      "ai_ok": true,
+      "factors": {
+        "pattern": {
+          "pts": 10.0,
+          "max": 20,
+          "note": "盤中資料缺，型態以中性計"
+        },
+        "sector": {
+          "pts": 12,
+          "max": 20,
+          "note": "NVDA Q3財報大超（收入$115.8B/+103% YoY），Nasdaq-100期貨+1.4%，半導體板塊盤前有修復跡象；但TSM ADR因美晶片出口新規再跌3-4%，板塊走向分歧，偏向修復但未全面轉強"
+        },
+        "entry": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "區間資料缺，以中性計"
+        },
+        "volume": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "量能資料缺，以中性計"
+        },
+        "vwap": {
+          "pts": 5.0,
+          "max": 10,
+          "note": "VWAP 資料缺，以中性計"
+        },
+        "macro": {
+          "pts": 3,
+          "max": 10,
+          "note": "美10Y殖利率5.14%突破5%，Fed 12月加息預期>80%，系統性壓力仍高；WTI油價查不到，以中性計；NVDA財報超預期略舒緩情緒但無法化解利率壓力"
+        },
+        "trend": {
+          "pts": 0,
+          "max": 10,
+          "note": "加權11/17收40,092，季線（約46,165）下方約-13.5%，外資期貨空單逼近97,900口，大盤結構嚴重偏弱，遠低於季線"
         }
       },
       "paper": {
