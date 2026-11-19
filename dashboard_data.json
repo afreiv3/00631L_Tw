@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18 16:26 (Taipei)",
+  "updated": "2026-11-19 09:00 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -5665,6 +5665,69 @@
           "pts": 2,
           "max": 10,
           "note": "加權收40,194，季線（約46,165）下方-13.5%，外資12月空單逾11.3萬口；結算日守住4萬整數略優於預期，但結構嚴重偏弱，給2分"
+        }
+      },
+      "paper": {
+        "cash": 940973,
+        "equity": 940973,
+        "market_value": 0,
+        "return_pct": -5.9,
+        "holding": false,
+        "position": null,
+        "shares": 0,
+        "avg_cost": null,
+        "unrealized": 0,
+        "unrealized_pct": 0,
+        "trades": 16,
+        "wins": 5,
+        "win_rate": 31.2,
+        "realized_pnl": -59027
+      }
+    },
+    {
+      "date": "2026-11-19",
+      "time": "09:00",
+      "price": null,
+      "score": 45,
+      "zone": "amber",
+      "quant_sum": 30,
+      "ai_sum": 15,
+      "ai_ok": true,
+      "factors": {
+        "pattern": {
+          "pts": 10.0,
+          "max": 20,
+          "note": "盤中資料缺，型態以中性計"
+        },
+        "sector": {
+          "pts": 10,
+          "max": 20,
+          "note": "SOX11/18小漲+0.1%至約9,652，AVGO+2.1%、TSM ADR+2%、AMD+5%正面；但NVDA財報後收-2.89%，市場反應偏冷，半導體板塊多空分歧，給10分"
+        },
+        "entry": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "區間資料缺，以中性計"
+        },
+        "volume": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "量能資料缺，以中性計"
+        },
+        "vwap": {
+          "pts": 5.0,
+          "max": 10,
+          "note": "VWAP 資料缺，以中性計"
+        },
+        "macro": {
+          "pts": 3,
+          "max": 10,
+          "note": "FOMC 10月紀要鷹派、12月升息機率約95%，10Y殖利率5.07%突破5%，S&P500連五跌，WTI約$85-86（查不到確切11/18收盤，以中性偏高估）；系統性風險升溫，給3分"
+        },
+        "trend": {
+          "pts": 2,
+          "max": 10,
+          "note": "加權收40,194，季線（約46,100）下方-12.9%，台指期夜盤39,792（-0.55%）再滑，外資12月空單逾11.3萬口；守住4萬略優預期但結構嚴重偏弱，給2分"
         }
       },
       "paper": {
