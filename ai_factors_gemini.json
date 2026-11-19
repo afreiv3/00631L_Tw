@@ -1,32 +1,33 @@
 {
-  "date": "2026-11-18",
-  "generated_at": "2026-11-18 15:36",
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19 15:31",
   "model": "gemini-2.5-flash",
   "factors": {
-    "sector": 17.0,
-    "macro": 8.0,
-    "trend": 9.0
+    "sector": 12.0,
+    "macro": 5.0,
+    "trend": 6.0
   },
-  "ai_sentiment_index": 85.0,
-  "summary": "在Nvidia財報超預期帶動下，科技股表現強勁，但亞洲股市仍受Anthropic定價影響而波動。",
+  "ai_sentiment_index": 57.5,
+  "summary": "Anthropic首次公開募股表現強勁，但聯準會升息預期及Nvidia潛在風險導致美股漲跌互見，亞洲股市預計將下跌。",
   "news_zh": [
-    "Nvidia財報超預期，預計股價將大幅波動。",
-    "Nvidia強勁預期帶動那斯達克期貨反彈。",
-    "亞洲股市在Nvidia財報後表現震盪，Anthropic定價前景受關注。",
-    "韓國晶片產業蓬勃發展，但零售投資者因股市下跌而減少支出。",
-    "做空中國股票成為基金經理人第二大熱門交易。"
+    "Anthropic首次公開募股籌資810億美元，估值達1.5兆美元，顯示市場對AI仍有高度興趣。",
+    "聯準會會議紀錄暗示可能進一步升息，引發市場對未來利率政策的擔憂。",
+    "Nvidia面臨更深層次的風險，其股價表現可能受到影響。",
+    "華爾街在Nvidia財報和聯準會會議紀錄後表現分歧。",
+    "歐洲央行考慮下週提高存款準備金率，可能影響全球流動性。",
+    "亞洲股市預計在Anthropic首次公開募股前下跌，反映市場謹慎情緒。"
   ],
   "news": [
-    "[Reuters] Fairfax exits India's IIFL Finance in $370 million block deal, source says - Reuters - Fairfax exits India's IIFL Finance in $370 million block deal, source says&nbsp;&nbsp;Reuters",
-    "[Reuters] Asia stocks choppy after Nvidia earnings as Anthropic pricing looms - Reuters - Asia stocks choppy after Nvidia earnings as Anthropic pricing looms&nbsp;&nbsp;Reuters",
-    "[Reuters] EXCLUSIVE: UBS set to accept defeat over Swiss capital curbs, sources say - Reuters - EXCLUSIVE: UBS set to accept defeat over Swiss capital curbs, sources say&nbsp;&nbsp;Reuters",
-    "[Reuters] South Korea's chip boom bypasses retail investors as stock rout hits spending - Reuters - South Korea's chip boom bypasses retail investors as stock rout hits spending&nbsp;&nbsp;Reuters",
-    "[Reuters] Home Depot names insider McPhail CEO, bets on sustained sales recovery - Reuters - Home Depot names insider McPhail CEO, bets on sustained sales recovery&nbsp;&nbsp;Reuters",
-    "[Reuters] Deutsche Bank shares slip 1.4% in early trade, day after leak news - Reuters - Deutsche Bank shares slip 1.4% in early trade, day after leak news&nbsp;&nbsp;Reuters",
-    "[Reuters] AppLovin among firms in talks to acquire Criteo, sources say - Reuters - AppLovin among firms in talks to acquire Criteo, sources say&nbsp;&nbsp;Reuters",
-    "[Reuters] Nvidia shares set for $335 billion swing after earnings, options show - Reuters - Nvidia shares set for $335 billion swing after earnings, options show&nbsp;&nbsp;Reuters",
-    "[Semis] Guerrilla RF Announces Uplisting to The Nasdaq Stock Market - Yahoo Finance - Guerrilla RF Announces Uplisting to The Nasdaq Stock Market&nbsp;&nbsp;Yahoo Finance",
-    "[Semis] Asian Stocks to Fall, Nvidia Sales Outlook Beats: Markets Wrap - Bloomberg - Asian Stocks to Fall, Nvidia Sales Outlook Beats: Markets Wrap&nbsp;&nbsp;Bloomberg"
+    "[Reuters] Anthropic raises record $81 billion in IPO at $1.5 trillion valuation - Reuters - Anthropic raises record $81 billion in IPO at $1.5 trillion valuation&nbsp;&nbsp;Reuters",
+    "[Reuters] EXCLUSIVE: UniCredit and Germany reach broad agreement on Commerzbank takeover - Reuters - EXCLUSIVE: UniCredit and Germany reach broad agreement on Commerzbank takeover&nbsp;&nbsp;Reuters",
+    "[Reuters] COMMENTARY: Nvidia's deeper risks predate Huang's scandal - Reuters - COMMENTARY: Nvidia's deeper risks predate Huang's scandal&nbsp;&nbsp;Reuters",
+    "[Reuters] COMMENTARY: The 'AI dollar' has arrived. Its direction hasn't - Reuters - COMMENTARY: The 'AI dollar' has arrived. Its direction hasn't&nbsp;&nbsp;Reuters",
+    "[Reuters] Wall Street ends mixed after Nvidia earnings, Fed minutes - Reuters - Wall Street ends mixed after Nvidia earnings, Fed minutes&nbsp;&nbsp;Reuters",
+    "[Reuters] Wall Street prepares for Anthropic IPO frenzy, despite broader AI stock slump - Reuters - Wall Street prepares for Anthropic IPO frenzy, despite broader AI stock slump&nbsp;&nbsp;Reuters",
+    "[Reuters] UBS sees S&P 500 at 8,200 by end-2027 on earnings strength, resilient economy - Reuters - UBS sees S&P 500 at 8,200 by end-2027 on earnings strength, resilient economy&nbsp;&nbsp;Reuters",
+    "[Reuters] EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say - Reuters - EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say&nbsp;&nbsp;Reuters",
+    "[Semis] Asian Stocks Set to Fall Ahead of Anthropic Debut: Markets Wrap - Bloomberg.com - Asian Stocks Set to Fall Ahead of Anthropic Debut: Markets Wrap&nbsp;&nbsp;Bloomberg.com",
+    "[Semis] Stock Market Today, Nov. 18: S&P 500 Breaks Key Support as Fed Minutes Signal More Rate Hikes Ahead - Yahoo Finance - Stock Market Today, Nov. 18: S&P 500 Breaks Key Support as Fed Minutes Signal More Rate Hikes Ahead&nbsp;&nbsp;Yahoo Finance"
   ],
   "debug_error": ""
 }
