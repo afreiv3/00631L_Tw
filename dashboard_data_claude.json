@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20 13:30 (Taipei)",
+  "updated": "2026-11-20 16:23 (Taipei)",
   "history": [
     {
       "date": "2026-09-07",
@@ -3103,19 +3103,30 @@
     },
     {
       "date": "2026-11-20",
-      "time": "13:30",
-      "price": 21.06,
+      "time": "16:23",
+      "price": 21.24,
       "tier1": 25,
-      "ai_index": 50.0,
+      "ai_index": 32.5,
       "target": 0.0,
       "zone": "red",
-      "zone_label": "⚪ 觀望（等量化≥35＋趨勢）",
+      "zone_label": "⚪ 今日已交易過",
       "gate_open": false,
       "market_ok": false,
       "asset_trend_ok": false,
-      "ai_ok": false,
-      "summary": "（今日盤前判讀尚未產生，暫以中性計）",
-      "news": [],
+      "ai_ok": true,
+      "summary": "Anthropic首次公開募股未能提振市場信心，反而引發對AI泡沫的擔憂，導致全球股市下跌，科技股尤其承壓。",
+      "news": [
+        "[Reuters] Indian finance hub eyes dual share model to kickstart public offers, sources say - Reuters - Indian finance hub eyes dual share model to kickstart public offers, sources say&nbsp;&nbsp;Reuters",
+        "[Reuters] EXCLUSIVE: Citi underestimated risky assets by $35 billion after incorrectly recording trades, sources say - Reuters - EXCLUSIVE: Citi underestimated risky assets by $35 billion after incorrectly recording trades, sources say&nbsp;&nbsp;Reuters",
+        "[Reuters] Germany and UniCredit reach broad agreement in Commerzbank takeover battle - Reuters - Germany and UniCredit reach broad agreement in Commerzbank takeover battle&nbsp;&nbsp;Reuters",
+        "[Reuters] EXCLUSIVE: Canada's BMO returning to US oil and gas investment banking, sources say - Reuters - EXCLUSIVE: Canada's BMO returning to US oil and gas investment banking, sources say&nbsp;&nbsp;Reuters",
+        "[Reuters] Anthropic's $1.5 trillion debut rewrites venture capital's playbook - Reuters - Anthropic's $1.5 trillion debut rewrites venture capital's playbook&nbsp;&nbsp;Reuters",
+        "[Reuters] Bank of America banker Stewart Barry to join Allen & Company, sources say - Reuters - Bank of America banker Stewart Barry to join Allen & Company, sources say&nbsp;&nbsp;Reuters",
+        "[Reuters] Anthropic's blockbuster debut tests Wall Street's faith in AI boom - Reuters - Anthropic's blockbuster debut tests Wall Street's faith in AI boom&nbsp;&nbsp;Reuters",
+        "[Reuters] Temu owner PDD beats third-quarter profit estimates as marketing spending falls - Reuters - Temu owner PDD beats third-quarter profit estimates as marketing spending falls&nbsp;&nbsp;Reuters",
+        "[Semis] Anthropic Marks its IPO at Nasdaq - Nasdaq - Anthropic Marks its IPO at Nasdaq&nbsp;&nbsp;Nasdaq",
+        "[Semis] Stocks Fall as Anthropic Debut Not an AI All-Clear: Markets Wrap - Bloomberg.com - Stocks Fall as Anthropic Debut Not an AI All-Clear: Markets Wrap&nbsp;&nbsp;Bloomberg.com"
+      ],
       "paper": {
         "cash": 986962,
         "shares": 0.0,
@@ -3144,10 +3155,10 @@
         "last_action": "SELL",
         "last_action_reason": "DATA_INVALID_NO_TRADE",
         "tier1": 25,
-        "ai_index": 50.0,
+        "ai_index": 32.5,
         "target": 0.0,
         "zone": "red",
-        "zone_label": "⚪ 觀望（等量化≥35＋趨勢）",
+        "zone_label": "⚪ 今日已交易過",
         "gate_open": false
       }
     }
