@@ -1,33 +1,32 @@
 {
-  "date": "2026-11-19",
-  "generated_at": "2026-11-19 15:31",
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20 15:23",
   "model": "gemini-2.5-flash",
   "factors": {
-    "sector": 12.0,
-    "macro": 5.0,
-    "trend": 6.0
+    "sector": 3.0,
+    "macro": 6.0,
+    "trend": 4.0
   },
-  "ai_sentiment_index": 57.5,
-  "summary": "Anthropic首次公開募股表現強勁，但聯準會升息預期及Nvidia潛在風險導致美股漲跌互見，亞洲股市預計將下跌。",
+  "ai_sentiment_index": 32.5,
+  "summary": "Anthropic首次公開募股未能提振市場信心，反而引發對AI泡沫的擔憂，導致全球股市下跌，科技股尤其承壓。",
   "news_zh": [
-    "Anthropic首次公開募股籌資810億美元，估值達1.5兆美元，顯示市場對AI仍有高度興趣。",
-    "聯準會會議紀錄暗示可能進一步升息，引發市場對未來利率政策的擔憂。",
-    "Nvidia面臨更深層次的風險，其股價表現可能受到影響。",
-    "華爾街在Nvidia財報和聯準會會議紀錄後表現分歧。",
-    "歐洲央行考慮下週提高存款準備金率，可能影響全球流動性。",
-    "亞洲股市預計在Anthropic首次公開募股前下跌，反映市場謹慎情緒。"
+    "Anthropic首次公開募股未能消除對AI市場的疑慮，導致股市下跌。",
+    "Anthropic首次亮相後，道瓊指數下跌1,084點，那斯達克指數下跌2.2%。",
+    "Anthropic在納斯達克上市後，亞洲股市大跌，未能緩解市場對AI泡沫的擔憂。",
+    "投資者在不確定性增加的情況下尋求避險，導致股市暴跌。",
+    "花旗因錯誤記錄交易而低估了350億美元的風險資產。"
   ],
   "news": [
-    "[Reuters] Anthropic raises record $81 billion in IPO at $1.5 trillion valuation - Reuters - Anthropic raises record $81 billion in IPO at $1.5 trillion valuation&nbsp;&nbsp;Reuters",
-    "[Reuters] EXCLUSIVE: UniCredit and Germany reach broad agreement on Commerzbank takeover - Reuters - EXCLUSIVE: UniCredit and Germany reach broad agreement on Commerzbank takeover&nbsp;&nbsp;Reuters",
-    "[Reuters] COMMENTARY: Nvidia's deeper risks predate Huang's scandal - Reuters - COMMENTARY: Nvidia's deeper risks predate Huang's scandal&nbsp;&nbsp;Reuters",
-    "[Reuters] COMMENTARY: The 'AI dollar' has arrived. Its direction hasn't - Reuters - COMMENTARY: The 'AI dollar' has arrived. Its direction hasn't&nbsp;&nbsp;Reuters",
-    "[Reuters] Wall Street ends mixed after Nvidia earnings, Fed minutes - Reuters - Wall Street ends mixed after Nvidia earnings, Fed minutes&nbsp;&nbsp;Reuters",
-    "[Reuters] Wall Street prepares for Anthropic IPO frenzy, despite broader AI stock slump - Reuters - Wall Street prepares for Anthropic IPO frenzy, despite broader AI stock slump&nbsp;&nbsp;Reuters",
-    "[Reuters] UBS sees S&P 500 at 8,200 by end-2027 on earnings strength, resilient economy - Reuters - UBS sees S&P 500 at 8,200 by end-2027 on earnings strength, resilient economy&nbsp;&nbsp;Reuters",
-    "[Reuters] EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say - Reuters - EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say&nbsp;&nbsp;Reuters",
-    "[Semis] Asian Stocks Set to Fall Ahead of Anthropic Debut: Markets Wrap - Bloomberg.com - Asian Stocks Set to Fall Ahead of Anthropic Debut: Markets Wrap&nbsp;&nbsp;Bloomberg.com",
-    "[Semis] Stock Market Today, Nov. 18: S&P 500 Breaks Key Support as Fed Minutes Signal More Rate Hikes Ahead - Yahoo Finance - Stock Market Today, Nov. 18: S&P 500 Breaks Key Support as Fed Minutes Signal More Rate Hikes Ahead&nbsp;&nbsp;Yahoo Finance"
+    "[Reuters] Indian finance hub eyes dual share model to kickstart public offers, sources say - Reuters - Indian finance hub eyes dual share model to kickstart public offers, sources say&nbsp;&nbsp;Reuters",
+    "[Reuters] EXCLUSIVE: Citi underestimated risky assets by $35 billion after incorrectly recording trades, sources say - Reuters - EXCLUSIVE: Citi underestimated risky assets by $35 billion after incorrectly recording trades, sources say&nbsp;&nbsp;Reuters",
+    "[Reuters] Germany and UniCredit reach broad agreement in Commerzbank takeover battle - Reuters - Germany and UniCredit reach broad agreement in Commerzbank takeover battle&nbsp;&nbsp;Reuters",
+    "[Reuters] EXCLUSIVE: Canada's BMO returning to US oil and gas investment banking, sources say - Reuters - EXCLUSIVE: Canada's BMO returning to US oil and gas investment banking, sources say&nbsp;&nbsp;Reuters",
+    "[Reuters] Anthropic's $1.5 trillion debut rewrites venture capital's playbook - Reuters - Anthropic's $1.5 trillion debut rewrites venture capital's playbook&nbsp;&nbsp;Reuters",
+    "[Reuters] Bank of America banker Stewart Barry to join Allen & Company, sources say - Reuters - Bank of America banker Stewart Barry to join Allen & Company, sources say&nbsp;&nbsp;Reuters",
+    "[Reuters] Anthropic's blockbuster debut tests Wall Street's faith in AI boom - Reuters - Anthropic's blockbuster debut tests Wall Street's faith in AI boom&nbsp;&nbsp;Reuters",
+    "[Reuters] Temu owner PDD beats third-quarter profit estimates as marketing spending falls - Reuters - Temu owner PDD beats third-quarter profit estimates as marketing spending falls&nbsp;&nbsp;Reuters",
+    "[Semis] Anthropic Marks its IPO at Nasdaq - Nasdaq - Anthropic Marks its IPO at Nasdaq&nbsp;&nbsp;Nasdaq",
+    "[Semis] Stocks Fall as Anthropic Debut Not an AI All-Clear: Markets Wrap - Bloomberg.com - Stocks Fall as Anthropic Debut Not an AI All-Clear: Markets Wrap&nbsp;&nbsp;Bloomberg.com"
   ],
   "debug_error": ""
 }
