@@ -1,32 +1,30 @@
 {
-  "date": "2026-11-20",
-  "generated_at": "2026-11-20 15:23",
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23 15:46",
   "model": "gemini-2.5-flash",
   "factors": {
-    "sector": 3.0,
-    "macro": 6.0,
-    "trend": 4.0
+    "sector": 15.0,
+    "macro": 7.0,
+    "trend": 6.0
   },
-  "ai_sentiment_index": 32.5,
-  "summary": "Anthropic首次公開募股未能提振市場信心，反而引發對AI泡沫的擔憂，導致全球股市下跌，科技股尤其承壓。",
+  "ai_sentiment_index": 70.0,
+  "summary": "美國股市期貨在AI股下跌後反彈，但亞洲股市仍下跌，投資者關注半導體產業的修正與未來走勢。",
   "news_zh": [
-    "Anthropic首次公開募股未能消除對AI市場的疑慮，導致股市下跌。",
-    "Anthropic首次亮相後，道瓊指數下跌1,084點，那斯達克指數下跌2.2%。",
-    "Anthropic在納斯達克上市後，亞洲股市大跌，未能緩解市場對AI泡沫的擔憂。",
-    "投資者在不確定性增加的情況下尋求避險，導致股市暴跌。",
-    "花旗因錯誤記錄交易而低估了350億美元的風險資產。"
+    "道瓊期貨大漲800點，那斯達克指數在進入修正後飆升3%。",
+    "AI股下跌後，美國股指期貨反彈，避險資產下跌。",
+    "美國股指期貨反彈，但亞洲股市下跌，AI交易可能面臨更多麻煩。",
+    "投資者正在尋找美國股市拋售將減弱的跡象，判斷是修正還是更深層次的調整。",
+    "那斯達克指數下跌超過5%，科技股暴跌，投資者情緒進一步減弱。"
   ],
   "news": [
-    "[Reuters] Indian finance hub eyes dual share model to kickstart public offers, sources say - Reuters - Indian finance hub eyes dual share model to kickstart public offers, sources say&nbsp;&nbsp;Reuters",
-    "[Reuters] EXCLUSIVE: Citi underestimated risky assets by $35 billion after incorrectly recording trades, sources say - Reuters - EXCLUSIVE: Citi underestimated risky assets by $35 billion after incorrectly recording trades, sources say&nbsp;&nbsp;Reuters",
-    "[Reuters] Germany and UniCredit reach broad agreement in Commerzbank takeover battle - Reuters - Germany and UniCredit reach broad agreement in Commerzbank takeover battle&nbsp;&nbsp;Reuters",
-    "[Reuters] EXCLUSIVE: Canada's BMO returning to US oil and gas investment banking, sources say - Reuters - EXCLUSIVE: Canada's BMO returning to US oil and gas investment banking, sources say&nbsp;&nbsp;Reuters",
-    "[Reuters] Anthropic's $1.5 trillion debut rewrites venture capital's playbook - Reuters - Anthropic's $1.5 trillion debut rewrites venture capital's playbook&nbsp;&nbsp;Reuters",
-    "[Reuters] Bank of America banker Stewart Barry to join Allen & Company, sources say - Reuters - Bank of America banker Stewart Barry to join Allen & Company, sources say&nbsp;&nbsp;Reuters",
-    "[Reuters] Anthropic's blockbuster debut tests Wall Street's faith in AI boom - Reuters - Anthropic's blockbuster debut tests Wall Street's faith in AI boom&nbsp;&nbsp;Reuters",
-    "[Reuters] Temu owner PDD beats third-quarter profit estimates as marketing spending falls - Reuters - Temu owner PDD beats third-quarter profit estimates as marketing spending falls&nbsp;&nbsp;Reuters",
-    "[Semis] Anthropic Marks its IPO at Nasdaq - Nasdaq - Anthropic Marks its IPO at Nasdaq&nbsp;&nbsp;Nasdaq",
-    "[Semis] Stocks Fall as Anthropic Debut Not an AI All-Clear: Markets Wrap - Bloomberg.com - Stocks Fall as Anthropic Debut Not an AI All-Clear: Markets Wrap&nbsp;&nbsp;Bloomberg.com"
+    "[Semis] Stock market today: Dow futures jump 800 points and Nasdaq soars 3% after entering correction - Fortune - Stock market today: Dow futures jump 800 points and Nasdaq soars 3% after entering correction&nbsp;&nbsp;Fortune",
+    "[Semis] Stock Futures Rally After AI Rout, Havens Decline: Markets Wrap - Bloomberg.com - Stock Futures Rally After AI Rout, Havens Decline: Markets Wrap&nbsp;&nbsp;Bloomberg.com",
+    "[Semis] Stock Market: Will S&P 500 Open Up or Down Today? - Yahoo Finance - Stock Market: Will S&P 500 Open Up or Down Today?&nbsp;&nbsp;Yahoo Finance",
+    "[Semis] 2 Semiconductor Stocks to Buy No Matter Who Wins the AI Chip Race - The Motley Fool - 2 Semiconductor Stocks to Buy No Matter Who Wins the AI Chip Race&nbsp;&nbsp;The Motley Fool",
+    "[Semis] US stock futures rebound as Asian stocks tumble. There may be more trouble ahead for the AI trade. - Business Insider - US stock futures rebound as Asian stocks tumble. There may be more trouble ahead for the AI trade.&nbsp;&nbsp;Business Insider",
+    "[Semis] Correction or deeper reckoning? Investors seek signs US stock selling will abate - Reuters - Correction or deeper reckoning? Investors seek signs US stock selling will abate&nbsp;&nbsp;Reuters",
+    "[Semis] Can The Fed Rescue Nvidia Stock Before Christmas? - Trefis - Can The Fed Rescue Nvidia Stock Before Christmas?&nbsp;&nbsp;Trefis",
+    "[Semis] Nasdaq Tumbles Over 5% As Tech Stocks Plunge; Investor Sentiment Weakens Further, Fear & Greed Index In - Benzinga - Nasdaq Tumbles Over 5% As Tech Stocks Plunge; Investor Sentiment Weakens Further, Fear & Greed Index In&nbsp;&nbsp;Benzinga"
   ],
   "debug_error": ""
 }
