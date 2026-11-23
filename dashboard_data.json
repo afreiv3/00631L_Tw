@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20 16:23 (Taipei)",
+  "updated": "2026-11-23 09:00 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -5791,6 +5791,69 @@
           "pts": 0,
           "max": 10,
           "note": "加權估收~35,820，跌破所有均線，距季線（~45,850）差距達-21.9%；本周累計跌逾5,000點、周線收大黑K，外資空單歷史高位，大盤結構完全惡化，給0分"
+        }
+      },
+      "paper": {
+        "cash": 940973,
+        "equity": 940973,
+        "market_value": 0,
+        "return_pct": -5.9,
+        "holding": false,
+        "position": null,
+        "shares": 0,
+        "avg_cost": null,
+        "unrealized": 0,
+        "unrealized_pct": 0,
+        "trades": 16,
+        "wins": 5,
+        "win_rate": 31.2,
+        "realized_pnl": -59027
+      }
+    },
+    {
+      "date": "2026-11-23",
+      "time": "09:00",
+      "price": null,
+      "score": 30,
+      "zone": "red",
+      "quant_sum": 30,
+      "ai_sum": 0,
+      "ai_ok": true,
+      "factors": {
+        "pattern": {
+          "pts": 10.0,
+          "max": 20,
+          "note": "盤中資料缺，型態以中性計"
+        },
+        "sector": {
+          "pts": 0,
+          "max": 20,
+          "note": "SOX -10.73%（8,408），NVDA -14%、AVGO -12%、TSM ADR -9.5%，AI/半導體板塊全面崩跌，SEC調查NVDA疊加出口禁令，板塊極弱，給0分"
+        },
+        "entry": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "區間資料缺，以中性計"
+        },
+        "volume": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "量能資料缺，以中性計"
+        },
+        "vwap": {
+          "pts": 5.0,
+          "max": 10,
+          "note": "VWAP 資料缺，以中性計"
+        },
+        "macro": {
+          "pts": 0,
+          "max": 10,
+          "note": "Fed 12/9升息機率100%、10Y殖利率5.04%、晶片對中出口禁令擴大、NVDA遭SEC會計調查，多重系統性風險同步升溫，給0分"
+        },
+        "trend": {
+          "pts": 0,
+          "max": 10,
+          "note": "加權指數收36,033，遠低於季線~45,700（差距約21%），台指期夜盤再跌1,881點收33,919，大盤結構嚴重受損，給0分"
         }
       },
       "paper": {
