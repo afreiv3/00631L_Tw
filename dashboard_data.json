@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23 16:54 (Taipei)",
+  "updated": "2026-11-24 09:00 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -5854,6 +5854,69 @@
           "pts": 2,
           "max": 10,
           "note": "加權指數36,812仍低於季線（~45,700）約19%，今日出現開低走高反轉K棒為初步止跌訊號，但空方結構尚未逆轉，外資期貨空單（查不到，估仍高位），給2分"
+        }
+      },
+      "paper": {
+        "cash": 940973,
+        "equity": 940973,
+        "market_value": 0,
+        "return_pct": -5.9,
+        "holding": false,
+        "position": null,
+        "shares": 0,
+        "avg_cost": null,
+        "unrealized": 0,
+        "unrealized_pct": 0,
+        "trades": 16,
+        "wins": 5,
+        "win_rate": 31.2,
+        "realized_pnl": -59027
+      }
+    },
+    {
+      "date": "2026-11-24",
+      "time": "09:00",
+      "price": null,
+      "score": 53,
+      "zone": "amber",
+      "quant_sum": 30,
+      "ai_sum": 23,
+      "ai_ok": true,
+      "factors": {
+        "pattern": {
+          "pts": 10.0,
+          "max": 20,
+          "note": "盤中資料缺，型態以中性計"
+        },
+        "sector": {
+          "pts": 20,
+          "max": 20,
+          "note": "隔夜Nasdaq +6.51%、SOX盤中+14%、NVDA +32%，Jensen Huang重返NVIDIA CEO觸發半導體全面爆發，板塊極強，給滿分20"
+        },
+        "entry": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "區間資料缺，以中性計"
+        },
+        "volume": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "量能資料缺，以中性計"
+        },
+        "vwap": {
+          "pts": 5.0,
+          "max": 10,
+          "note": "VWAP 資料缺，以中性計"
+        },
+        "macro": {
+          "pts": 3,
+          "max": 10,
+          "note": "Fed 12月升息機率高（83%+）、10年期殖利率5.13%偏高、NVDA SEC調查未結、晶片出口禁令壓力持續，WTI查不到（以中性計5分，但升息/殖利率壓力大故折扣），系統性風險中高，給3分"
+        },
+        "trend": {
+          "pts": 0,
+          "max": 10,
+          "note": "加權指數36,812仍遠低於季線（~45,000-45,700），距季線跌幅約-19%，外資期空103,432口創高，結構性轉弱，跌破季線給0分"
         }
       },
       "paper": {
