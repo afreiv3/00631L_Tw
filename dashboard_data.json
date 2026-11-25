@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24 18:49 (Taipei)",
+  "updated": "2026-11-25 09:00 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -5917,6 +5917,69 @@
           "pts": 7,
           "max": 10,
           "note": "加權指數從36,812大幅收復至~40,179，一舉站回年線與4萬點，技術面重大改善；但需確認能否持守，外資期空103K口仍未回補，給7分"
+        }
+      },
+      "paper": {
+        "cash": 940973,
+        "equity": 940973,
+        "market_value": 0,
+        "return_pct": -5.9,
+        "holding": false,
+        "position": null,
+        "shares": 0,
+        "avg_cost": null,
+        "unrealized": 0,
+        "unrealized_pct": 0,
+        "trades": 16,
+        "wins": 5,
+        "win_rate": 31.2,
+        "realized_pnl": -59027
+      }
+    },
+    {
+      "date": "2026-11-25",
+      "time": "09:00",
+      "price": null,
+      "score": 48,
+      "zone": "amber",
+      "quant_sum": 30,
+      "ai_sum": 18,
+      "ai_ok": true,
+      "factors": {
+        "pattern": {
+          "pts": 10.0,
+          "max": 20,
+          "note": "盤中資料缺，型態以中性計"
+        },
+        "sector": {
+          "pts": 8,
+          "max": 20,
+          "note": "美股11/24 Nasdaq -1.5-1.7%、NVDA -7.5%、TSM ADR -3.4%、AVGO -3%，SOX值未確認（以中性計）；暴漲後整理，板塊動能轉弱偏分歧，給8分"
+        },
+        "entry": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "區間資料缺，以中性計"
+        },
+        "volume": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "量能資料缺，以中性計"
+        },
+        "vwap": {
+          "pts": 5.0,
+          "max": 10,
+          "note": "VWAP 資料缺，以中性計"
+        },
+        "macro": {
+          "pts": 5,
+          "max": 10,
+          "note": "10Y殖利率約4.9%偏高，Fed 12月升息機率85%+，WTI跌至$80（供給增），外資期空103K高懸；無系統性危機，整體略波動，給5分"
+        },
+        "trend": {
+          "pts": 5,
+          "max": 10,
+          "note": "加權11/24收40,122收復年線（~40,000）與4萬點；但季線（估~44,000-45,000）仍在上方約10%，結構改善中但仍在季線下方，給5分"
         }
       },
       "paper": {
