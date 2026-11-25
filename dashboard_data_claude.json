@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25 13:30 (Taipei)",
+  "updated": "2026-11-25 17:44 (Taipei)",
   "history": [
     {
       "date": "2026-09-07",
@@ -3284,19 +3284,30 @@
     },
     {
       "date": "2026-11-25",
-      "time": "13:30",
-      "price": 24.15,
-      "tier1": 20,
-      "ai_index": 50.0,
+      "time": "17:44",
+      "price": 23.78,
+      "tier1": 28,
+      "ai_index": 32.5,
       "target": 0.0,
       "zone": "red",
-      "zone_label": "⚪ 觀望（等量化≥35＋趨勢）",
+      "zone_label": "⚪ 今日已交易過",
       "gate_open": false,
       "market_ok": false,
       "asset_trend_ok": false,
-      "ai_ok": false,
-      "summary": "（今日盤前判讀尚未產生，暫以中性計）",
-      "news": [],
+      "ai_ok": true,
+      "summary": "美國股市因AI股下跌和關稅威脅而普遍走弱，科技股領跌，對台灣市場情緒構成壓力。",
+      "news": [
+        "[Reuters] COMMENTARY: Middle East crude oil exports trend lower amid fake Iran stalemate - Reuters - COMMENTARY: Middle East crude oil exports trend lower amid fake Iran stalemate&nbsp;&nbsp;Reuters",
+        "[Reuters] Stocks retreat as AI rebound stumbles, tariff threats loom - Reuters - Stocks retreat as AI rebound stumbles, tariff threats loom&nbsp;&nbsp;Reuters",
+        "[Reuters] COMMENTARY: Icarus stock Nvidia sends chill to US savers - Reuters - COMMENTARY: Icarus stock Nvidia sends chill to US savers&nbsp;&nbsp;Reuters",
+        "[Reuters] Cognizant in talks to take over parts of S&P Global's Capital IQ operations, sources say - Reuters - Cognizant in talks to take over parts of S&P Global's Capital IQ operations, sources say&nbsp;&nbsp;Reuters",
+        "[Reuters] EXCLUSIVE: Blackstone, Warburg Pincus, Apollo in talks to back GTCR's $50 billion Global Payments deal, sources say - Reuters - EXCLUSIVE: Blackstone, Warburg Pincus, Apollo in talks to back GTCR's $50 billion Global Payments deal, sources say&nbsp;&nbsp;Reuters",
+        "[Reuters] UK financial watchdog delivers AI warning as Meta launches adapted Muse - Reuters - UK financial watchdog delivers AI warning as Meta launches adapted Muse&nbsp;&nbsp;Reuters",
+        "[Reuters] European stocks set for gains in 2027, but volatility is likely, poll shows - Reuters - European stocks set for gains in 2027, but volatility is likely, poll shows&nbsp;&nbsp;Reuters",
+        "[Reuters] Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value - Reuters - Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value&nbsp;&nbsp;Reuters",
+        "[Semis] Dow Jones Futures Fall; Trump Says 'Not Too Late' For U.S. To Take Nvidia Stake - Investor's Business Daily - Dow Jones Futures Fall; Trump Says 'Not Too Late' For U.S. To Take Nvidia Stake&nbsp;&nbsp;Investor's Business Daily",
+        "[Semis] US stock market today: Nasdaq and S&P 500 fall as Nvidia and AI stocks slide, Dow gains - Beinsure - US stock market today: Nasdaq and S&P 500 fall as Nvidia and AI stocks slide, Dow gains&nbsp;&nbsp;Beinsure"
+      ],
       "paper": {
         "cash": 986962,
         "shares": 0.0,
@@ -3324,11 +3335,11 @@
         "cooldown_remaining": 0,
         "last_action": "SELL",
         "last_action_reason": "DATA_INVALID_NO_TRADE",
-        "tier1": 20,
-        "ai_index": 50.0,
+        "tier1": 28,
+        "ai_index": 32.5,
         "target": 0.0,
         "zone": "red",
-        "zone_label": "⚪ 觀望（等量化≥35＋趨勢）",
+        "zone_label": "⚪ 今日已交易過",
         "gate_open": false
       }
     }
