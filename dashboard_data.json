@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25 11:45 (Taipei)",
+  "updated": "2026-11-25 12:00 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -5938,11 +5938,11 @@
     },
     {
       "date": "2026-11-25",
-      "time": "11:45",
-      "price": 23.56,
-      "score": 46,
-      "zone": "amber",
-      "quant_sum": 28,
+      "time": "12:00",
+      "price": 24.17,
+      "score": 38,
+      "zone": "red",
+      "quant_sum": 20,
       "ai_sum": 18,
       "ai_ok": true,
       "factors": {
@@ -5957,9 +5957,9 @@
           "note": "美股11/24 Nasdaq -1.5-1.7%、NVDA -7.5%、TSM ADR -3.4%、AVGO -3%，SOX值未確認（以中性計）；暴漲後整理，板塊動能轉弱偏分歧，給8分"
         },
         "entry": {
-          "pts": 7.5,
+          "pts": 0,
           "max": 15,
-          "note": "現價在區間中段(56%)"
+          "note": "現價在區間上緣(76%) → 屬追高"
         },
         "volume": {
           "pts": 0,
@@ -5969,7 +5969,7 @@
         "vwap": {
           "pts": 10,
           "max": 10,
-          "note": "現價在VWAP之上(+0.47%) → 有利"
+          "note": "現價在VWAP之上(+2.95%) → 有利"
         },
         "macro": {
           "pts": 5,
