@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25 17:44 (Taipei)",
+  "updated": "2026-11-26 09:00 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -5980,6 +5980,69 @@
           "pts": 3,
           "max": 10,
           "note": "TAIEX估收~38,000，重新跌破40,000年線；季線估~44,000-45,000仍在上方約15%，昨日突破年線今日即回吐，結構不穩，給3分"
+        }
+      },
+      "paper": {
+        "cash": 940973,
+        "equity": 940973,
+        "market_value": 0,
+        "return_pct": -5.9,
+        "holding": false,
+        "position": null,
+        "shares": 0,
+        "avg_cost": null,
+        "unrealized": 0,
+        "unrealized_pct": 0,
+        "trades": 16,
+        "wins": 5,
+        "win_rate": 31.2,
+        "realized_pnl": -59027
+      }
+    },
+    {
+      "date": "2026-11-26",
+      "time": "09:00",
+      "price": null,
+      "score": 44,
+      "zone": "amber",
+      "quant_sum": 30,
+      "ai_sum": 14,
+      "ai_ok": true,
+      "factors": {
+        "pattern": {
+          "pts": 10.0,
+          "max": 20,
+          "note": "盤中資料缺，型態以中性計"
+        },
+        "sector": {
+          "pts": 8,
+          "max": 20,
+          "note": "SOX 11/24暴跌-7.88%後11/25盤中重挫再收復（收<-1%），NVDA -3.91%、TSM ADR约-4%（11/24）；半導體板塊大幅波動後分歧，非強勢、非崩潰，給8分"
+        },
+        "entry": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "區間資料缺，以中性計"
+        },
+        "volume": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "量能資料缺，以中性計"
+        },
+        "vwap": {
+          "pts": 5.0,
+          "max": 10,
+          "note": "VWAP 資料缺，以中性計"
+        },
+        "macro": {
+          "pts": 4,
+          "max": 10,
+          "note": "Fed升息機率>95%、PCE 3.8%宏觀緊縮；USTR啟動16國產能調查關稅威脅持續；10Y ~4.845%偏高；VIX ~28；無立即系統性危機，但多重壓力疊加，給4分"
+        },
+        "trend": {
+          "pts": 2,
+          "max": 10,
+          "note": "TAIEX 38,195跌破年線（39,500），台指期夜盤+0.72%小幅收復（38,397）；外資連8日賣超、期空逾10.5萬口高位；季線估約44,000（Yahoo 403，以中性計），結構明顯偏弱，給2分"
         }
       },
       "paper": {
