@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26 09:30 (Taipei)",
+  "updated": "2026-11-26 09:45 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -6001,18 +6001,18 @@
     },
     {
       "date": "2026-11-26",
-      "time": "09:30",
-      "price": 24.89,
-      "score": 59,
+      "time": "09:45",
+      "price": 25.22,
+      "score": 52,
       "zone": "amber",
-      "quant_sum": 45,
+      "quant_sum": 38,
       "ai_sum": 14,
       "ai_ok": true,
       "factors": {
         "pattern": {
           "pts": 20,
           "max": 20,
-          "note": "現價守在開盤之上(開+4.1%) → 有利"
+          "note": "現價守在開盤之上(開+5.1%) → 有利"
         },
         "sector": {
           "pts": 8,
@@ -6022,17 +6022,17 @@
         "entry": {
           "pts": 7.5,
           "max": 15,
-          "note": "現價在區間中段(61%)"
+          "note": "現價在區間中段(63%)"
         },
         "volume": {
-          "pts": 7.5,
+          "pts": 0,
           "max": 15,
-          "note": "推估量約均量1.7倍 → 偏離"
+          "note": "推估量約均量2.6倍 → 爆量(疑換手/出貨)"
         },
         "vwap": {
           "pts": 10,
           "max": 10,
-          "note": "現價在VWAP之上(+0.37%) → 有利"
+          "note": "現價在VWAP之上(+0.45%) → 有利"
         },
         "macro": {
           "pts": 4,
