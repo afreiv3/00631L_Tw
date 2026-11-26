@@ -1,33 +1,33 @@
 {
-  "date": "2026-11-25",
-  "generated_at": "2026-11-25 16:43",
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26 16:27",
   "model": "gemini-2.5-flash",
   "factors": {
-    "sector": 3.0,
-    "macro": 6.0,
-    "trend": 4.0
+    "sector": 1.0,
+    "macro": 3.0,
+    "trend": 1.0
   },
-  "ai_sentiment_index": 32.5,
-  "summary": "美國股市因AI股下跌和關稅威脅而普遍走弱，科技股領跌，對台灣市場情緒構成壓力。",
+  "ai_sentiment_index": 12.5,
+  "summary": "全球科技股面臨嚴重拋售，AI相關股票大跌，那斯達克指數逼近熊市，市場避險情緒濃厚。",
   "news_zh": [
-    "路透社報導，AI股反彈受挫，關稅威脅迫近，股市普遍下跌。",
-    "路透社評論指出，Nvidia股價下跌讓美國儲戶感到不安。",
-    "投資者商業日報報導，道瓊斯期貨下跌，川普表示美國持有Nvidia股份為時未晚。",
-    "彭博社報導，Nvidia熱潮消退，新關稅浮現，納斯達克100指數大跌。",
-    "Yahoo財經報導，科技股拋售拖累納斯達克，道瓊斯指數因價值輪動而上漲。",
-    "歐亞商業新聞報導，Nvidia和Anthropic股價下跌，油價89美元，黃金跌至3,620美元。"
+    "那斯達克100指數逼近熊市，華爾街科技股進一步下跌。",
+    "S&P 500指數下跌3.7%，那斯達克綜合指數今年轉為負值，科技股拋售加劇。",
+    "AI股票暴跌加劇，那斯達克指數盤中重挫4%，通膨持續頑固。",
+    "分析師預警，當前股市拋售潮在好轉之前可能會進一步惡化。",
+    "Anthropic股價下滑，考驗華爾街對未來AI利潤的過高預期。",
+    "關稅混亂加劇科技股痛苦，使厭倦波動的投資者措手不及。"
   ],
   "news": [
-    "[Reuters] COMMENTARY: Middle East crude oil exports trend lower amid fake Iran stalemate - Reuters - COMMENTARY: Middle East crude oil exports trend lower amid fake Iran stalemate&nbsp;&nbsp;Reuters",
-    "[Reuters] Stocks retreat as AI rebound stumbles, tariff threats loom - Reuters - Stocks retreat as AI rebound stumbles, tariff threats loom&nbsp;&nbsp;Reuters",
-    "[Reuters] COMMENTARY: Icarus stock Nvidia sends chill to US savers - Reuters - COMMENTARY: Icarus stock Nvidia sends chill to US savers&nbsp;&nbsp;Reuters",
-    "[Reuters] Cognizant in talks to take over parts of S&P Global's Capital IQ operations, sources say - Reuters - Cognizant in talks to take over parts of S&P Global's Capital IQ operations, sources say&nbsp;&nbsp;Reuters",
-    "[Reuters] EXCLUSIVE: Blackstone, Warburg Pincus, Apollo in talks to back GTCR's $50 billion Global Payments deal, sources say - Reuters - EXCLUSIVE: Blackstone, Warburg Pincus, Apollo in talks to back GTCR's $50 billion Global Payments deal, sources say&nbsp;&nbsp;Reuters",
-    "[Reuters] UK financial watchdog delivers AI warning as Meta launches adapted Muse - Reuters - UK financial watchdog delivers AI warning as Meta launches adapted Muse&nbsp;&nbsp;Reuters",
-    "[Reuters] European stocks set for gains in 2027, but volatility is likely, poll shows - Reuters - European stocks set for gains in 2027, but volatility is likely, poll shows&nbsp;&nbsp;Reuters",
-    "[Reuters] Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value - Reuters - Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value&nbsp;&nbsp;Reuters",
-    "[Semis] Dow Jones Futures Fall; Trump Says 'Not Too Late' For U.S. To Take Nvidia Stake - Investor's Business Daily - Dow Jones Futures Fall; Trump Says 'Not Too Late' For U.S. To Take Nvidia Stake&nbsp;&nbsp;Investor's Business Daily",
-    "[Semis] US stock market today: Nasdaq and S&P 500 fall as Nvidia and AI stocks slide, Dow gains - Beinsure - US stock market today: Nasdaq and S&P 500 fall as Nvidia and AI stocks slide, Dow gains&nbsp;&nbsp;Beinsure"
+    "[Reuters] Spain's snap election: Five key questions for financial markets - Reuters - Spain's snap election: Five key questions for financial markets&nbsp;&nbsp;Reuters",
+    "[Reuters] Anthropic's slide tests Wall Street's lofty bets on future AI profits - Reuters - Anthropic's slide tests Wall Street's lofty bets on future AI profits&nbsp;&nbsp;Reuters",
+    "[Reuters] Walmart-backed PhonePe restarts IPO process, eyes up to $15 billion valuation in market debut, source says - Reuters - Walmart-backed PhonePe restarts IPO process, eyes up to $15 billion valuation in market debut, source says&nbsp;&nbsp;Reuters",
+    "[Reuters] Volatility-weary investors side swiped as tariff mayhem adds to tech pain - Reuters - Volatility-weary investors side swiped as tariff mayhem adds to tech pain&nbsp;&nbsp;Reuters",
+    "[Reuters] AI stock rout deepens but damage is limited by afternoon bounce - Reuters - AI stock rout deepens but damage is limited by afternoon bounce&nbsp;&nbsp;Reuters",
+    "[Reuters] EXCLUSIVE: US famine monitor to halt reporting as funding shortfall hits staff, sources say - Reuters - EXCLUSIVE: US famine monitor to halt reporting as funding shortfall hits staff, sources say&nbsp;&nbsp;Reuters",
+    "[Reuters] Airline Norse Atlantic says financial situation 'critical,' shares plunge - Reuters - Airline Norse Atlantic says financial situation 'critical,' shares plunge&nbsp;&nbsp;Reuters",
+    "[Reuters] Buy the stock dip? Options market signals say wait - Reuters - Buy the stock dip? Options market signals say wait&nbsp;&nbsp;Reuters",
+    "[Semis] Nasdaq 100 teeters on brink of bear market as Wall Street tech stocks fall further - Sky News - Nasdaq 100 teeters on brink of bear market as Wall Street tech stocks fall further&nbsp;&nbsp;Sky News",
+    "[Semis] Is the New York Stock Exchange open today? Thanksgiving trading hours - The Columbus Dispatch - Is the New York Stock Exchange open today? Thanksgiving trading hours&nbsp;&nbsp;The Columbus Dispatch"
   ],
   "debug_error": ""
 }
