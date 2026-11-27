@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26 17:23 (Taipei)",
+  "updated": "2026-11-27 09:00 (Taipei)",
   "history": [
     {
       "date": "2026-07-20",
@@ -6043,6 +6043,69 @@
           "pts": 4,
           "max": 10,
           "note": "TAIEX估收~39,150，仍在破位年線~39,551下方；一週三次超1000點單日震盪，市場結構極度不穩；季線查不到（Yahoo 403），以中性計；外資期空高位、籌碼持續偏空，給4分。"
+        }
+      },
+      "paper": {
+        "cash": 940973,
+        "equity": 940973,
+        "market_value": 0,
+        "return_pct": -5.9,
+        "holding": false,
+        "position": null,
+        "shares": 0,
+        "avg_cost": null,
+        "unrealized": 0,
+        "unrealized_pct": 0,
+        "trades": 16,
+        "wins": 5,
+        "win_rate": 31.2,
+        "realized_pnl": -59027
+      }
+    },
+    {
+      "date": "2026-11-27",
+      "time": "09:00",
+      "price": null,
+      "score": 37,
+      "zone": "red",
+      "quant_sum": 30,
+      "ai_sum": 7,
+      "ai_ok": true,
+      "factors": {
+        "pattern": {
+          "pts": 10.0,
+          "max": 20,
+          "note": "盤中資料缺，型態以中性計"
+        },
+        "sector": {
+          "pts": 5,
+          "max": 20,
+          "note": "SOX 11/25收8,454(-4.28%)，自6月高點累跌42.5%進入熊市；感恩節夜盤Nasdaq 100期指+1.1%為唯一正向訊號，但半導體板塊結構性偏弱，給5分。"
+        },
+        "entry": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "區間資料缺，以中性計"
+        },
+        "volume": {
+          "pts": 7.5,
+          "max": 15,
+          "note": "量能資料缺，以中性計"
+        },
+        "vwap": {
+          "pts": 5.0,
+          "max": 10,
+          "note": "VWAP 資料缺，以中性計"
+        },
+        "macro": {
+          "pts": 2,
+          "max": 10,
+          "note": "Fed 12月升息機率逾95%（核心PCE 3.3%高於預期）、VIX 28.29高位、NVDA涉SEC調查、AI泡沫疑慮持續，多重系統性風險疊加，給2分。"
+        },
+        "trend": {
+          "pts": 0,
+          "max": 10,
+          "note": "加權11/26收39,151，較季線估值約45,000-45,711低約-15.1%，季線跌破幅度大；外資連8日賣超合計~4,217億，結構偏空確立，給0分。"
         }
       },
       "paper": {
