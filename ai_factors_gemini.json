@@ -1,33 +1,33 @@
 {
-  "date": "2026-11-26",
-  "generated_at": "2026-11-26 16:27",
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27 16:42",
   "model": "gemini-2.5-flash",
   "factors": {
-    "sector": 1.0,
-    "macro": 3.0,
-    "trend": 1.0
+    "sector": 15.0,
+    "macro": 7.0,
+    "trend": 7.0
   },
-  "ai_sentiment_index": 12.5,
-  "summary": "全球科技股面臨嚴重拋售，AI相關股票大跌，那斯達克指數逼近熊市，市場避險情緒濃厚。",
+  "ai_sentiment_index": 72.5,
+  "summary": "全球股市在經歷一個月的下跌後反彈，歐洲股市上揚，亞洲股市連續第二日走高，但聯準會升息預期及中國資本市場風險防禦仍需關注。",
   "news_zh": [
-    "那斯達克100指數逼近熊市，華爾街科技股進一步下跌。",
-    "S&P 500指數下跌3.7%，那斯達克綜合指數今年轉為負值，科技股拋售加劇。",
-    "AI股票暴跌加劇，那斯達克指數盤中重挫4%，通膨持續頑固。",
-    "分析師預警，當前股市拋售潮在好轉之前可能會進一步惡化。",
-    "Anthropic股價下滑，考驗華爾街對未來AI利潤的過高預期。",
-    "關稅混亂加劇科技股痛苦，使厭倦波動的投資者措手不及。"
+    "歐洲股市因關稅擔憂緩解及歐洲央行領導層穩定而收高。",
+    "全球股市在經歷一個月的下跌後反彈，美元有望實現第三個月上漲。",
+    "中國將加強防範資本市場的輸入性風險，並有國家隊進場提振市場。",
+    "亞洲股市連續第二日上漲，美國公債殖利率下滑。",
+    "儘管股市動盪，聯準會仍可能升息。",
+    "半導體銷售預計在2027年達到2.6兆美元，相關股票值得關注。"
   ],
   "news": [
-    "[Reuters] Spain's snap election: Five key questions for financial markets - Reuters - Spain's snap election: Five key questions for financial markets&nbsp;&nbsp;Reuters",
-    "[Reuters] Anthropic's slide tests Wall Street's lofty bets on future AI profits - Reuters - Anthropic's slide tests Wall Street's lofty bets on future AI profits&nbsp;&nbsp;Reuters",
-    "[Reuters] Walmart-backed PhonePe restarts IPO process, eyes up to $15 billion valuation in market debut, source says - Reuters - Walmart-backed PhonePe restarts IPO process, eyes up to $15 billion valuation in market debut, source says&nbsp;&nbsp;Reuters",
-    "[Reuters] Volatility-weary investors side swiped as tariff mayhem adds to tech pain - Reuters - Volatility-weary investors side swiped as tariff mayhem adds to tech pain&nbsp;&nbsp;Reuters",
-    "[Reuters] AI stock rout deepens but damage is limited by afternoon bounce - Reuters - AI stock rout deepens but damage is limited by afternoon bounce&nbsp;&nbsp;Reuters",
-    "[Reuters] EXCLUSIVE: US famine monitor to halt reporting as funding shortfall hits staff, sources say - Reuters - EXCLUSIVE: US famine monitor to halt reporting as funding shortfall hits staff, sources say&nbsp;&nbsp;Reuters",
-    "[Reuters] Airline Norse Atlantic says financial situation 'critical,' shares plunge - Reuters - Airline Norse Atlantic says financial situation 'critical,' shares plunge&nbsp;&nbsp;Reuters",
-    "[Reuters] Buy the stock dip? Options market signals say wait - Reuters - Buy the stock dip? Options market signals say wait&nbsp;&nbsp;Reuters",
-    "[Semis] Nasdaq 100 teeters on brink of bear market as Wall Street tech stocks fall further - Sky News - Nasdaq 100 teeters on brink of bear market as Wall Street tech stocks fall further&nbsp;&nbsp;Sky News",
-    "[Semis] Is the New York Stock Exchange open today? Thanksgiving trading hours - The Columbus Dispatch - Is the New York Stock Exchange open today? Thanksgiving trading hours&nbsp;&nbsp;The Columbus Dispatch"
+    "[Reuters] Turkey's capital markets catch cold from funds crisis - Reuters - Turkey's capital markets catch cold from funds crisis&nbsp;&nbsp;Reuters",
+    "[Reuters] US, Qatar to help Venezuela clear regional development bank arrears, sources say - Reuters - US, Qatar to help Venezuela clear regional development bank arrears, sources say&nbsp;&nbsp;Reuters",
+    "[Reuters] European stocks end higher on easing tariff fears, ECB leadership continuity - Reuters - European stocks end higher on easing tariff fears, ECB leadership continuity&nbsp;&nbsp;Reuters",
+    "[Reuters] Shares bounce after bruising month, dollar on course for third monthly gain - Reuters - Shares bounce after bruising month, dollar on course for third monthly gain&nbsp;&nbsp;Reuters",
+    "[Reuters] China to strengthen defense against imported risks in capital markets - Reuters - China to strengthen defense against imported risks in capital markets&nbsp;&nbsp;Reuters",
+    "[Reuters] VIEW China markets surge as Beijing unleashes national team - Reuters - VIEW China markets surge as Beijing unleashes national team&nbsp;&nbsp;Reuters",
+    "[Reuters] Morning Bid: Is this a dead turkey bounce? - Reuters - Morning Bid: Is this a dead turkey bounce?&nbsp;&nbsp;Reuters",
+    "[Reuters] Europe CEO sentiment hits two-year high, survey says - Reuters - Europe CEO sentiment hits two-year high, survey says&nbsp;&nbsp;Reuters",
+    "[Semis] Hawkish Fed poised to raise rates despite stock market turmoil - Financial Times - Hawkish Fed poised to raise rates despite stock market turmoil&nbsp;&nbsp;Financial Times",
+    "[Semis] Asian Stocks Rise for Second Day, Treasuries Slip: Markets Wrap - Bloomberg.com - Asian Stocks Rise for Second Day, Treasuries Slip: Markets Wrap&nbsp;&nbsp;Bloomberg.com"
   ],
   "debug_error": ""
 }
